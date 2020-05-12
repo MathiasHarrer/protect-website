@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Baum | Protect Lab</title>
+    <link>/author/k-baum/</link>
+      <atom:link href="/author/k-baum/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Baum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>K Baum</title>
+      <link>/author/k-baum/</link>
+    </image>
+    
+    <item>
+      <title>Online-Trainings zur Stressbewältigung-eine neue Chance zur Gesundheitsförderung im Lehrerberuf?</title>
+      <link>/publication/online-trainings-zur-stressbewaltigung-eine-neue-chance-zur-gesundheitsforderung-im-lehrerberuf-/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/online-trainings-zur-stressbewaltigung-eine-neue-chance-zur-gesundheitsforderung-im-lehrerberuf-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

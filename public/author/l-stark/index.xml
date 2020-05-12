@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Stark | Protect Lab</title>
+    <link>/author/l-stark/</link>
+      <atom:link href="/author/l-stark/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Stark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>L Stark</title>
+      <link>/author/l-stark/</link>
+    </image>
+    
+    <item>
+      <title>Web-based self-help with and without chat counseling to reduce cocaine use in cocaine misusers- Results of a three-arm randomized controlled trial</title>
+      <link>/publication/web-based-self-help-with-and-without-chat-counseling-to-reduce-cocaine-use-in-cocaine-misusers-results-of-a-three-arm-randomized-controlled-trial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/web-based-self-help-with-and-without-chat-counseling-to-reduce-cocaine-use-in-cocaine-misusers-results-of-a-three-arm-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

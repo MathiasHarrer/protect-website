@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Josefine | Protect Lab</title>
+    <link>/author/l-josefine/</link>
+      <atom:link href="/author/l-josefine/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Josefine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>L Josefine</title>
+      <link>/author/l-josefine/</link>
+    </image>
+    
+    <item>
+      <title>Internet-and mobile-based depression interventions for people with diagnosed depression- a systematic review and meta-analysis</title>
+      <link>/publication/internet-and-mobile-based-depression-interventions-for-people-with-diagnosed-depression-a-systematic-review-and-meta-analysis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/internet-and-mobile-based-depression-interventions-for-people-with-diagnosed-depression-a-systematic-review-and-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

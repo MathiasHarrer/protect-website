@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Grässle | Protect Lab</title>
+    <link>/author/c-grassle/</link>
+      <atom:link href="/author/c-grassle/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Grässle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>C Grässle</title>
+      <link>/author/c-grassle/</link>
+    </image>
+    
+    <item>
+      <title>Blended Psychotherapy–verzahnte Psychotherapie- Das Beste aus zwei Welten?</title>
+      <link>/publication/blended-psychotherapy-verzahnte-psychotherapie-das-beste-aus-zwei-welten-/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/blended-psychotherapy-verzahnte-psychotherapie-das-beste-aus-zwei-welten-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

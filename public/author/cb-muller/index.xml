@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CB Müller | Protect Lab</title>
+    <link>/author/cb-muller/</link>
+      <atom:link href="/author/cb-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>CB Müller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>CB Müller</title>
+      <link>/author/cb-muller/</link>
+    </image>
+    
+    <item>
+      <title>Book chapters</title>
+      <link>/publication/book-chapters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/book-chapters/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

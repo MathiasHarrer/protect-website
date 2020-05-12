@@ -1,0 +1,18 @@
+# Theme metadata
+name = "My Theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "rgb(42, 119, 146)"
+
+# Menu
+menu_primary = "rgb(255, 255, 255)"
+menu_text = "rgb(42, 119, 146)"
+menu_text_active = "rgb(205, 222, 153)"
+menu_title = "rgb(42, 119, 146)" # blue
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)" # blue
+home_section_even = "rgb(205, 222, 153)" # green

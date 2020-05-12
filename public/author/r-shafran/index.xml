@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Shafran | Protect Lab</title>
+    <link>/author/r-shafran/</link>
+      <atom:link href="/author/r-shafran/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Shafran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>R Shafran</title>
+      <link>/author/r-shafran/</link>
+    </image>
+    
+    <item>
+      <title>Targeting procrastination using psychological treatments- a systematic review and meta-analysis</title>
+      <link>/publication/targeting-procrastination-using-psychological-treatments-a-systematic-review-and-meta-analysis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/targeting-procrastination-using-psychological-treatments-a-systematic-review-and-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

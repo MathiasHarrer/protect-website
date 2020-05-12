@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ebert-lebenslaufs | Protect Lab</title>
+    <link>/ebert-lebenslauf/</link>
+      <atom:link href="/ebert-lebenslauf/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ebert-lebenslaufs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Ebert-lebenslaufs</title>
+      <link>/ebert-lebenslauf/</link>
+    </image>
+    
+    <item>
+      <title>Lebenslauf</title>
+      <link>/ebert-lebenslauf/ebert-lebenslauf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/ebert-lebenslauf/ebert-lebenslauf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

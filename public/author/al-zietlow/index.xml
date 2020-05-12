@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AL Zietlow | Protect Lab</title>
+    <link>/author/al-zietlow/</link>
+      <atom:link href="/author/al-zietlow/index.xml" rel="self" type="application/rss+xml" />
+    <description>AL Zietlow</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>AL Zietlow</title>
+      <link>/author/al-zietlow/</link>
+    </image>
+    
+    <item>
+      <title>Children of Mentally III Parents at Risk Evaluation (COMPARE)- Design and Methods of a Randomized Controlled Multicenter Study—Part I</title>
+      <link>/publication/children-of-mentally-iii-parents-at-risk-evaluation-compare-design-and-methods-of-a-randomized-controlled-multicenter-study-part-i/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/children-of-mentally-iii-parents-at-risk-evaluation-compare-design-and-methods-of-a-randomized-controlled-multicenter-study-part-i/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JA Tangen | Protect Lab</title>
+    <link>/author/ja-tangen/</link>
+      <atom:link href="/author/ja-tangen/index.xml" rel="self" type="application/rss+xml" />
+    <description>JA Tangen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>JA Tangen</title>
+      <link>/author/ja-tangen/</link>
+    </image>
+    
+    <item>
+      <title>Experiences of undergoing Internet-based cognitive behavior therapy for procrastination- A qualitative study</title>
+      <link>/publication/experiences-of-undergoing-internet-based-cognitive-behavior-therapy-for-procrastination-a-qualitative-study/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/experiences-of-undergoing-internet-based-cognitive-behavior-therapy-for-procrastination-a-qualitative-study/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

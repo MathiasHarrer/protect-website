@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Compare | Protect Lab</title>
+    <link>/author/a-compare/</link>
+      <atom:link href="/author/a-compare/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Compare</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>A Compare</title>
+      <link>/author/a-compare/</link>
+    </image>
+    
+    <item>
+      <title>Internet and mobile-based psychological interventions- Applications  efficacy and potential for improving mental health. A report of the EFPA E-Health Taskforce (vol 23  pg 167 </title>
+      <link>/publication/internet-and-mobile-based-psychological-interventions-applications-efficacy-and-potential-for-improving-mental-health-a-report-of-the-efpa-e-health-taskforce-vol-23-pg-167-/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/internet-and-mobile-based-psychological-interventions-applications-efficacy-and-potential-for-improving-mental-health-a-report-of-the-efpa-e-health-taskforce-vol-23-pg-167-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet-and mobile-based psychological interventions- applications  efficacy  and potential for improving mental health</title>
+      <link>/publication/internet-and-mobile-based-psychological-interventions-applications-efficacy-and-potential-for-improving-mental-health/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/internet-and-mobile-based-psychological-interventions-applications-efficacy-and-potential-for-improving-mental-health/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

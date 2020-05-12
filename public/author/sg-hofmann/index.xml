@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SG Hofmann | Protect Lab</title>
+    <link>/author/sg-hofmann/</link>
+      <atom:link href="/author/sg-hofmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>SG Hofmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>SG Hofmann</title>
+      <link>/author/sg-hofmann/</link>
+    </image>
+    
+    <item>
+      <title>Emotion regulation skills training enhances the efficacy of inpatient cognitive behavioral therapy for major depressive disorder- a randomized controlled trial</title>
+      <link>/publication/emotion-regulation-skills-training-enhances-the-efficacy-of-inpatient-cognitive-behavioral-therapy-for-major-depressive-disorder-a-randomized-controlled-trial/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/emotion-regulation-skills-training-enhances-the-efficacy-of-inpatient-cognitive-behavioral-therapy-for-major-depressive-disorder-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deficits in emotion-regulation skills predict alcohol use during and after cognitive–behavioral therapy for alcohol dependence.</title>
+      <link>/publication/deficits-in-emotion-regulation-skills-predict-alcohol-use-during-and-after-cognitive-behavioral-therapy-for-alcohol-dependence-/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/deficits-in-emotion-regulation-skills-predict-alcohol-use-during-and-after-cognitive-behavioral-therapy-for-alcohol-dependence-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

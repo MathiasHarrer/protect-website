@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RC Kessler | Protect Lab</title>
+    <link>/author/rc-kessler/</link>
+      <atom:link href="/author/rc-kessler/index.xml" rel="self" type="application/rss+xml" />
+    <description>RC Kessler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>RC Kessler</title>
+      <link>/author/rc-kessler/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of major depressive disorder onset in college students</title>
+      <link>/publication/prediction-of-major-depressive-disorder-onset-in-college-students/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/prediction-of-major-depressive-disorder-onset-in-college-students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using patient self-reports to study heterogeneity of treatment effects in major depressive disorder</title>
+      <link>/publication/using-patient-self-reports-to-study-heterogeneity-of-treatment-effects-in-major-depressive-disorder/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/using-patient-self-reports-to-study-heterogeneity-of-treatment-effects-in-major-depressive-disorder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing a machine-learning algorithm to predict the persistence and severity of major depressive disorder from baseline self-reports</title>
+      <link>/publication/testing-a-machine-learning-algorithm-to-predict-the-persistence-and-severity-of-major-depressive-disorder-from-baseline-self-reports/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/testing-a-machine-learning-algorithm-to-predict-the-persistence-and-severity-of-major-depressive-disorder-from-baseline-self-reports/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

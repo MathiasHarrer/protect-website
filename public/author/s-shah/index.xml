@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Shah | Protect Lab</title>
+    <link>/author/s-shah/</link>
+      <atom:link href="/author/s-shah/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Shah</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>S Shah</title>
+      <link>/author/s-shah/</link>
+    </image>
+    
+    <item>
+      <title>A tumor DNA complex aberration index is an independent predictor of survival in breast and ovarian cancer</title>
+      <link>/publication/a-tumor-dna-complex-aberration-index-is-an-independent-predictor-of-survival-in-breast-and-ovarian-cancer/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/a-tumor-dna-complex-aberration-index-is-an-independent-predictor-of-survival-in-breast-and-ovarian-cancer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

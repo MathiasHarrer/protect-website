@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W Van Ballegooijen | Protect Lab</title>
+    <link>/author/w-van-ballegooijen/</link>
+      <atom:link href="/author/w-van-ballegooijen/index.xml" rel="self" type="application/rss+xml" />
+    <description>W Van Ballegooijen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>W Van Ballegooijen</title>
+      <link>/author/w-van-ballegooijen/</link>
+    </image>
+    
+    <item>
+      <title>Reactivity to smartphone-based ecological momentary assessment of depressive symptoms (MoodMonitor)- protocol of a randomised controlled trial</title>
+      <link>/publication/reactivity-to-smartphone-based-ecological-momentary-assessment-of-depressive-symptoms-moodmonitor-protocol-of-a-randomised-controlled-trial/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/reactivity-to-smartphone-based-ecological-momentary-assessment-of-depressive-symptoms-moodmonitor-protocol-of-a-randomised-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Internet-based guided self-help intervention for panic symptoms- randomized controlled trial</title>
+      <link>/publication/an-internet-based-guided-self-help-intervention-for-panic-symptoms-randomized-controlled-trial/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/an-internet-based-guided-self-help-intervention-for-panic-symptoms-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

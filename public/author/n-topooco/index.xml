@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Topooco | Protect Lab</title>
+    <link>/author/n-topooco/</link>
+      <atom:link href="/author/n-topooco/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Topooco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>N Topooco</title>
+      <link>/author/n-topooco/</link>
+    </image>
+    
+    <item>
+      <title>Attitudes towards digital treatment for depression- a European stakeholder survey</title>
+      <link>/publication/attitudes-towards-digital-treatment-for-depression-a-european-stakeholder-survey/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/attitudes-towards-digital-treatment-for-depression-a-european-stakeholder-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>European COMPARative Effectiveness research on blended Depression treatment versus treatment-as-usual (E-COMPARED)- study protocol for a randomized controlled  non-inferiority </title>
+      <link>/publication/european-comparative-effectiveness-research-on-blended-depression-treatment-versus-treatment-as-usual-e-compared-study-protocol-for-a-randomized-controlled-non-inferiority-/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/european-comparative-effectiveness-research-on-blended-depression-treatment-versus-treatment-as-usual-e-compared-study-protocol-for-a-randomized-controlled-non-inferiority-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

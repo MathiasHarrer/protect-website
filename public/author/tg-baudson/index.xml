@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TG Baudson | Protect Lab</title>
+    <link>/author/tg-baudson/</link>
+      <atom:link href="/author/tg-baudson/index.xml" rel="self" type="application/rss+xml" />
+    <description>TG Baudson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>TG Baudson</title>
+      <link>/author/tg-baudson/</link>
+    </image>
+    
+    <item>
+      <title>Jasmina Burdzovic Andreas* and Geir S. Brunborg</title>
+      <link>/publication/jasmina-burdzovic-andreas-and-geir-s-brunborg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jasmina-burdzovic-andreas-and-geir-s-brunborg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AM Klein | Protect Lab</title>
+    <link>/author/am-klein/</link>
+      <atom:link href="/author/am-klein/index.xml" rel="self" type="application/rss+xml" />
+    <description>AM Klein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>AM Klein</title>
+      <link>/author/am-klein/</link>
+    </image>
+    
+    <item>
+      <title>Examining the effectiveness of a web-based intervention for symptoms of depression and anxiety in college students- study protocol of a randomised controlled trial</title>
+      <link>/publication/examining-the-effectiveness-of-a-web-based-intervention-for-symptoms-of-depression-and-anxiety-in-college-students-study-protocol-of-a-randomised-controlled-trial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/examining-the-effectiveness-of-a-web-based-intervention-for-symptoms-of-depression-and-anxiety-in-college-students-study-protocol-of-a-randomised-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

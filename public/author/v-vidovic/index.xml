@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V Vidović | Protect Lab</title>
+    <link>/author/v-vidovic/</link>
+      <atom:link href="/author/v-vidovic/index.xml" rel="self" type="application/rss+xml" />
+    <description>V Vidović</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>V Vidović</title>
+      <link>/author/v-vidovic/</link>
+    </image>
+    
+    <item>
+      <title>E-HEALTH- FROM DYSTOPIA TO UTOPIA. AN EFPA TF ON E-HEALTH PERSPECTIVE ON WHAT WE REQUIRE TO BETTER USE TECH AND IMPROVE CARE</title>
+      <link>/publication/e-health-from-dystopia-to-utopia-an-efpa-tf-on-e-health-perspective-on-what-we-require-to-better-use-tech-and-improve-care/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/e-health-from-dystopia-to-utopia-an-efpa-tf-on-e-health-perspective-on-what-we-require-to-better-use-tech-and-improve-care/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

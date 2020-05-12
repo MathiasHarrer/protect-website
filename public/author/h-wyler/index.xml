@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H Wyler | Protect Lab</title>
+    <link>/author/h-wyler/</link>
+      <atom:link href="/author/h-wyler/index.xml" rel="self" type="application/rss+xml" />
+    <description>H Wyler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>H Wyler</title>
+      <link>/author/h-wyler/</link>
+    </image>
+    
+    <item>
+      <title>Einsatz neuer Medien in der psychosomatischen Rehabilitation-Erste Ergebnisse einer Machbarkeitsstudie</title>
+      <link>/publication/einsatz-neuer-medien-in-der-psychosomatischen-rehabilitation-erste-ergebnisse-einer-machbarkeitsstudie/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/einsatz-neuer-medien-in-der-psychosomatischen-rehabilitation-erste-ergebnisse-einer-machbarkeitsstudie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

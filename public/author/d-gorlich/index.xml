@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Görlich | Protect Lab</title>
+    <link>/author/d-gorlich/</link>
+      <atom:link href="/author/d-gorlich/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Görlich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>D Görlich</title>
+      <link>/author/d-gorlich/</link>
+    </image>
+    
+    <item>
+      <title>Adherence reporting in randomized controlled trials examining manualized multisession online interventions- Systematic review of practices and proposal for reporting standards</title>
+      <link>/publication/adherence-reporting-in-randomized-controlled-trials-examining-manualized-multisession-online-interventions-systematic-review-of-practices-and-proposal-for-reporting-standards/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/adherence-reporting-in-randomized-controlled-trials-examining-manualized-multisession-online-interventions-systematic-review-of-practices-and-proposal-for-reporting-standards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the costs and cost-effectiveness of ICare internet-based interventions (protocol)</title>
+      <link>/publication/assessing-the-costs-and-cost-effectiveness-of-icare-internet-based-interventions-protocol-/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/assessing-the-costs-and-cost-effectiveness-of-icare-internet-based-interventions-protocol-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interrelations between participant and intervention characteristics  process variables and outcomes in online interventions- A protocol for overarching analyses within and </title>
+      <link>/publication/interrelations-between-participant-and-intervention-characteristics-process-variables-and-outcomes-in-online-interventions-a-protocol-for-overarching-analyses-within-and-/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/interrelations-between-participant-and-intervention-characteristics-process-variables-and-outcomes-in-online-interventions-a-protocol-for-overarching-analyses-within-and-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why didn’t patients use it? Engagement is the real story in Gilbody et al.(2015)  not effectiveness</title>
+      <link>/publication/why-didn-t-patients-use-it-engagement-is-the-real-story-in-gilbody-et-al-2015-not-effectiveness/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/why-didn-t-patients-use-it-engagement-is-the-real-story-in-gilbody-et-al-2015-not-effectiveness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

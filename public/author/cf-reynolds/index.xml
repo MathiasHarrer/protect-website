@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CF Reynolds | Protect Lab</title>
+    <link>/author/cf-reynolds/</link>
+      <atom:link href="/author/cf-reynolds/index.xml" rel="self" type="application/rss+xml" />
+    <description>CF Reynolds</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>CF Reynolds</title>
+      <link>/author/cf-reynolds/</link>
+    </image>
+    
+    <item>
+      <title>Indicated Prevention</title>
+      <link>/publication/indicated-prevention/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/indicated-prevention/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

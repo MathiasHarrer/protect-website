@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Amann | Protect Lab</title>
+    <link>/author/m-amann/</link>
+      <atom:link href="/author/m-amann/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Amann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>M Amann</title>
+      <link>/author/m-amann/</link>
+    </image>
+    
+    <item>
+      <title>The effects of social presence on adherence-focused guidance in problematic cannabis users- protocol for the CANreduce 2.0 randomized controlled trial</title>
+      <link>/publication/the-effects-of-social-presence-on-adherence-focused-guidance-in-problematic-cannabis-users-protocol-for-the-canreduce-2-0-randomized-controlled-trial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/the-effects-of-social-presence-on-adherence-focused-guidance-in-problematic-cannabis-users-protocol-for-the-canreduce-2-0-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

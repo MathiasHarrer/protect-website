@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Behrendt | Protect Lab</title>
+    <link>/author/d-behrendt/</link>
+      <atom:link href="/author/d-behrendt/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Behrendt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>D Behrendt</title>
+      <link>/author/d-behrendt/</link>
+    </image>
+    
+    <item>
+      <title>Efficacy of a Self-Help Web-Based Recovery Training in Improving Sleep in Workers- Randomized Controlled Trial in the General Working Population</title>
+      <link>/publication/efficacy-of-a-self-help-web-based-recovery-training-in-improving-sleep-in-workers-randomized-controlled-trial-in-the-general-working-population/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/efficacy-of-a-self-help-web-based-recovery-training-in-improving-sleep-in-workers-randomized-controlled-trial-in-the-general-working-population/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

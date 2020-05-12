@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SE Denmark | Protect Lab</title>
+    <link>/author/se-denmark/</link>
+      <atom:link href="/author/se-denmark/index.xml" rel="self" type="application/rss+xml" />
+    <description>SE Denmark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>SE Denmark</title>
+      <link>/author/se-denmark/</link>
+    </image>
+    
+    <item>
+      <title>Catalytic  nucleophilic allylation of aldehydes with 2-substituted allylic acetates- carbon–carbon bond formation driven by the water–gas shift reaction</title>
+      <link>/publication/catalytic-nucleophilic-allylation-of-aldehydes-with-2-substituted-allylic-acetates-carbon-carbon-bond-formation-driven-by-the-water-gas-shift-reaction/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/catalytic-nucleophilic-allylation-of-aldehydes-with-2-substituted-allylic-acetates-carbon-carbon-bond-formation-driven-by-the-water-gas-shift-reaction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S O&#39;Neill | Protect Lab</title>
+    <link>/author/s-oneill/</link>
+      <atom:link href="/author/s-oneill/index.xml" rel="self" type="application/rss+xml" />
+    <description>S O&#39;Neill</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>S O&#39;Neill</title>
+      <link>/author/s-oneill/</link>
+    </image>
+    
+    <item>
+      <title>Mental disorders among college students in the WHO World Mental Health Surveys</title>
+      <link>/publication/mental-disorders-among-college-students-in-the-who-world-mental-health-surveys/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/mental-disorders-among-college-students-in-the-who-world-mental-health-surveys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

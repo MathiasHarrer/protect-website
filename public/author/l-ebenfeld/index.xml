@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Ebenfeld | Protect Lab</title>
+    <link>/author/l-ebenfeld/</link>
+      <atom:link href="/author/l-ebenfeld/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Ebenfeld</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>L Ebenfeld</title>
+      <link>/author/l-ebenfeld/</link>
+    </image>
+    
+    <item>
+      <title>A mobile application for panic disorder and agoraphobia- Insights from a multi-methods feasibility study</title>
+      <link>/publication/a-mobile-application-for-panic-disorder-and-agoraphobia-insights-from-a-multi-methods-feasibility-study/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/a-mobile-application-for-panic-disorder-and-agoraphobia-insights-from-a-multi-methods-feasibility-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficacy of a hybrid online training for panic symptoms and agoraphobia- study protocol for a randomized controlled trial</title>
+      <link>/publication/efficacy-of-a-hybrid-online-training-for-panic-symptoms-and-agoraphobia-study-protocol-for-a-randomized-controlled-trial/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/efficacy-of-a-hybrid-online-training-for-panic-symptoms-and-agoraphobia-study-protocol-for-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kapitel 2- Entwicklung und Machbarkeitsstudie GET. ON Panik App</title>
+      <link>/publication/kapitel-2-entwicklung-und-machbarkeitsstudie-get-on-panik-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/kapitel-2-entwicklung-und-machbarkeitsstudie-get-on-panik-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kapitel 3- Studienprotokoll GET. ON Panik</title>
+      <link>/publication/kapitel-3-studienprotokoll-get-on-panik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/kapitel-3-studienprotokoll-get-on-panik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kapitel 4- Wirksamkeitsstudie GET. ON Panik</title>
+      <link>/publication/kapitel-4-wirksamkeitsstudie-get-on-panik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/kapitel-4-wirksamkeitsstudie-get-on-panik/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

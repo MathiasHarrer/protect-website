@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Sampson | Protect Lab</title>
+    <link>/author/n-sampson/</link>
+      <atom:link href="/author/n-sampson/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Sampson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>N Sampson</title>
+      <link>/author/n-sampson/</link>
+    </image>
+    
+    <item>
+      <title>Estimating treatment coverage for people with substance use disorders- an analysis of data from the World Mental Health Surveys</title>
+      <link>/publication/estimating-treatment-coverage-for-people-with-substance-use-disorders-an-analysis-of-data-from-the-world-mental-health-surveys/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/estimating-treatment-coverage-for-people-with-substance-use-disorders-an-analysis-of-data-from-the-world-mental-health-surveys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

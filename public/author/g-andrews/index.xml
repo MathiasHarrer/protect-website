@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G Andrews | Protect Lab</title>
+    <link>/author/g-andrews/</link>
+      <atom:link href="/author/g-andrews/index.xml" rel="self" type="application/rss+xml" />
+    <description>G Andrews</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>G Andrews</title>
+      <link>/author/g-andrews/</link>
+    </image>
+    
+    <item>
+      <title>Does Internet-based guided-self-help for depression cause harm? An individual participant data meta-analysis on deterioration rates and its moderators in randomized controlled </title>
+      <link>/publication/does-internet-based-guided-self-help-for-depression-cause-harm-an-individual-participant-data-meta-analysis-on-deterioration-rates-and-its-moderators-in-randomized-controlled-/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/does-internet-based-guided-self-help-for-depression-cause-harm-an-individual-participant-data-meta-analysis-on-deterioration-rates-and-its-moderators-in-randomized-controlled-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Wenger | Protect Lab</title>
+    <link>/author/a-wenger/</link>
+      <atom:link href="/author/a-wenger/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Wenger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>A Wenger</title>
+      <link>/author/a-wenger/</link>
+    </image>
+    
+    <item>
+      <title>Web-based self-help with and without chat counseling to reduce cocaine use in cocaine misusers- Results of a three-arm randomized controlled trial</title>
+      <link>/publication/web-based-self-help-with-and-without-chat-counseling-to-reduce-cocaine-use-in-cocaine-misusers-results-of-a-three-arm-randomized-controlled-trial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/web-based-self-help-with-and-without-chat-counseling-to-reduce-cocaine-use-in-cocaine-misusers-results-of-a-three-arm-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficacy of an Online Self-Help Treatment for Comorbid Alcohol Misuse and Emotional Problems in Young Adults- Protocol for a Randomized Controlled Trial</title>
+      <link>/publication/efficacy-of-an-online-self-help-treatment-for-comorbid-alcohol-misuse-and-emotional-problems-in-young-adults-protocol-for-a-randomized-controlled-trial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/efficacy-of-an-online-self-help-treatment-for-comorbid-alcohol-misuse-and-emotional-problems-in-young-adults-protocol-for-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of social presence on adherence-focused guidance in problematic cannabis users- protocol for the CANreduce 2.0 randomized controlled trial</title>
+      <link>/publication/the-effects-of-social-presence-on-adherence-focused-guidance-in-problematic-cannabis-users-protocol-for-the-canreduce-2-0-randomized-controlled-trial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/the-effects-of-social-presence-on-adherence-focused-guidance-in-problematic-cannabis-users-protocol-for-the-canreduce-2-0-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

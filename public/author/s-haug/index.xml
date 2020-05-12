@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Haug | Protect Lab</title>
+    <link>/author/s-haug/</link>
+      <atom:link href="/author/s-haug/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Haug</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>S Haug</title>
+      <link>/author/s-haug/</link>
+    </image>
+    
+    <item>
+      <title>Problematic smartphone use in young Swiss men- Its association with problematic substance use and risk factors derived from the pathway model</title>
+      <link>/publication/problematic-smartphone-use-in-young-swiss-men-its-association-with-problematic-substance-use-and-risk-factors-derived-from-the-pathway-model/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/problematic-smartphone-use-in-young-swiss-men-its-association-with-problematic-substance-use-and-risk-factors-derived-from-the-pathway-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of social presence on adherence-focused guidance in problematic cannabis users- protocol for the CANreduce 2.0 randomized controlled trial</title>
+      <link>/publication/the-effects-of-social-presence-on-adherence-focused-guidance-in-problematic-cannabis-users-protocol-for-the-canreduce-2-0-randomized-controlled-trial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/the-effects-of-social-presence-on-adherence-focused-guidance-in-problematic-cannabis-users-protocol-for-the-canreduce-2-0-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

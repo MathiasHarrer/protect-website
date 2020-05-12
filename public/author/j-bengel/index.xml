@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Bengel | Protect Lab</title>
+    <link>/author/j-bengel/</link>
+      <atom:link href="/author/j-bengel/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Bengel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>J Bengel</title>
+      <link>/author/j-bengel/</link>
+    </image>
+    
+    <item>
+      <title>Effectiveness and acceptance of a web-based depression intervention during waiting time for outpatient psychotherapy- study protocol for a randomized controlled trial</title>
+      <link>/publication/effectiveness-and-acceptance-of-a-web-based-depression-intervention-during-waiting-time-for-outpatient-psychotherapy-study-protocol-for-a-randomized-controlled-trial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/effectiveness-and-acceptance-of-a-web-based-depression-intervention-during-waiting-time-for-outpatient-psychotherapy-study-protocol-for-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness and cost-effectiveness of a guided internet-and mobile-based depression intervention for individuals with chronic back pain- protocol of a multi-centre randomised </title>
+      <link>/publication/effectiveness-and-cost-effectiveness-of-a-guided-internet-and-mobile-based-depression-intervention-for-individuals-with-chronic-back-pain-protocol-of-a-multi-centre-randomised-/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/effectiveness-and-cost-effectiveness-of-a-guided-internet-and-mobile-based-depression-intervention-for-individuals-with-chronic-back-pain-protocol-of-a-multi-centre-randomised-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F Weineck | Protect Lab</title>
+    <link>/author/f-weineck/</link>
+      <atom:link href="/author/f-weineck/index.xml" rel="self" type="application/rss+xml" />
+    <description>F Weineck</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>F Weineck</title>
+      <link>/author/f-weineck/</link>
+    </image>
+    
+    <item>
+      <title>Effectiveness of a guided online mindfulness-focused intervention in a student population- Study protocol for a randomised control trial</title>
+      <link>/publication/effectiveness-of-a-guided-online-mindfulness-focused-intervention-in-a-student-population-study-protocol-for-a-randomised-control-trial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/effectiveness-of-a-guided-online-mindfulness-focused-intervention-in-a-student-population-study-protocol-for-a-randomised-control-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

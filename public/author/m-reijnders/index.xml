@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Reijnders | Protect Lab</title>
+    <link>/author/m-reijnders/</link>
+      <atom:link href="/author/m-reijnders/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Reijnders</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>M Reijnders</title>
+      <link>/author/m-reijnders/</link>
+    </image>
+    
+    <item>
+      <title>Is psychotherapy effective? Pretending everything is fine will not help the field forward</title>
+      <link>/publication/is-psychotherapy-effective-pretending-everything-is-fine-will-not-help-the-field-forward/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/is-psychotherapy-effective-pretending-everything-is-fine-will-not-help-the-field-forward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Was Eysenck right after all? A reassessment of the effects of psychotherapy for adult depression</title>
+      <link>/publication/was-eysenck-right-after-all-a-reassessment-of-the-effects-of-psychotherapy-for-adult-depression/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/was-eysenck-right-after-all-a-reassessment-of-the-effects-of-psychotherapy-for-adult-depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Negative effects of psychotherapies for adult depression- a meta-analysis of deterioration rates</title>
+      <link>/publication/negative-effects-of-psychotherapies-for-adult-depression-a-meta-analysis-of-deterioration-rates/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/negative-effects-of-psychotherapies-for-adult-depression-a-meta-analysis-of-deterioration-rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology-assisted treatments for mental health problems in children and adolescents.</title>
+      <link>/publication/technology-assisted-treatments-for-mental-health-problems-in-children-and-adolescents-/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/technology-assisted-treatments-for-mental-health-problems-in-children-and-adolescents-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

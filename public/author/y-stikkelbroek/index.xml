@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y Stikkelbroek | Protect Lab</title>
+    <link>/author/y-stikkelbroek/</link>
+      <atom:link href="/author/y-stikkelbroek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y Stikkelbroek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Y Stikkelbroek</title>
+      <link>/author/y-stikkelbroek/</link>
+    </image>
+    
+    <item>
+      <title>Technology-assisted treatments for mental health problems in children and adolescents.</title>
+      <link>/publication/technology-assisted-treatments-for-mental-health-problems-in-children-and-adolescents-/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/technology-assisted-treatments-for-mental-health-problems-in-children-and-adolescents-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet and computer-based cognitive behavioral therapy for anxiety and depression in youth- a meta-analysis of randomized controlled outcome trials</title>
+      <link>/publication/internet-and-computer-based-cognitive-behavioral-therapy-for-anxiety-and-depression-in-youth-a-meta-analysis-of-randomized-controlled-outcome-trials/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/internet-and-computer-based-cognitive-behavioral-therapy-for-anxiety-and-depression-in-youth-a-meta-analysis-of-randomized-controlled-outcome-trials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

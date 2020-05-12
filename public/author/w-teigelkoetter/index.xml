@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W Teigelkoetter | Protect Lab</title>
+    <link>/author/w-teigelkoetter/</link>
+      <atom:link href="/author/w-teigelkoetter/index.xml" rel="self" type="application/rss+xml" />
+    <description>W Teigelkoetter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>W Teigelkoetter</title>
+      <link>/author/w-teigelkoetter/</link>
+    </image>
+    
+    <item>
+      <title>Economic evaluations of internet-and mobile-based interventions for the treatment and prevention of depression- a systematic review</title>
+      <link>/publication/economic-evaluations-of-internet-and-mobile-based-interventions-for-the-treatment-and-prevention-of-depression-a-systematic-review/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/economic-evaluations-of-internet-and-mobile-based-interventions-for-the-treatment-and-prevention-of-depression-a-systematic-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Zarski | Protect Lab</title>
+    <link>/author/a-zarski/</link>
+      <atom:link href="/author/a-zarski/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Zarski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>A Zarski</title>
+      <link>/author/a-zarski/</link>
+    </image>
+    
+    <item>
+      <title>An internet-based guided self-help intervention for vaginismus. Results of a randomised controlled proof-of-concept trial</title>
+      <link>/publication/an-internet-based-guided-self-help-intervention-for-vaginismus-results-of-a-randomised-controlled-proof-of-concept-trial/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/an-internet-based-guided-self-help-intervention-for-vaginismus-results-of-a-randomised-controlled-proof-of-concept-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

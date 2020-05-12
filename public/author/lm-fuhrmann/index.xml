@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LM Fuhrmann | Protect Lab</title>
+    <link>/author/lm-fuhrmann/</link>
+      <atom:link href="/author/lm-fuhrmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>LM Fuhrmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>LM Fuhrmann</title>
+      <link>/author/lm-fuhrmann/</link>
+    </image>
+    
+    <item>
+      <title>Standalone smartphone apps for mental health—a systematic review and meta-analysis</title>
+      <link>/publication/standalone-smartphone-apps-for-mental-health-a-systematic-review-and-meta-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/standalone-smartphone-apps-for-mental-health-a-systematic-review-and-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

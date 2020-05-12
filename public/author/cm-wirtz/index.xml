@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CM Wirtz | Protect Lab</title>
+    <link>/author/cm-wirtz/</link>
+      <atom:link href="/author/cm-wirtz/index.xml" rel="self" type="application/rss+xml" />
+    <description>CM Wirtz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>CM Wirtz</title>
+      <link>/author/cm-wirtz/</link>
+    </image>
+    
+    <item>
+      <title>Successful application of adaptive emotion regulation skills predicts the subsequent reduction of depressive symptom severity but neither the reduction of anxiety nor the </title>
+      <link>/publication/successful-application-of-adaptive-emotion-regulation-skills-predicts-the-subsequent-reduction-of-depressive-symptom-severity-but-neither-the-reduction-of-anxiety-nor-the-/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/successful-application-of-adaptive-emotion-regulation-skills-predicts-the-subsequent-reduction-of-depressive-symptom-severity-but-neither-the-reduction-of-anxiety-nor-the-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

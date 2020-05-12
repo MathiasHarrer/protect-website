@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Schulz | Protect Lab</title>
+    <link>/author/a-schulz/</link>
+      <atom:link href="/author/a-schulz/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Schulz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>A Schulz</title>
+      <link>/author/a-schulz/</link>
+    </image>
+    
+    <item>
+      <title>Efficacy and cost-effectiveness of an unguided  internet-based self-help intervention for social anxiety disorder in university students- protocol of a randomized controlled trial</title>
+      <link>/publication/efficacy-and-cost-effectiveness-of-an-unguided-internet-based-self-help-intervention-for-social-anxiety-disorder-in-university-students-protocol-of-a-randomized-controlled-trial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/efficacy-and-cost-effectiveness-of-an-unguided-internet-based-self-help-intervention-for-social-anxiety-disorder-in-university-students-protocol-of-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficacy of an unguided internet‐based self‐help intervention for social anxiety disorder in university students- A randomized controlled trial</title>
+      <link>/publication/efficacy-of-an-unguided-internet-based-self-help-intervention-for-social-anxiety-disorder-in-university-students-a-randomized-controlled-trial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/efficacy-of-an-unguided-internet-based-self-help-intervention-for-social-anxiety-disorder-in-university-students-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

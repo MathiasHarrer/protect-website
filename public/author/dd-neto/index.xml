@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DD Neto | Protect Lab</title>
+    <link>/author/dd-neto/</link>
+      <atom:link href="/author/dd-neto/index.xml" rel="self" type="application/rss+xml" />
+    <description>DD Neto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>DD Neto</title>
+      <link>/author/dd-neto/</link>
+    </image>
+    
+    <item>
+      <title>Best practices and recommendations for digital interventions to improve engagement and adherence in chronic illness sufferers</title>
+      <link>/publication/best-practices-and-recommendations-for-digital-interventions-to-improve-engagement-and-adherence-in-chronic-illness-sufferers/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/best-practices-and-recommendations-for-digital-interventions-to-improve-engagement-and-adherence-in-chronic-illness-sufferers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

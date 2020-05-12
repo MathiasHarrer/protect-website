@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V Egle | Protect Lab</title>
+    <link>/author/v-egle/</link>
+      <atom:link href="/author/v-egle/index.xml" rel="self" type="application/rss+xml" />
+    <description>V Egle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>V Egle</title>
+      <link>/author/v-egle/</link>
+    </image>
+    
+    <item>
+      <title>Blended Psychotherapy- Treatment Concept and Case Report for the Integration of Internet-and Mobile-Based Interventions into Brief Psychotherapy of Depressive Disorders</title>
+      <link>/publication/blended-psychotherapy-treatment-concept-and-case-report-for-the-integration-of-internet-and-mobile-based-interventions-into-brief-psychotherapy-of-depressive-disorders/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/blended-psychotherapy-treatment-concept-and-case-report-for-the-integration-of-internet-and-mobile-based-interventions-into-brief-psychotherapy-of-depressive-disorders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blended Psychotherapy–verzahnte Psychotherapie- Behandlungskonzept und Fallbericht zur Integration von Internet-und Mobil-basierten Interventionen in die Kurzzeittherapie von </title>
+      <link>/publication/blended-psychotherapy-verzahnte-psychotherapie-behandlungskonzept-und-fallbericht-zur-integration-von-internet-und-mobil-basierten-interventionen-in-die-kurzzeittherapie-von-/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/blended-psychotherapy-verzahnte-psychotherapie-behandlungskonzept-und-fallbericht-zur-integration-von-internet-und-mobil-basierten-interventionen-in-die-kurzzeittherapie-von-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

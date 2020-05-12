@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Rietz | Protect Lab</title>
+    <link>/author/c-rietz/</link>
+      <atom:link href="/author/c-rietz/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Rietz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>C Rietz</title>
+      <link>/author/c-rietz/</link>
+    </image>
+    
+    <item>
+      <title>Interformat reliability of the patient health questionnaire- Validation of the computerized version of the PHQ-9</title>
+      <link>/publication/interformat-reliability-of-the-patient-health-questionnaire-validation-of-the-computerized-version-of-the-phq-9/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/interformat-reliability-of-the-patient-health-questionnaire-validation-of-the-computerized-version-of-the-phq-9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

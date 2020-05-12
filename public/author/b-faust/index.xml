@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Faust | Protect Lab</title>
+    <link>/author/b-faust/</link>
+      <atom:link href="/author/b-faust/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Faust</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>B Faust</title>
+      <link>/author/b-faust/</link>
+    </image>
+    
+    <item>
+      <title>A Web-Based Acceptance-Facilitating Intervention for Identifying Patients Acceptance  Uptake  and Adherence of Internet-and Mobile-Based Pain Interventions- Randomized </title>
+      <link>/publication/a-web-based-acceptance-facilitating-intervention-for-identifying-patients-acceptance-uptake-and-adherence-of-internet-and-mobile-based-pain-interventions-randomized-/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/a-web-based-acceptance-facilitating-intervention-for-identifying-patients-acceptance-uptake-and-adherence-of-internet-and-mobile-based-pain-interventions-randomized-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

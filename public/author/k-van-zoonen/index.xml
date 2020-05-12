@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K van Zoonen | Protect Lab</title>
+    <link>/author/k-van-zoonen/</link>
+      <atom:link href="/author/k-van-zoonen/index.xml" rel="self" type="application/rss+xml" />
+    <description>K van Zoonen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>K van Zoonen</title>
+      <link>/author/k-van-zoonen/</link>
+    </image>
+    
+    <item>
+      <title>Are interventions for depression prevention effective? A meta-analysis</title>
+      <link>/publication/are-interventions-for-depression-prevention-effective-a-meta-analysis/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/are-interventions-for-depression-prevention-effective-a-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing the onset of major depressive disorder- a meta-analytic review of psychological interventions</title>
+      <link>/publication/preventing-the-onset-of-major-depressive-disorder-a-meta-analytic-review-of-psychological-interventions/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/preventing-the-onset-of-major-depressive-disorder-a-meta-analytic-review-of-psychological-interventions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

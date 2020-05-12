@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GJ Klingensmith | Protect Lab</title>
+    <link>/author/gj-klingensmith/</link>
+      <atom:link href="/author/gj-klingensmith/index.xml" rel="self" type="application/rss+xml" />
+    <description>GJ Klingensmith</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>GJ Klingensmith</title>
+      <link>/author/gj-klingensmith/</link>
+    </image>
+    
+    <item>
+      <title>Early hyperglycemia detected by continuous glucose monitoring in children at risk for type 1 diabetes</title>
+      <link>/publication/early-hyperglycemia-detected-by-continuous-glucose-monitoring-in-children-at-risk-for-type-1-diabetes/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/early-hyperglycemia-detected-by-continuous-glucose-monitoring-in-children-at-risk-for-type-1-diabetes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

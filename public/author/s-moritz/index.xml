@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Moritz | Protect Lab</title>
+    <link>/author/s-moritz/</link>
+      <atom:link href="/author/s-moritz/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Moritz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>S Moritz</title>
+      <link>/author/s-moritz/</link>
+    </image>
+    
+    <item>
+      <title>Digitalisierte Psychotherapie- Die Frage nach dem “Wie”</title>
+      <link>/publication/digitalisierte-psychotherapie-die-frage-nach-dem-wie-/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/digitalisierte-psychotherapie-die-frage-nach-dem-wie-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitized Psychotherapy- The Question of&#34; How&#34;</title>
+      <link>/publication/digitized-psychotherapy-the-question-of-how-/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/digitized-psychotherapy-the-question-of-how-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-Health</title>
+      <link>/publication/e-health/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/e-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Journal’s Appreciation</title>
+      <link>/publication/the-journal-s-appreciation/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/the-journal-s-appreciation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Becker | Protect Lab</title>
+    <link>/author/a-becker/</link>
+      <atom:link href="/author/a-becker/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Becker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>A Becker</title>
+      <link>/author/a-becker/</link>
+    </image>
+    
+    <item>
+      <title>Efficacy and cost-effectiveness of a web-based intervention with mobile phone support to treat depressive symptoms in adults with diabetes mellitus type 1 and type 2- design of </title>
+      <link>/publication/efficacy-and-cost-effectiveness-of-a-web-based-intervention-with-mobile-phone-support-to-treat-depressive-symptoms-in-adults-with-diabetes-mellitus-type-1-and-type-2-design-of-/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/efficacy-and-cost-effectiveness-of-a-web-based-intervention-with-mobile-phone-support-to-treat-depressive-symptoms-in-adults-with-diabetes-mellitus-type-1-and-type-2-design-of-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ein internetbasiertes programm zur pravention von depression bei diabetes mellitus typ 2 patienten-konzept und design einer randomisierten klinischen studie</title>
+      <link>/publication/ein-internetbasiertes-programm-zur-pravention-von-depression-bei-diabetes-mellitus-typ-2-patienten-konzept-und-design-einer-randomisierten-klinischen-studie/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/ein-internetbasiertes-programm-zur-pravention-von-depression-bei-diabetes-mellitus-typ-2-patienten-konzept-und-design-einer-randomisierten-klinischen-studie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web-based program for Prevention of Depression in Type 2 Diabetes Patients-Concept and design of a randomized clinical Trial</title>
+      <link>/publication/web-based-program-for-prevention-of-depression-in-type-2-diabetes-patients-concept-and-design-of-a-randomized-clinical-trial/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/web-based-program-for-prevention-of-depression-in-type-2-diabetes-patients-concept-and-design-of-a-randomized-clinical-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

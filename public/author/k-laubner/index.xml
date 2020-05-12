@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Laubner | Protect Lab</title>
+    <link>/author/k-laubner/</link>
+      <atom:link href="/author/k-laubner/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Laubner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>K Laubner</title>
+      <link>/author/k-laubner/</link>
+    </image>
+    
+    <item>
+      <title>Impact of an acceptance facilitating intervention on diabetes patients’ acceptance of Internet-based interventions for depression- a randomized controlled trial</title>
+      <link>/publication/impact-of-an-acceptance-facilitating-intervention-on-diabetes-patients-acceptance-of-internet-based-interventions-for-depression-a-randomized-controlled-trial/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/impact-of-an-acceptance-facilitating-intervention-on-diabetes-patients-acceptance-of-internet-based-interventions-for-depression-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

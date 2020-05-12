@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Leiding | Protect Lab</title>
+    <link>/author/d-leiding/</link>
+      <atom:link href="/author/d-leiding/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Leiding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>D Leiding</title>
+      <link>/author/d-leiding/</link>
+    </image>
+    
+    <item>
+      <title>A guided and unguided internet-and mobile-based intervention for chronic pain- health economic evaluation alongside a randomised controlled trial</title>
+      <link>/publication/a-guided-and-unguided-internet-and-mobile-based-intervention-for-chronic-pain-health-economic-evaluation-alongside-a-randomised-controlled-trial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/a-guided-and-unguided-internet-and-mobile-based-intervention-for-chronic-pain-health-economic-evaluation-alongside-a-randomised-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

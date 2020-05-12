@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Krings | Protect Lab</title>
+    <link>/author/l-krings/</link>
+      <atom:link href="/author/l-krings/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Krings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>L Krings</title>
+      <link>/author/l-krings/</link>
+    </image>
+    
+    <item>
+      <title>Internet-and app-based stress intervention for distance-learning students with depressive symptoms- protocol of a randomized controlled trial</title>
+      <link>/publication/internet-and-app-based-stress-intervention-for-distance-learning-students-with-depressive-symptoms-protocol-of-a-randomized-controlled-trial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/internet-and-app-based-stress-intervention-for-distance-learning-students-with-depressive-symptoms-protocol-of-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

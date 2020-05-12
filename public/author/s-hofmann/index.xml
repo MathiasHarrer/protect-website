@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Hofmann | Protect Lab</title>
+    <link>/author/s-hofmann/</link>
+      <atom:link href="/author/s-hofmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Hofmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>S Hofmann</title>
+      <link>/author/s-hofmann/</link>
+    </image>
+    
+    <item>
+      <title>Emotion regulation skills as a predictor of relapse during and after treatment of alcohol dependence</title>
+      <link>/publication/emotion-regulation-skills-as-a-predictor-of-relapse-during-and-after-treatment-of-alcohol-dependence/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/emotion-regulation-skills-as-a-predictor-of-relapse-during-and-after-treatment-of-alcohol-dependence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
