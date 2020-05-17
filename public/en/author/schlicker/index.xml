@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>schlicker | Protect Lab</title>
+    <link>/en/author/schlicker/</link>
+      <atom:link href="/en/author/schlicker/index.xml" rel="self" type="application/rss+xml" />
+    <description>schlicker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>schlicker</title>
+      <link>/en/author/schlicker/</link>
+    </image>
+    
+    <item>
+      <title>Dried Blood Spots</title>
+      <link>/en/project/dried-blood-spots/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/en/project/dried-blood-spots/</guid>
+      <description>&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Modification of biomarkers through an internet-based intervention for depression in back pain patients on sick leave.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Depression is a serious psychological condition that can have a devastating impact on patients, their family, friends and society. There is currently no laboratory test for this disorder, so patients often have to wait years for a diagnosis. During this time they do not receive the treatment and support they need. For this reason, we are developing a molecular test based on &amp;ldquo;Blood Spots&amp;rdquo; (i.e. dried drops of blood on filter paper). Such a test can provide an early and accurate diagnosis for patients with depression and help to get further assistance quickly. We measure the concentration of over 100 proteins in the dried blood drops. To do this, we use a technique called mass spectrometer analysis. The results of the study will be published.
+​&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;funding--cooperation&#34;&gt;Funding &amp;amp; Cooperation&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;banner.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

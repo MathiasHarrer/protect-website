@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A García-Palacios | Protect Lab</title>
+    <link>/author/a-garcia-palacios/</link>
+      <atom:link href="/author/a-garcia-palacios/index.xml" rel="self" type="application/rss+xml" />
+    <description>A García-Palacios</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>A García-Palacios</title>
+      <link>/author/a-garcia-palacios/</link>
+    </image>
+    
+    <item>
+      <title>An Internet based intervention for improving resilience and coping strategies in university students- Study protocol for a randomized controlled trial</title>
+      <link>/publication/an-internet-based-intervention-for-improving-resilience-and-coping-strategies-in-university-students-study-protocol-for-a-randomized-controlled-trial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/an-internet-based-intervention-for-improving-resilience-and-coping-strategies-in-university-students-study-protocol-for-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

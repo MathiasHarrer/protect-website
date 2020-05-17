@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Yap | Protect Lab</title>
+    <link>/en/author/j-yap/</link>
+      <atom:link href="/en/author/j-yap/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Yap</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>J Yap</title>
+      <link>/en/author/j-yap/</link>
+    </image>
+    
+    <item>
+      <title>Promoting and Protecting Mental Health- A Delphi Consensus Study for Actionable Public Mental Health Messages</title>
+      <link>/en/publication/promoting-and-protecting-mental-health-a-delphi-consensus-study-for-actionable-public-mental-health-messages/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/promoting-and-protecting-mental-health-a-delphi-consensus-study-for-actionable-public-mental-health-messages/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

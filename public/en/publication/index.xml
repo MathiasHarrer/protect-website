@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Protect Lab</title>
+    <link>/en/publication/</link>
+      <atom:link href="/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/books.jpg</url>
+      <title>Publications</title>
+      <link>/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>19.1 World Health Organization World Mental Health Surveys International College Student Project (WMH-ICS)- Prevalence and Distribution of Mental Disorders</title>
+      <link>/en/publication/19-1-world-health-organization-world-mental-health-surveys-international-college-student-project-wmh-ics-prevalence-and-distribution-of-mental-disorders/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/19-1-world-health-organization-world-mental-health-surveys-international-college-student-project-wmh-ics-prevalence-and-distribution-of-mental-disorders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>„Occupational eMental Health “in der Lehrergesundheit</title>
+      <link>/en/publication/-occupational-emental-health-in-der-lehrergesundheit/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/en/publication/-occupational-emental-health-in-der-lehrergesundheit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

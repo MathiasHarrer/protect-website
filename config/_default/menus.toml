@@ -7,16 +7,48 @@
 [[main]]
   name = "Lab"
   url = "#ueberuns"
+  identifier = "lab"
   weight = 20
+  
+[[main]]
+  name = "Prof. David Daniel Ebert"
+  url = "author/assoc.-prof.-dr.-david-daniel-ebert/"
+  parent = "lab"
+  weight = 20
+  
+[[main]]
+  name = "Team"
+  url = "team/"
+  parent = "lab"
+  weight = 21
+  
+[[main]]
+  name = "Kontakt"
+  url = "#contact"
+  parent = "lab"
+  weight = 22
 
 [[main]]
   name = "Forschung"
-  url = "#projects"
+  url = "research/"
+  identifier = "research"
   weight = 30
 
 [[main]]
+  name = "Übersicht"
+  url = "research/"
+  parent = "research"
+  weight = 31
+
+[[main]]
+  name = "Forschungsprojekte"
+  url = "research-projects/"
+  parent = "research"
+  weight = 32
+
+[[main]]
   name = "Publikationen"
-  url = "#publications"
+  url = "publication/"
   weight = 40
 
 [[main]]

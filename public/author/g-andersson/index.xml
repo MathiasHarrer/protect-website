@@ -5,7 +5,7 @@
     <link>/author/g-andersson/</link>
       <atom:link href="/author/g-andersson/index.xml" rel="self" type="application/rss+xml" />
     <description>G Andersson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>G Andersson</title>
@@ -81,6 +81,14 @@
       <link>/publication/effectiveness-of-an-online-based-acceptance-and-commitment-therapy-for-chronic-pain/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/effectiveness-of-an-online-based-acceptance-and-commitment-therapy-for-chronic-pain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus statement on defining and measuring negative effects of Internet interventions</title>
+      <link>/publication/consensus-statement-on-defining-and-measuring-negative-effects-of-internet-interventions/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/consensus-statement-on-defining-and-measuring-negative-effects-of-internet-interventions/</guid>
       <description></description>
     </item>
     

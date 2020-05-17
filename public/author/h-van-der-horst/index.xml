@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H van der Horst | Protect Lab</title>
+    <link>/author/h-van-der-horst/</link>
+      <atom:link href="/author/h-van-der-horst/index.xml" rel="self" type="application/rss+xml" />
+    <description>H van der Horst</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>H van der Horst</title>
+      <link>/author/h-van-der-horst/</link>
+    </image>
+    
+    <item>
+      <title>Front &amp; Back Matter</title>
+      <link>/publication/front-back-matter/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/front-back-matter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

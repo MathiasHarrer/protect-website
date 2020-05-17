@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Mira Pastor | Protect Lab</title>
+    <link>/en/author/a-mira-pastor/</link>
+      <atom:link href="/en/author/a-mira-pastor/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Mira Pastor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>A Mira Pastor</title>
+      <link>/en/author/a-mira-pastor/</link>
+    </image>
+    
+    <item>
+      <title>An Internet based intervention for improving resilience and coping strategies in university students- Study protocol for a randomized controlled trial</title>
+      <link>/en/publication/an-internet-based-intervention-for-improving-resilience-and-coping-strategies-in-university-students-study-protocol-for-a-randomized-controlled-trial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/an-internet-based-intervention-for-improving-resilience-and-coping-strategies-in-university-students-study-protocol-for-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

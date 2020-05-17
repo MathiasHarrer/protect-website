@@ -5,7 +5,7 @@
     <link>/author/a-rozental/</link>
       <atom:link href="/author/a-rozental/index.xml" rel="self" type="application/rss+xml" />
     <description>A Rozental</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>A Rozental</title>
@@ -33,6 +33,14 @@
       <link>/publication/experiences-of-undergoing-internet-based-cognitive-behavior-therapy-for-procrastination-a-qualitative-study/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/experiences-of-undergoing-internet-based-cognitive-behavior-therapy-for-procrastination-a-qualitative-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus statement on defining and measuring negative effects of Internet interventions</title>
+      <link>/publication/consensus-statement-on-defining-and-measuring-negative-effects-of-internet-interventions/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/consensus-statement-on-defining-and-measuring-negative-effects-of-internet-interventions/</guid>
       <description></description>
     </item>
     

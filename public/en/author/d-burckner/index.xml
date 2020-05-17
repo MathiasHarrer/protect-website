@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Bürckner | Protect Lab</title>
+    <link>/en/author/d-burckner/</link>
+      <atom:link href="/en/author/d-burckner/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Bürckner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>D Bürckner</title>
+      <link>/en/author/d-burckner/</link>
+    </image>
+    
+    <item>
+      <title>Ein internetbasiertes Programm für Personen mit Diabetes mellitus und komorbider Depression–Konzept und Design einer randomisierten klinischen Studie</title>
+      <link>/en/publication/ein-internetbasiertes-programm-fur-personen-mit-diabetes-mellitus-und-komorbider-depression-konzept-und-design-einer-randomisierten-klinischen-studie/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ein-internetbasiertes-programm-fur-personen-mit-diabetes-mellitus-und-komorbider-depression-konzept-und-design-einer-randomisierten-klinischen-studie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

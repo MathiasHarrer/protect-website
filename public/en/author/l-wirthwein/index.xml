@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Wirthwein | Protect Lab</title>
+    <link>/en/author/l-wirthwein/</link>
+      <atom:link href="/en/author/l-wirthwein/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Wirthwein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>L Wirthwein</title>
+      <link>/en/author/l-wirthwein/</link>
+    </image>
+    
+    <item>
+      <title>Children of Mentally III Parents at Risk Evaluation (COMPARE)- Design and Methods of a Randomized Controlled Multicenter Study—Part I</title>
+      <link>/en/publication/children-of-mentally-iii-parents-at-risk-evaluation-compare-design-and-methods-of-a-randomized-controlled-multicenter-study-part-i/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/children-of-mentally-iii-parents-at-risk-evaluation-compare-design-and-methods-of-a-randomized-controlled-multicenter-study-part-i/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

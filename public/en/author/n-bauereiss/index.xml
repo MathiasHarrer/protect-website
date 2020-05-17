@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Bauereiß | Protect Lab</title>
+    <link>/en/author/n-bauerei%C3%9F/</link>
+      <atom:link href="/en/author/n-bauerei%C3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Bauereiß</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>N Bauereiß</title>
+      <link>/en/author/n-bauerei%C3%9F/</link>
+    </image>
+    
+    <item>
+      <title>RANDOMIZED CONTROLLED FEASIBILITY TRIALS OF GUIDED PSYCHOLOGICAL INTERNET-INTERVENTIONS FOR PEOPLE LIVING WITH CHRONIC SOMATIC DISEASE</title>
+      <link>/en/publication/randomized-controlled-feasibility-trials-of-guided-psychological-internet-interventions-for-people-living-with-chronic-somatic-disease/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/randomized-controlled-feasibility-trials-of-guided-psychological-internet-interventions-for-people-living-with-chronic-somatic-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet-based interventions in chronic somatic disease</title>
+      <link>/en/publication/internet-based-interventions-in-chronic-somatic-disease/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/internet-based-interventions-in-chronic-somatic-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychologische E-Health Interventionen für Menschen mit chronischen Erkrankungen</title>
+      <link>/en/publication/psychologische-e-health-interventionen-fur-menschen-mit-chronischen-erkrankungen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/psychologische-e-health-interventionen-fur-menschen-mit-chronischen-erkrankungen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Übersichtsarbeit- Internetbasierte Interventionen bei chronischen körperlichen Erkrankungen</title>
+      <link>/en/publication/ubersichtsarbeit-internetbasierte-interventionen-bei-chronischen-korperlichen-erkrankungen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ubersichtsarbeit-internetbasierte-interventionen-bei-chronischen-korperlichen-erkrankungen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

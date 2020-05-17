@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams | Protect Lab</title>
+    <link>/team/</link>
+      <atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teams</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Teams</title>
+      <link>/team/</link>
+    </image>
+    
+    <item>
+      <title>Team</title>
+      <link>/team/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/team/header/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/team/filler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/team/filler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/team/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/team/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

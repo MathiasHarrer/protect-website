@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Boettcher | Protect Lab</title>
+    <link>/author/j-boettcher/</link>
+      <atom:link href="/author/j-boettcher/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Boettcher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>J Boettcher</title>
+      <link>/author/j-boettcher/</link>
+    </image>
+    
+    <item>
+      <title>Consensus statement on defining and measuring negative effects of Internet interventions</title>
+      <link>/publication/consensus-statement-on-defining-and-measuring-negative-effects-of-internet-interventions/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/consensus-statement-on-defining-and-measuring-negative-effects-of-internet-interventions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>laferton | Protect Lab</title>
+    <link>/author/laferton/</link>
+      <atom:link href="/author/laferton/index.xml" rel="self" type="application/rss+xml" />
+    <description>laferton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>laferton</title>
+      <link>/author/laferton/</link>
+    </image>
+    
+    <item>
+      <title>The effects of stress beliefs on daily affective stress responses</title>
+      <link>/publication/the-effects-of-stress-beliefs-on-daily-affective-stress-responses/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/the-effects-of-stress-beliefs-on-daily-affective-stress-responses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAN WE USE EXPECTATION EFFECTS TO IMPROVE OUTCOMES IN ORTHOPEDIC SURGERY? A META ANALYSIS AND INTERVENTION OUTLINE</title>
+      <link>/publication/can-we-use-expectation-effects-to-improve-outcomes-in-orthopedic-surgery-a-meta-analysis-and-intervention-outline/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/can-we-use-expectation-effects-to-improve-outcomes-in-orthopedic-surgery-a-meta-analysis-and-intervention-outline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restoring depleted resources- Efficacy and mechanisms of change of an internet-based unguided recovery training for better sleep and psychological detachment from work.</title>
+      <link>/publication/restoring-depleted-resources-efficacy-and-mechanisms-of-change-of-an-internet-based-unguided-recovery-training-for-better-sleep-and-psychological-detachment-from-work-/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/restoring-depleted-resources-efficacy-and-mechanisms-of-change-of-an-internet-based-unguided-recovery-training-for-better-sleep-and-psychological-detachment-from-work-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

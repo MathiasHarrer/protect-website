@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Furukawa | Protect Lab</title>
+    <link>/en/author/t-furukawa/</link>
+      <atom:link href="/en/author/t-furukawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>T Furukawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>T Furukawa</title>
+      <link>/en/author/t-furukawa/</link>
+    </image>
+    
+    <item>
+      <title>dmetar- Companion R Package For The Guide Doing Meta-Analysis in R</title>
+      <link>/en/publication/dmetar-companion-r-package-for-the-guide-doing-meta-analysis-in-r/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/dmetar-companion-r-package-for-the-guide-doing-meta-analysis-in-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doing Meta-Analysis in R- A Hands-On Guide</title>
+      <link>/en/publication/doing-meta-analysis-in-r-a-hands-on-guide/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/doing-meta-analysis-in-r-a-hands-on-guide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

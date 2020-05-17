@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Chevreul | Protect Lab</title>
+    <link>/en/author/k-chevreul/</link>
+      <atom:link href="/en/author/k-chevreul/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Chevreul</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>K Chevreul</title>
+      <link>/en/author/k-chevreul/</link>
+    </image>
+    
+    <item>
+      <title>Attitudes towards digital treatment for depression- a European stakeholder survey</title>
+      <link>/en/publication/attitudes-towards-digital-treatment-for-depression-a-european-stakeholder-survey/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/en/publication/attitudes-towards-digital-treatment-for-depression-a-european-stakeholder-survey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Pörtner | Protect Lab</title>
+    <link>/en/author/m-portner/</link>
+      <atom:link href="/en/author/m-portner/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Pörtner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>M Pörtner</title>
+      <link>/en/author/m-portner/</link>
+    </image>
+    
+    <item>
+      <title>Increasing the acceptance of internet-based mental health interventions in primary care patients with depressive symptoms. A randomized controlled trial</title>
+      <link>/en/publication/increasing-the-acceptance-of-internet-based-mental-health-interventions-in-primary-care-patients-with-depressive-symptoms-a-randomized-controlled-trial/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/en/publication/increasing-the-acceptance-of-internet-based-mental-health-interventions-in-primary-care-patients-with-depressive-symptoms-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

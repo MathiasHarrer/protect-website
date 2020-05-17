@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Vollert | Protect Lab</title>
+    <link>/en/author/b-vollert/</link>
+      <atom:link href="/en/author/b-vollert/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Vollert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>B Vollert</title>
+      <link>/en/author/b-vollert/</link>
+    </image>
+    
+    <item>
+      <title>Adherence reporting in randomized controlled trials examining manualized multisession online interventions- Systematic review of practices and proposal for reporting standards</title>
+      <link>/en/publication/adherence-reporting-in-randomized-controlled-trials-examining-manualized-multisession-online-interventions-systematic-review-of-practices-and-proposal-for-reporting-standards/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/adherence-reporting-in-randomized-controlled-trials-examining-manualized-multisession-online-interventions-systematic-review-of-practices-and-proposal-for-reporting-standards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

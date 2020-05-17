@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Apolinário-Hagen | Protect Lab</title>
+    <link>/en/author/j-apolinario-hagen/</link>
+      <atom:link href="/en/author/j-apolinario-hagen/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Apolinário-Hagen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>J Apolinário-Hagen</title>
+      <link>/en/author/j-apolinario-hagen/</link>
+    </image>
+    
+    <item>
+      <title>Digital Interventions for Mental Disorders- Key Features  Efficacy  and Potential for Artificial Intelligence Applications</title>
+      <link>/en/publication/digital-interventions-for-mental-disorders-key-features-efficacy-and-potential-for-artificial-intelligence-applications/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/digital-interventions-for-mental-disorders-key-features-efficacy-and-potential-for-artificial-intelligence-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public attitudes toward guided internet-based therapies- web-based survey study</title>
+      <link>/en/publication/public-attitudes-toward-guided-internet-based-therapies-web-based-survey-study/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/public-attitudes-toward-guided-internet-based-therapies-web-based-survey-study/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

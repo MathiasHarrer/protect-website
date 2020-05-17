@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Cai | Protect Lab</title>
+    <link>/en/author/t-cai/</link>
+      <atom:link href="/en/author/t-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>T Cai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>T Cai</title>
+      <link>/en/author/t-cai/</link>
+    </image>
+    
+    <item>
+      <title>Testing a machine-learning algorithm to predict the persistence and severity of major depressive disorder from baseline self-reports</title>
+      <link>/en/publication/testing-a-machine-learning-algorithm-to-predict-the-persistence-and-severity-of-major-depressive-disorder-from-baseline-self-reports/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/en/publication/testing-a-machine-learning-algorithm-to-predict-the-persistence-and-severity-of-major-depressive-disorder-from-baseline-self-reports/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

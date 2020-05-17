@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Munder | Protect Lab</title>
+    <link>/en/author/t-munder/</link>
+      <atom:link href="/en/author/t-munder/index.xml" rel="self" type="application/rss+xml" />
+    <description>T Munder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>T Munder</title>
+      <link>/en/author/t-munder/</link>
+    </image>
+    
+    <item>
+      <title>CAN WE USE EXPECTATION EFFECTS TO IMPROVE OUTCOMES IN ORTHOPEDIC SURGERY? A META ANALYSIS AND INTERVENTION OUTLINE</title>
+      <link>/en/publication/can-we-use-expectation-effects-to-improve-outcomes-in-orthopedic-surgery-a-meta-analysis-and-intervention-outline/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/can-we-use-expectation-effects-to-improve-outcomes-in-orthopedic-surgery-a-meta-analysis-and-intervention-outline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/author/j-lin/</link>
       <atom:link href="/author/j-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>J Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>J Lin</title>
@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>A Web-Based Acceptance-Facilitating Intervention for Identifying Patients Acceptance  Uptake  and Adherence of Internet-and Mobile-Based Pain Interventions- Randomized </title>
-      <link>/publication/a-web-based-acceptance-facilitating-intervention-for-identifying-patients-acceptance-uptake-and-adherence-of-internet-and-mobile-based-pain-interventions-randomized-/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/a-web-based-acceptance-facilitating-intervention-for-identifying-patients-acceptance-uptake-and-adherence-of-internet-and-mobile-based-pain-interventions-randomized-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Effectiveness of an Online Guided Self-Help Intervention for Prevention of Depression in Patients with Persistent Back Pain (PROD-BP)- A Pragmatic  Observer-Masked  Randomized </title>
       <link>/publication/effectiveness-of-an-online-guided-self-help-intervention-for-prevention-of-depression-in-patients-with-persistent-back-pain-prod-bp-a-pragmatic-observer-masked-randomized-/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -49,6 +41,14 @@
       <link>/publication/randomized-controlled-feasibility-trials-of-guided-psychological-internet-interventions-for-people-living-with-chronic-somatic-disease/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/randomized-controlled-feasibility-trials-of-guided-psychological-internet-interventions-for-people-living-with-chronic-somatic-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A web-based acceptance-facilitating intervention for identifying patients acceptance  uptake  and adherence of internet-and mobile-based pain interventions- randomized </title>
+      <link>/publication/a-web-based-acceptance-facilitating-intervention-for-identifying-patients-acceptance-uptake-and-adherence-of-internet-and-mobile-based-pain-interventions-randomized-/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/a-web-based-acceptance-facilitating-intervention-for-identifying-patients-acceptance-uptake-and-adherence-of-internet-and-mobile-based-pain-interventions-randomized-/</guid>
       <description></description>
     </item>
     

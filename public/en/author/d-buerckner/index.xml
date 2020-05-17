@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Buerckner | Protect Lab</title>
+    <link>/en/author/d-buerckner/</link>
+      <atom:link href="/en/author/d-buerckner/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Buerckner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>D Buerckner</title>
+      <link>/en/author/d-buerckner/</link>
+    </image>
+    
+    <item>
+      <title>Web-based program for Prevention of Depression in Type 2 Diabetes Patients-Concept and design of a randomized clinical Trial</title>
+      <link>/en/publication/web-based-program-for-prevention-of-depression-in-type-2-diabetes-patients-concept-and-design-of-a-randomized-clinical-trial/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/en/publication/web-based-program-for-prevention-of-depression-in-type-2-diabetes-patients-concept-and-design-of-a-randomized-clinical-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

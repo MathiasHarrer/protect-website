@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en-us" >
+<!DOCTYPE html><html lang="de" >
 
 <head>
 
@@ -30,7 +30,9 @@
   <meta name="description" content="Learn how to use Academic&#39;s docs layout for publishing online courses, software documentation, and tutorials.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/courses/example/">
+  <link rel="alternate" hreflang="en" href="/en/courses/example/">
+  
+  <link rel="alternate" hreflang="de" href="/courses/example/">
 
   
 
@@ -241,7 +243,7 @@
   <meta property="og:url" content="/courses/example/">
   <meta property="og:title" content="Overview | Protect Lab">
   <meta property="og:description" content="Learn how to use Academic&#39;s docs layout for publishing online courses, software documentation, and tutorials."><meta property="og:image" content="/images/logo.svg">
-  <meta property="twitter:image" content="/images/logo.svg"><meta property="og:locale" content="en-us">
+  <meta property="twitter:image" content="/images/logo.svg"><meta property="og:locale" content="de">
   
     <meta property="og:updated_time" content="2018-09-09T00:00:00&#43;00:00">
   
@@ -272,7 +274,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1>Search</h1>
+          <h1>Suche</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -281,7 +283,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Suche..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
@@ -319,7 +321,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Navigation einblenden">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -339,29 +341,34 @@
         
 
         
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Lab</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
             
-          
-          
+              <a class="dropdown-item" href="/author/assoc.-prof.-dr.-david-daniel-ebert/"><span>Prof. David Daniel Ebert</span></a>
+            
+              <a class="dropdown-item" href="/team/"><span>Team</span></a>
+            
+              <a class="dropdown-item" href="/#contact"><span>Kontakt</span></a>
+            
+          </div>
+        </li>
+
+        
         
 
-        <li class="nav-item">
-          <a class="nav-link " href="/#ueberuns"><span>Lab</span></a>
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Forschung</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/research/"><span>Übersicht</span></a>
+            
+              <a class="dropdown-item" href="/research-projects/"><span>Forschungsprojekte</span></a>
+            
+          </div>
         </li>
 
         
@@ -381,45 +388,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Forschung</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publikationen</span></a>
+          <a class="nav-link " href="/publication/"><span>Publikationen</span></a>
         </li>
 
         
@@ -492,6 +463,22 @@
       
 
       
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">Deutsch</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>Deutsch</span>
+          </div>
+          
+          <a class="dropdown-item" href="/en/courses/example/">
+            <span>English</span>
+          </a>
+          
+        </div>
+      </li>
+      
 
     </ul>
 
@@ -523,7 +510,7 @@
   </button>
 
   
-  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  <input name="q" type="search" class="form-control" placeholder="Suche..." autocomplete="off">
   
 </form>
 
@@ -539,23 +526,6 @@
 
   </div>
   
-  <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/courses/example/example1/">Example Topic</a>
-    <ul class="nav docs-sidenav">
-      
-      <li >
-        <a href="/courses/example/example1/">Tips 1-2</a>
-      </li>
-      
-      <li >
-        <a href="/courses/example/example2/">Tips 3-4</a>
-      </li>
-      
-    </ul>
-    
-
-  </div>
-  
   
 </nav>
 
@@ -564,7 +534,7 @@
     
     <div class="d-none d-xl-block col-xl-2 docs-toc">
       <ul class="nav toc-top">
-        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Auf dieser Seite</a></li>
       </ul>
 
       <nav id="TableOfContents">
@@ -634,7 +604,7 @@
         </div>
 
         <div class="body-footer">
-          <p>Last updated on Sep 9, 2018</p>
+          <p>Zuletzt aktualisiert am Sep 9, 2018</p>
 
           
 
@@ -647,7 +617,7 @@
 
 <p class="edit-page">
   <a href="https://github.com/gcushen/hugo-academic/edit/master/content/courses/example/_index.md">
-    <i class="fas fa-pen pr-2"></i>Edit this page
+    <i class="fas fa-pen pr-2"></i>Seite editieren
   </a>
 </p>
 
@@ -735,12 +705,12 @@
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const i18n = {"no_results":"Nichts gefunden","placeholder":"Suche...","results":"Suchergebnisse"};
       const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
+        'post': "Blog",
+        'project': "Projekte",
+        'publication' : "Publikationen",
+        'talk' : "Vorträge"
         };
     </script>
     
@@ -814,7 +784,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
+        <h5 class="modal-title">Zitieren</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -824,7 +794,7 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
+          <i class="fas fa-copy"></i> Kopie
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
           <i class="fas fa-download"></i> Download

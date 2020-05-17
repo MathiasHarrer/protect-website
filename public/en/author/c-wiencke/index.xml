@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Wiencke | Protect Lab</title>
+    <link>/en/author/c-wiencke/</link>
+      <atom:link href="/en/author/c-wiencke/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Wiencke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>C Wiencke</title>
+      <link>/en/author/c-wiencke/</link>
+    </image>
+    
+    <item>
+      <title>Internet-based approaches in prevention and treatment of depressive symptoms in adolescents and young adults</title>
+      <link>/en/publication/internet-based-approaches-in-prevention-and-treatment-of-depressive-symptoms-in-adolescents-and-young-adults/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/en/publication/internet-based-approaches-in-prevention-and-treatment-of-depressive-symptoms-in-adolescents-and-young-adults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internetbasierte Ansätze in der Prävention und Behandlung von depressiven Beschwerden bei Jugendlichen und jungen Erwachsenen</title>
+      <link>/en/publication/internetbasierte-ansatze-in-der-pravention-und-behandlung-von-depressiven-beschwerden-bei-jugendlichen-und-jungen-erwachsenen/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/en/publication/internetbasierte-ansatze-in-der-pravention-und-behandlung-von-depressiven-beschwerden-bei-jugendlichen-und-jungen-erwachsenen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/author/p-mortier/</link>
       <atom:link href="/author/p-mortier/index.xml" rel="self" type="application/rss+xml" />
     <description>P Mortier</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>P Mortier</title>
@@ -13,90 +13,10 @@
     </image>
     
     <item>
-      <title>Barriers of mental health treatment utilization among first‐year college students- First cross‐national results from the WHO World Mental Health International College Student </title>
-      <link>/publication/barriers-of-mental-health-treatment-utilization-among-first-year-college-students-first-cross-national-results-from-the-who-world-mental-health-international-college-student-/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/barriers-of-mental-health-treatment-utilization-among-first-year-college-students-first-cross-national-results-from-the-who-world-mental-health-international-college-student-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Increasing intentions to use mental health services among university students. Results of a pilot randomized controlled trial within the World Health Organizations World </title>
-      <link>/publication/increasing-intentions-to-use-mental-health-services-among-university-students-results-of-a-pilot-randomized-controlled-trial-within-the-world-health-organization-s-world-/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/increasing-intentions-to-use-mental-health-services-among-university-students-results-of-a-pilot-randomized-controlled-trial-within-the-world-health-organization-s-world-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lifetime and 12‐month treatment for mental disorders and suicidal thoughts and behaviors among first year college students</title>
-      <link>/publication/lifetime-and-12-month-treatment-for-mental-disorders-and-suicidal-thoughts-and-behaviors-among-first-year-college-students/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/lifetime-and-12-month-treatment-for-mental-disorders-and-suicidal-thoughts-and-behaviors-among-first-year-college-students/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mental disorder comorbidity and suicidal thoughts and behaviors in the World Health Organization world mental health surveys international college student initiative</title>
-      <link>/publication/mental-disorder-comorbidity-and-suicidal-thoughts-and-behaviors-in-the-world-health-organization-world-mental-health-surveys-international-college-student-initiative/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/mental-disorder-comorbidity-and-suicidal-thoughts-and-behaviors-in-the-world-health-organization-world-mental-health-surveys-international-college-student-initiative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction of major depressive disorder onset in college students</title>
-      <link>/publication/prediction-of-major-depressive-disorder-onset-in-college-students/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/prediction-of-major-depressive-disorder-onset-in-college-students/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The role impairment associated with mental disorder risk profiles in the WHO World Mental Health International College Student Initiative</title>
-      <link>/publication/the-role-impairment-associated-with-mental-disorder-risk-profiles-in-the-who-world-mental-health-international-college-student-initiative/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/the-role-impairment-associated-with-mental-disorder-risk-profiles-in-the-who-world-mental-health-international-college-student-initiative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>19.1 World Health Organization World Mental Health Surveys International College Student Project (WMH-ICS)- Prevalence and Distribution of Mental Disorders</title>
       <link>/publication/19-1-world-health-organization-world-mental-health-surveys-international-college-student-project-wmh-ics-prevalence-and-distribution-of-mental-disorders/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/19-1-world-health-organization-world-mental-health-surveys-international-college-student-project-wmh-ics-prevalence-and-distribution-of-mental-disorders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Severe role impairment associated with mental disorders- results of the WHO world mental health surveys international college student project</title>
-      <link>/publication/severe-role-impairment-associated-with-mental-disorders-results-of-the-who-world-mental-health-surveys-international-college-student-project/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/severe-role-impairment-associated-with-mental-disorders-results-of-the-who-world-mental-health-surveys-international-college-student-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Suicidal thoughts and behaviors among college students and same-aged peers- results from the World Health Organization World Mental Health Surveys</title>
-      <link>/publication/suicidal-thoughts-and-behaviors-among-college-students-and-same-aged-peers-results-from-the-world-health-organization-world-mental-health-surveys/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/suicidal-thoughts-and-behaviors-among-college-students-and-same-aged-peers-results-from-the-world-health-organization-world-mental-health-surveys/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Suicidal thoughts and behaviors among first-year college students- Results from the WMH-ICS project</title>
-      <link>/publication/suicidal-thoughts-and-behaviors-among-first-year-college-students-results-from-the-wmh-ics-project/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/suicidal-thoughts-and-behaviors-among-first-year-college-students-results-from-the-wmh-ics-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WHO World Mental Health Surveys International College Student Project- prevalence and distribution of mental disorders.</title>
-      <link>/publication/who-world-mental-health-surveys-international-college-student-project-prevalence-and-distribution-of-mental-disorders-/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/who-world-mental-health-surveys-international-college-student-project-prevalence-and-distribution-of-mental-disorders-/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAC Laferton | Protect Lab</title>
+    <link>/en/author/jac-laferton/</link>
+      <atom:link href="/en/author/jac-laferton/index.xml" rel="self" type="application/rss+xml" />
+    <description>JAC Laferton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>JAC Laferton</title>
+      <link>/en/author/jac-laferton/</link>
+    </image>
+    
+    <item>
+      <title>The effects of stress beliefs on daily affective stress responses</title>
+      <link>/en/publication/the-effects-of-stress-beliefs-on-daily-affective-stress-responses/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/the-effects-of-stress-beliefs-on-daily-affective-stress-responses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restoring depleted resources- Efficacy and mechanisms of change of an internet-based unguided recovery training for better sleep and psychological detachment from work.</title>
+      <link>/en/publication/restoring-depleted-resources-efficacy-and-mechanisms-of-change-of-an-internet-based-unguided-recovery-training-for-better-sleep-and-psychological-detachment-from-work-/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/en/publication/restoring-depleted-resources-efficacy-and-mechanisms-of-change-of-an-internet-based-unguided-recovery-training-for-better-sleep-and-psychological-detachment-from-work-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>/author/c-vis/</link>
       <atom:link href="/author/c-vis/index.xml" rel="self" type="application/rss+xml" />
     <description>C Vis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>C Vis</title>
       <link>/author/c-vis/</link>
     </image>
+    
+    <item>
+      <title>Dimensionality of the system usability scale among professionals using internet-based interventions for depression- a confirmatory factor analysis</title>
+      <link>/publication/dimensionality-of-the-system-usability-scale-among-professionals-using-internet-based-interventions-for-depression-a-confirmatory-factor-analysis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dimensionality-of-the-system-usability-scale-among-professionals-using-internet-based-interventions-for-depression-a-confirmatory-factor-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reliability and validity of assessing user satisfaction with web-based health interventions</title>

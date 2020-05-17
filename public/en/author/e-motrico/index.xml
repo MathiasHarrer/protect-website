@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Motrico | Protect Lab</title>
+    <link>/en/author/e-motrico/</link>
+      <atom:link href="/en/author/e-motrico/index.xml" rel="self" type="application/rss+xml" />
+    <description>E Motrico</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>E Motrico</title>
+      <link>/en/author/e-motrico/</link>
+    </image>
+    
+    <item>
+      <title>Moderators of psychological and psychoeducational interventions for the prevention of depression- A systematic review</title>
+      <link>/en/publication/moderators-of-psychological-and-psychoeducational-interventions-for-the-prevention-of-depression-a-systematic-review/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/moderators-of-psychological-and-psychoeducational-interventions-for-the-prevention-of-depression-a-systematic-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

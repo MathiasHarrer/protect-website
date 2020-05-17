@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Mildenberger | Protect Lab</title>
+    <link>/en/author/c-mildenberger/</link>
+      <atom:link href="/en/author/c-mildenberger/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Mildenberger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>C Mildenberger</title>
+      <link>/en/author/c-mildenberger/</link>
+    </image>
+    
+    <item>
+      <title>Internet-And Mobile-based Interventions for Adult Patients with Cancer-Results of Two Randomized Controlled Feasibility Trials</title>
+      <link>/en/publication/internet-and-mobile-based-interventions-for-adult-patients-with-cancer-results-of-two-randomized-controlled-feasibility-trials/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/internet-and-mobile-based-interventions-for-adult-patients-with-cancer-results-of-two-randomized-controlled-feasibility-trials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

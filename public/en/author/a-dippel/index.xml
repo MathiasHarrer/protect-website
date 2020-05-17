@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Dippel | Protect Lab</title>
+    <link>/en/author/a-dippel/</link>
+      <atom:link href="/en/author/a-dippel/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Dippel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>A Dippel</title>
+      <link>/en/author/a-dippel/</link>
+    </image>
+    
+    <item>
+      <title>W-RENA- Eine web-basierte Rehabilitationsnachsorge zur Transferförderung nach stationärer psychosomatischer Rehabilitation-Ergebnisse einer randomisierten klinischen Studie</title>
+      <link>/en/publication/w-rena-eine-web-basierte-rehabilitationsnachsorge-zur-transferforderung-nach-stationarer-psychosomatischer-rehabilitation-ergebnisse-einer-randomisierten-klinischen-studie/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/en/publication/w-rena-eine-web-basierte-rehabilitationsnachsorge-zur-transferforderung-nach-stationarer-psychosomatischer-rehabilitation-ergebnisse-einer-randomisierten-klinischen-studie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W-RENA- Eine webbasierte Rehabilitationsnachsorge zur Transferförderung nach stationärer psychosomatischer Rehabilitation–Konzept und erste Ergebnisse der Patientenbefragung</title>
+      <link>/en/publication/w-rena-eine-webbasierte-rehabilitationsnachsorge-zur-transferforderung-nach-stationarer-psychosomatischer-rehabilitation-konzept-und-erste-ergebnisse-der-patientenbefragung/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/en/publication/w-rena-eine-webbasierte-rehabilitationsnachsorge-zur-transferforderung-nach-stationarer-psychosomatischer-rehabilitation-konzept-und-erste-ergebnisse-der-patientenbefragung/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JMCF Salgado | Protect Lab</title>
+    <link>/en/author/jmcf-salgado/</link>
+      <atom:link href="/en/author/jmcf-salgado/index.xml" rel="self" type="application/rss+xml" />
+    <description>JMCF Salgado</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>JMCF Salgado</title>
+      <link>/en/author/jmcf-salgado/</link>
+    </image>
+    
+    <item>
+      <title>E-HEALTH- FROM DYSTOPIA TO UTOPIA. AN EFPA TF ON E-HEALTH PERSPECTIVE ON WHAT WE REQUIRE TO BETTER USE TECH AND IMPROVE CARE</title>
+      <link>/en/publication/e-health-from-dystopia-to-utopia-an-efpa-tf-on-e-health-perspective-on-what-we-require-to-better-use-tech-and-improve-care/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/e-health-from-dystopia-to-utopia-an-efpa-tf-on-e-health-perspective-on-what-we-require-to-better-use-tech-and-improve-care/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

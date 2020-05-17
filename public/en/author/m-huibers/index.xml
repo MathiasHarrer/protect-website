@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Huibers | Protect Lab</title>
+    <link>/en/author/m-huibers/</link>
+      <atom:link href="/en/author/m-huibers/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Huibers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>M Huibers</title>
+      <link>/en/author/m-huibers/</link>
+    </image>
+    
+    <item>
+      <title>How much psychotherapy is needed to treat depression? A metaregression analysis</title>
+      <link>/en/publication/how-much-psychotherapy-is-needed-to-treat-depression-a-metaregression-analysis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/en/publication/how-much-psychotherapy-is-needed-to-treat-depression-a-metaregression-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

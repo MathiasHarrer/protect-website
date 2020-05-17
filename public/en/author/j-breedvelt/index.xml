@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Breedvelt | Protect Lab</title>
+    <link>/en/author/j-breedvelt/</link>
+      <atom:link href="/en/author/j-breedvelt/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Breedvelt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>J Breedvelt</title>
+      <link>/en/author/j-breedvelt/</link>
+    </image>
+    
+    <item>
+      <title>Promoting and Protecting Mental Health- A Delphi Consensus Study for Actionable Public Mental Health Messages</title>
+      <link>/en/publication/promoting-and-protecting-mental-health-a-delphi-consensus-study-for-actionable-public-mental-health-messages/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/promoting-and-protecting-mental-health-a-delphi-consensus-study-for-actionable-public-mental-health-messages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of meditation  yoga and mindfulness on depression  anxiety and stress in tertiary education students- A meta-analysis</title>
+      <link>/en/publication/the-effects-of-meditation-yoga-and-mindfulness-on-depression-anxiety-and-stress-in-tertiary-education-students-a-meta-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/the-effects-of-meditation-yoga-and-mindfulness-on-depression-anxiety-and-stress-in-tertiary-education-students-a-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

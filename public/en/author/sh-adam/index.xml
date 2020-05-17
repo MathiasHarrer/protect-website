@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SH Adam | Protect Lab</title>
+    <link>/en/author/sh-adam/</link>
+      <atom:link href="/en/author/sh-adam/index.xml" rel="self" type="application/rss+xml" />
+    <description>SH Adam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>SH Adam</title>
+      <link>/en/author/sh-adam/</link>
+    </image>
+    
+    <item>
+      <title>Internet interventions for mental health in university students- A systematic review and meta‐analysis</title>
+      <link>/en/publication/internet-interventions-for-mental-health-in-university-students-a-systematic-review-and-meta-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/internet-interventions-for-mental-health-in-university-students-a-systematic-review-and-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevention of eating disorders at universities- A systematic review and meta‐analysis</title>
+      <link>/en/publication/prevention-of-eating-disorders-at-universities-a-systematic-review-and-meta-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/prevention-of-eating-disorders-at-universities-a-systematic-review-and-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of an internet-and app-based intervention for college students with elevated stress- randomized controlled trial</title>
+      <link>/en/publication/effectiveness-of-an-internet-and-app-based-intervention-for-college-students-with-elevated-stress-randomized-controlled-trial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/effectiveness-of-an-internet-and-app-based-intervention-for-college-students-with-elevated-stress-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of an Internet-and App-based intervention for college students with elevated stress- results of a randomized controlled trial</title>
+      <link>/en/publication/effectiveness-of-an-internet-and-app-based-intervention-for-college-students-with-elevated-stress-results-of-a-randomized-controlled-trial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/effectiveness-of-an-internet-and-app-based-intervention-for-college-students-with-elevated-stress-results-of-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

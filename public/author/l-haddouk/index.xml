@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Haddouk | Protect Lab</title>
+    <link>/author/l-haddouk/</link>
+      <atom:link href="/author/l-haddouk/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Haddouk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>L Haddouk</title>
+      <link>/author/l-haddouk/</link>
+    </image>
+    
+    <item>
+      <title>Recommendations for policy and practice of telepsychotherapy and e-mental health in Europe and beyond</title>
+      <link>/publication/recommendations-for-policy-and-practice-of-telepsychotherapy-and-e-mental-health-in-europe-and-beyond/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/recommendations-for-policy-and-practice-of-telepsychotherapy-and-e-mental-health-in-europe-and-beyond/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

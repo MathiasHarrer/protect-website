@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H Seifferth | Protect Lab</title>
+    <link>/en/author/h-seifferth/</link>
+      <atom:link href="/en/author/h-seifferth/index.xml" rel="self" type="application/rss+xml" />
+    <description>H Seifferth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>H Seifferth</title>
+      <link>/en/author/h-seifferth/</link>
+    </image>
+    
+    <item>
+      <title>Impact of an Acceptance Facilitating Intervention on Patients’ Acceptance of Internet-based Pain Interventions</title>
+      <link>/en/publication/impact-of-an-acceptance-facilitating-intervention-on-patients-acceptance-of-internet-based-pain-interventions/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/en/publication/impact-of-an-acceptance-facilitating-intervention-on-patients-acceptance-of-internet-based-pain-interventions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of an acceptance facilitating intervention on diabetes patients’ acceptance of Internet-based interventions for depression- a randomized controlled trial</title>
+      <link>/en/publication/impact-of-an-acceptance-facilitating-intervention-on-diabetes-patients-acceptance-of-internet-based-interventions-for-depression-a-randomized-controlled-trial/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/en/publication/impact-of-an-acceptance-facilitating-intervention-on-diabetes-patients-acceptance-of-internet-based-interventions-for-depression-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

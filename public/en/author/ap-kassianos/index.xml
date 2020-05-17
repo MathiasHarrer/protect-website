@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AP Kassianos | Protect Lab</title>
+    <link>/en/author/ap-kassianos/</link>
+      <atom:link href="/en/author/ap-kassianos/index.xml" rel="self" type="application/rss+xml" />
+    <description>AP Kassianos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>AP Kassianos</title>
+      <link>/en/author/ap-kassianos/</link>
+    </image>
+    
+    <item>
+      <title>Recommendations for policy and practice of telepsychotherapy and e-mental health in Europe and beyond</title>
+      <link>/en/publication/recommendations-for-policy-and-practice-of-telepsychotherapy-and-e-mental-health-in-europe-and-beyond/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/publication/recommendations-for-policy-and-practice-of-telepsychotherapy-and-e-mental-health-in-europe-and-beyond/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

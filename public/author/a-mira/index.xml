@@ -5,12 +5,20 @@
     <link>/author/a-mira/</link>
       <atom:link href="/author/a-mira/index.xml" rel="self" type="application/rss+xml" />
     <description>A Mira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>A Mira</title>
       <link>/author/a-mira/</link>
     </image>
+    
+    <item>
+      <title>An Internet based intervention for improving resilience and coping strategies in university students- Study protocol for a randomized controlled trial</title>
+      <link>/publication/an-internet-based-intervention-for-improving-resilience-and-coping-strategies-in-university-students-study-protocol-for-a-randomized-controlled-trial/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/an-internet-based-intervention-for-improving-resilience-and-coping-strategies-in-university-students-study-protocol-for-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effectiveness and treatment moderators of internet interventions for adult problem drinking- An individual patient data meta-analysis of 19 randomised controlled trials</title>

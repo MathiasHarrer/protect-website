@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RF Muñoz | Protect Lab</title>
+    <link>/en/author/rf-munoz/</link>
+      <atom:link href="/en/author/rf-munoz/index.xml" rel="self" type="application/rss+xml" />
+    <description>RF Muñoz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>RF Muñoz</title>
+      <link>/en/author/rf-munoz/</link>
+    </image>
+    
+    <item>
+      <title>Prevention of mental health disorders using internet-and mobile-based interventions- a narrative review and recommendations for future research</title>
+      <link>/en/publication/prevention-of-mental-health-disorders-using-internet-and-mobile-based-interventions-a-narrative-review-and-recommendations-for-future-research/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/en/publication/prevention-of-mental-health-disorders-using-internet-and-mobile-based-interventions-a-narrative-review-and-recommendations-for-future-research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
