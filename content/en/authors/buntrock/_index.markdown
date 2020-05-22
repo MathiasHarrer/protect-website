@@ -1,10 +1,10 @@
 ---
 authors:
 - Dr. Claudia Buntrock
-bio: 
+bio:
 education:
   courses:
-  - course: Promotion 
+  - course: Promotion
     institution: Vrije Universiteit Amsterdam & Leuphana Universität Lüneburg
     year: 2017
   - course: MSc Health Science Research, Spezialisierung Health Technology Assessment
@@ -33,9 +33,11 @@ social:
   link: https://www.researchgate.net/profile/Claudia_Buntrock
 - icon: file-pdf
   icon_pack: fas
-  link: /files/cv-buntrock.pdf
+  link: en/authors/dr.-claudia-buntrock/buntrock.pdf
 superuser: false
 title: Dr. Claudia Buntrock
+aliases:
+- /buntrock-en
 user_groups:
 - Staff
 ---
@@ -48,7 +50,7 @@ Dr. Claudia Buntrock studied European Public Health (BSc) at the University of M
 
 Apart from health economic intervention evaluation, Dr. Buntrock's research focuses on the prevention of depression through e-Mental-Health. In 2011, Dr. Buntrock began her PhD studies at the Leuphana University Lüneburg within an EU-funded project (Innovations-Inkubator, Kompetenz-Tandem GesundheitsTrainings.Online, GET.ON). As part of her binational PhD studies, she worked as scientific staffer at the clinical psychology deparment of the Vrije Universiteit Amsterdam (Netherlands, Prof. Dr. Pim Cuijpers, Prof. Dr. Heleen Riper). Dr. Buntrock finished her PhD studies with her successful dissertation on „Web-based Prevention of Major Depression“ (0,4; summa cum laude) in 2017.
 
-Dr. Buntrock's scientific work has been published in some of the highest-ranking journals of her field, e.g. *JAMA* (impact factor 47.7), or *Psychotherapy & Psychosomatics* (impact factor 13.2). Dr. Buntrock has presented her work at several international Conferences (ISRII Berlin, ESRII Dublin, GCDP Bergen). 
+Dr. Buntrock's scientific work has been published in some of the highest-ranking journals of her field, e.g. *JAMA* (impact factor 47.7), or *Psychotherapy & Psychosomatics* (impact factor 13.2). Dr. Buntrock has presented her work at several international Conferences (ISRII Berlin, ESRII Dublin, GCDP Bergen).
 
 The German Society for Social Medicine and Prevention (DGSMP) awarded its dissertation prize to Dr. Buntrock in 2018 (prize money: 1.000€). The German Psychological Society's (DGPS) Clinical Psychology and Psychotherapy Group awarded its young researcher award to Dr. Buntrock in 2017. Dr. Buntrock is Associate Editor of the peer-review journal Trials, and currently functions as Post-Doc at the ProtectLab of the Friedrich-Alexander-University Erlangen-Nuremberg.
 
@@ -70,7 +72,3 @@ The German Society for Social Medicine and Prevention (DGSMP) awarded its disser
 ### Research Metrics
 
 <img src="/en/authors/buntrock/_index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
-
-
-
-

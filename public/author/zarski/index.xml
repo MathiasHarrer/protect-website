@@ -5,7 +5,7 @@
     <link>/author/zarski/</link>
       <atom:link href="/author/zarski/index.xml" rel="self" type="application/rss+xml" />
     <description>zarski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>zarski</title>
@@ -13,163 +13,41 @@
     </image>
     
     <item>
-      <title>Design of a Guided Internet-and Mobile-Based Intervention for Internet Use Disorder—Study Protocol for a Two-Armed Randomized Controlled Trial</title>
-      <link>/publication/design-of-a-guided-internet-and-mobile-based-intervention-for-internet-use-disorder-study-protocol-for-a-two-armed-randomized-controlled-trial/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/design-of-a-guided-internet-and-mobile-based-intervention-for-internet-use-disorder-study-protocol-for-a-two-armed-randomized-controlled-trial/</guid>
-      <description></description>
+      <title>ICare Prevent</title>
+      <link>/project/icare-prevent/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/project/icare-prevent/</guid>
+      <description>&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;projektbeschreibung&#34;&gt;Projektbeschreibung&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Psychische Belastungen sind keine Seltenheit. Viele Menschen leiden unter anhaltender niedergeschlagener Stimmung, belastenden Sorgen oder Ängsten oder verspüren eine allgemeine Unzufriedenheit.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Das 7-wöchige Online-Training ICare Prevent gibt Hilfestellungen, um mit solchen Gefühlen umzugehen und bietet Hintergrundinformationen darüber, wie sie entstehen. Außerdem zielt das Training darauf ab, durch das systematische Trainieren hilfreicher und bewährter Strategien wie Problemlösen und Aktivitätenplanung zur Stärkung wichtiger Lebensbereiche im Alltag, das psychische Wohlbefinden zu stärken und psychische Beschwerden zu reduzieren.&lt;/p&gt;
+&lt;p&gt;​Das Online-Training ICare Prevent wird zurzeit im Rahmen einer multizentrischen Studie in Kooperation mit Universitäten in Deutschland, der Schweiz, den Niederlanden, Spanien und Österreich evaluiert.&lt;/p&gt;
+&lt;p&gt;ICare Prevent ist Teil des EU-geförderten Programmes Horizon 2020, welches sich als Ziel gesetzt hat, Online-Trainings zur Prävention und Behandlung psychischer Störungen zu entwickeln, zu implementieren und evaluieren, um somit bestehende Versorgungsstrukturen verbessern zu können, neue Zugangswege zu eröffnen und Implementationsbarrieren zu überwinden.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;mitarbeiter&#34;&gt;Mitarbeiter&lt;/h2&gt;
+&lt;p&gt;Unter der Leitung von Dr. David Ebert, Prof. Dr. Thomas Berger und PD Dr. Michael Schaub liegt ein Schwerpunkt unserer Forschungsarbeit am Lehrstuhl für Klinische Psychologie und Psychotherapie (KliPs) der Universität Erlangen-Nürnberg sowie an der Universität Bern und Zürich in der Entwicklung und wissenschaftlichen Untersuchung von Online-Programmen in verschiedenen Bereichen, wie beispielsweise Depressionen, Angststörungen, Stressmanagement, Schlafstörungen, Alkoholmissbrauch und Prokrastination.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;förderung--kooperation&#34;&gt;Förderung &amp;amp; Kooperation&lt;/h2&gt;
+&lt;p&gt;ICare Prevent ist ein Kooperationsprojekt im Rahmen des Projekts ICare – Integrating Technology into Mental Health Care Delivery in Europe. ICare Prevent erhielt im Rahmen des Horizon2020 Forschungs- und Innovationsprogramms der Europäischen Union eine Förderung (Grant agreement No 634757).&lt;/p&gt;
+&lt;p&gt;Das ICare-Projekt hat sich zum Ziel gesetzt, ein innovatives, umfassendes Versorgungsmodell zur Förderung psychischer Gesundheit in Europa zu etablieren. Es vereint evidenzbasierte Prävention, Früherkennung und Behandlung häufiger psychischer Störungen über eine gemeinsame Online-Plattform. So soll ICare in Zusammenarbeit mit etablierten Akteuren der Gesundheitsversorgung bestehende Angebote ergänzen oder in diese integriert werden, um langfristig Kosten zu vermeiden und zu reduzieren, die durch psychische Erkrankungen entstehen.&lt;/p&gt;
+&lt;p&gt;Die Projektpartner stammen aus insgesamt sechs europäischen Ländern (Deutschland, Österreich, Schweiz, Großbritannien, Niederlande, Spanien). Alle Projektpartner verfügen über langjährige Forschungserfahrung im Bereich E-Mental-Health. Gemeinsam können sie ein Portfolio von über 30 evidenzbasierten Online-Programmen zur Förderung psychischer Gesundheit und zur Prävention, Selbsthilfe, Behandlung und Nachsorge bei psychischen Erkrankungen vorweisen.&lt;/p&gt;
+&lt;p&gt;Weitere Informationen finden sich 
+&lt;a href=&#34;https://icareprevent.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;banner.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Adherence reporting in randomized controlled trials examining manualized multisession online interventions- Systematic review of practices and proposal for reporting standards</title>
-      <link>/publication/adherence-reporting-in-randomized-controlled-trials-examining-manualized-multisession-online-interventions-systematic-review-of-practices-and-proposal-for-reporting-standards/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/adherence-reporting-in-randomized-controlled-trials-examining-manualized-multisession-online-interventions-systematic-review-of-practices-and-proposal-for-reporting-standards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficacy and cost-effectiveness of guided and unguided internet-and mobile-based indicated transdiagnostic prevention of depression and anxiety (ICare Prevent)- A three-armed </title>
-      <link>/publication/efficacy-and-cost-effectiveness-of-guided-and-unguided-internet-and-mobile-based-indicated-transdiagnostic-prevention-of-depression-and-anxiety-icare-prevent-a-three-armed-/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/efficacy-and-cost-effectiveness-of-guided-and-unguided-internet-and-mobile-based-indicated-transdiagnostic-prevention-of-depression-and-anxiety-icare-prevent-a-three-armed-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presentation of an Internet-and video-based Aftercare to Stabilize inpatient Therapeutic Success in the Routine Care of depressed Patients</title>
-      <link>/publication/presentation-of-an-internet-and-video-based-aftercare-to-stabilize-inpatient-therapeutic-success-in-the-routine-care-of-depressed-patients/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/presentation-of-an-internet-and-video-based-aftercare-to-stabilize-inpatient-therapeutic-success-in-the-routine-care-of-depressed-patients/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vorstellung einer internet-und videobasierten Nachsorge zur Stabilisierung stationärer Therapieerfolge in der Routineversorgung von depressiv Erkrankten</title>
-      <link>/publication/vorstellung-einer-internet-und-videobasierten-nachsorge-zur-stabilisierung-stationarer-therapieerfolge-in-der-routineversorgung-von-depressiv-erkrankten/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/vorstellung-einer-internet-und-videobasierten-nachsorge-zur-stabilisierung-stationarer-therapieerfolge-in-der-routineversorgung-von-depressiv-erkrankten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effectiveness of a transdiagnostic individually tailored Internet-based and mobile-supported intervention for the indicated prevention of depression and anxiety (ICare Prevent </title>
-      <link>/publication/effectiveness-of-a-transdiagnostic-individually-tailored-internet-based-and-mobile-supported-intervention-for-the-indicated-prevention-of-depression-and-anxiety-icare-prevent-/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/effectiveness-of-a-transdiagnostic-individually-tailored-internet-based-and-mobile-supported-intervention-for-the-indicated-prevention-of-depression-and-anxiety-icare-prevent-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficacy of Internet-Based Guided treatment for Genito-Pelvic Pain/Penetration Disorder- rationale  treatment Protocol  and Design of a randomized controlled trial</title>
-      <link>/publication/efficacy-of-internet-based-guided-treatment-for-genito-pelvic-pain-penetration-disorder-rationale-treatment-protocol-and-design-of-a-randomized-controlled-trial/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/efficacy-of-internet-based-guided-treatment-for-genito-pelvic-pain-penetration-disorder-rationale-treatment-protocol-and-design-of-a-randomized-controlled-trial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet-Based Treatment for Genito-Pelvic Pain/Penetration Disorder- A Case Report</title>
-      <link>/publication/internet-based-treatment-for-genito-pelvic-pain-penetration-disorder-a-case-report/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/internet-based-treatment-for-genito-pelvic-pain-penetration-disorder-a-case-report/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patients experiences in a guided internet-and app-based stress intervention for college students- a qualitative study</title>
-      <link>/publication/patients-experiences-in-a-guided-internet-and-app-based-stress-intervention-for-college-students-a-qualitative-study/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/patients-experiences-in-a-guided-internet-and-app-based-stress-intervention-for-college-students-a-qualitative-study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Severely burdened individuals do not need to be excluded from internet-based and mobile-based stress management- effect modifiers of treatment outcomes from three randomized </title>
-      <link>/publication/severely-burdened-individuals-do-not-need-to-be-excluded-from-internet-based-and-mobile-based-stress-management-effect-modifiers-of-treatment-outcomes-from-three-randomized-/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/severely-burdened-individuals-do-not-need-to-be-excluded-from-internet-based-and-mobile-based-stress-management-effect-modifiers-of-treatment-outcomes-from-three-randomized-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transdiagnostic tailored internet-and Mobile-based guided treatment for major depressive disorder and comorbid anxiety- study protocol of a randomized controlled trial</title>
-      <link>/publication/transdiagnostic-tailored-internet-and-mobile-based-guided-treatment-for-major-depressive-disorder-and-comorbid-anxiety-study-protocol-of-a-randomized-controlled-trial/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/transdiagnostic-tailored-internet-and-mobile-based-guided-treatment-for-major-depressive-disorder-and-comorbid-anxiety-study-protocol-of-a-randomized-controlled-trial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Turning good intentions into actions by using the health action process approach to predict adherence to internet-based depression prevention- secondary analysis of a </title>
-      <link>/publication/turning-good-intentions-into-actions-by-using-the-health-action-process-approach-to-predict-adherence-to-internet-based-depression-prevention-secondary-analysis-of-a-/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/turning-good-intentions-into-actions-by-using-the-health-action-process-approach-to-predict-adherence-to-internet-based-depression-prevention-secondary-analysis-of-a-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wenn Geschlechtsverkehr nicht möglich ist- Vorstellung eines internetbasierten Behandlungsprogramms für Genito-Pelvine Schmerz-Penetrationsstörung mit Falldarstellung</title>
-      <link>/publication/wenn-geschlechtsverkehr-nicht-moglich-ist-vorstellung-eines-internetbasierten-behandlungsprogramms-fur-genito-pelvine-schmerz-penetrationsstorung-mit-falldarstellung/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wenn-geschlechtsverkehr-nicht-moglich-ist-vorstellung-eines-internetbasierten-behandlungsprogramms-fur-genito-pelvine-schmerz-penetrationsstorung-mit-falldarstellung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet-based guided self-help for vaginal penetration difficulties- results of a randomized controlled pilot trial</title>
-      <link>/publication/internet-based-guided-self-help-for-vaginal-penetration-difficulties-results-of-a-randomized-controlled-pilot-trial/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/internet-based-guided-self-help-for-vaginal-penetration-difficulties-results-of-a-randomized-controlled-pilot-trial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TABLE OF CONTENTSecontinued</title>
-      <link>/publication/table-of-contentsecontinued/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/table-of-contentsecontinued/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adherence to internet-based mobile-supported stress management- a pooled analysis of individual participant data from three randomized controlled trials</title>
-      <link>/publication/adherence-to-internet-based-mobile-supported-stress-management-a-pooled-analysis-of-individual-participant-data-from-three-randomized-controlled-trials/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/adherence-to-internet-based-mobile-supported-stress-management-a-pooled-analysis-of-individual-participant-data-from-three-randomized-controlled-trials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An internet-based guided self-help intervention for vaginismus. Results of a randomised controlled proof-of-concept trial</title>
-      <link>/publication/an-internet-based-guided-self-help-intervention-for-vaginismus-results-of-a-randomised-controlled-proof-of-concept-trial/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/an-internet-based-guided-self-help-intervention-for-vaginismus-results-of-a-randomised-controlled-proof-of-concept-trial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet-und mobilbasierte Interventionen zur Prävention und Behandlung psychischer Störungen</title>
-      <link>/publication/internet-und-mobilbasierte-interventionen-zur-pravention-und-behandlung-psychischer-storungen/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/internet-und-mobilbasierte-interventionen-zur-pravention-und-behandlung-psychischer-storungen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet and computer-based cognitive behavioral therapy for anxiety and depression in youth- a meta-analysis of randomized controlled outcome trials</title>
-      <link>/publication/internet-and-computer-based-cognitive-behavioral-therapy-for-anxiety-and-depression-in-youth-a-meta-analysis-of-randomized-controlled-outcome-trials/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/internet-and-computer-based-cognitive-behavioral-therapy-for-anxiety-and-depression-in-youth-a-meta-analysis-of-randomized-controlled-outcome-trials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficacy and cost-effectiveness of minimal guided and unguided internet-based mobile supported stress-management in employees with occupational stress- a three-armed randomised </title>
-      <link>/publication/efficacy-and-cost-effectiveness-of-minimal-guided-and-unguided-internet-based-mobile-supported-stress-management-in-employees-with-occupational-stress-a-three-armed-randomised-/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/efficacy-and-cost-effectiveness-of-minimal-guided-and-unguided-internet-based-mobile-supported-stress-management-in-employees-with-occupational-stress-a-three-armed-randomised-/</guid>
-      <description></description>
+      <title>Paivina-Care</title>
+      <link>/project/paivina-care/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/project/paivina-care/</guid>
+      <description>&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;projektbeschreibung&#34;&gt;Projektbeschreibung&lt;/h2&gt;
+&lt;p&gt;Paivina-Care ist ein onlinebasiertes Selbsthilfe-Training, das speziell auf die Bedürfnisse von Frauen mit Genito-Pelviner Schmerz-Penetrationsstörung (GPSPS) ausgerichtet ist. Das Training wird im Rahmen einer wissenschaftlichen Studie an der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) kostenfrei angeboten.&lt;/p&gt;
+&lt;p&gt;Die Genito-Pelvine Schmerz-Penetrationsstörung (GPSPS) ist auch bekannt unter den Namen Vaginismus oder Dyspareunie. Hierbei leiden Frauen unter Schwierigkeiten und Schmerzen beim vaginalen Einführen, sodass Geschlechtsverkehr für sie aufgrund dessen nicht mehr möglich ist.&lt;/p&gt;
+&lt;p&gt;​Bei der GPSPS handelt es sich um eine Zusammenführung von zwei verschiedenen Diagnosen im Bereich der weiblichen sexuellen Funktionsstörungen. Die neue Diagnose umfasst sowohl Symptome einer sexuellen Schmerzstörung (Dyspareunie) als auch Penetrationsstörung (Vaginismus).&lt;/p&gt;
+</description>
     </item>
     
   </channel>

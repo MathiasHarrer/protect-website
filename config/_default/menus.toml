@@ -9,19 +9,19 @@
   url = "#ueberuns"
   identifier = "lab"
   weight = 20
-  
+
 [[main]]
   name = "Prof. David Daniel Ebert"
   url = "author/assoc.-prof.-dr.-david-daniel-ebert/"
   parent = "lab"
   weight = 20
-  
+
 [[main]]
   name = "Team"
   url = "team/"
   parent = "lab"
   weight = 21
-  
+
 [[main]]
   name = "Kontakt"
   url = "#contact"
@@ -53,7 +53,7 @@
 
 [[main]]
   name = "Presse"
-  url = "courses/"
+  url = "press/"
   weight = 50
 
 [[main]]

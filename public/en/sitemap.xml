@@ -117,6 +117,21 @@
   </url>
   
   <url>
+    <loc>/en/tag/abgeschlossen/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tag/abgeschlossen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/abgeschlossen/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -128,6 +143,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/dr.-anna-carlotta-zarski/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/dr.-anna-carlotta-zarski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/dr.-anna-carlotta-zarski/"
                 />
   </url>
   
@@ -162,17 +207,47 @@
   </url>
   
   <url>
-    <loc>/en/author/freund/</loc>
+    <loc>/en/project/e-compared/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/author/freund/"
+                href="/project/e-compared/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/freund/"
+                href="/en/project/e-compared/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/get-back/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/project/get-back/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/get-back/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/icare-prevent/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/project/icare-prevent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/icare-prevent/"
                 />
   </url>
   
@@ -192,6 +267,66 @@
   </url>
   
   <url>
+    <loc>/en/author/ingrid-titzler-msc-diplkommwirt-pp/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/ingrid-titzler-msc-diplkommwirt-pp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/ingrid-titzler-msc-diplkommwirt-pp/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/janika-thielecke-msc/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/janika-thielecke-msc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/janika-thielecke-msc/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/johanna-freund-msc/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/johanna-freund-msc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/johanna-freund-msc/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/kiona-weisel-msc/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/kiona-weisel-msc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/kiona-weisel-msc/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/tag/laufend/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -203,6 +338,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tag/laufend/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/marvin-franke-msc/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/marvin-franke-msc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/marvin-franke-msc/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/paivina-care/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/project/paivina-care/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/paivina-care/"
                 />
   </url>
   
@@ -222,17 +387,17 @@
   </url>
   
   <url>
-    <loc>/en/author/schlicker/</loc>
+    <loc>/en/author/sandra-schlicker-diplpsych-pp/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/author/schlicker/"
+                href="/author/sandra-schlicker-diplpsych-pp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/schlicker/"
+                href="/en/author/sandra-schlicker-diplpsych-pp/"
                 />
   </url>
   
@@ -252,32 +417,17 @@
   </url>
   
   <url>
-    <loc>/en/author/thielecke/</loc>
+    <loc>/en/project/ward-bp/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/author/thielecke/"
+                href="/project/ward-bp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/thielecke/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/titzler/</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/titzler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/titzler/"
+                href="/en/project/ward-bp/"
                 />
   </url>
   
@@ -342,17 +492,17 @@
   </url>
   
   <url>
-    <loc>/en/author/franke/</loc>
+    <loc>/en/author/fanny-kahlke-med-mph/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/author/franke/"
+                href="/author/fanny-kahlke-med-mph/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/franke/"
+                href="/en/author/fanny-kahlke-med-mph/"
                 />
   </url>
   
@@ -372,21 +522,6 @@
   </url>
   
   <url>
-    <loc>/en/author/harrer/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/harrer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/harrer/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/project/implementall/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -402,17 +537,32 @@
   </url>
   
   <url>
-    <loc>/en/author/kaehlke/</loc>
+    <loc>/en/author/karina-saruhanjan-msc/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/author/kaehlke/"
+                href="/author/karina-saruhanjan-msc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/kaehlke/"
+                href="/en/author/karina-saruhanjan-msc/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/mathias-harrer-msc/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/mathias-harrer-msc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/mathias-harrer-msc/"
                 />
   </url>
   
@@ -443,21 +593,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/saruhanjan/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/saruhanjan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/saruhanjan/"
                 />
   </url>
   
@@ -991,6 +1126,62 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/team/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/anne-etzelmuller-diplpsych-pp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/anne-etzelmuller-diplpsych-pp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/anne-etzelmuller-diplpsych-pp/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/curriculum-vitae/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/curriculum-vitae/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/curriculum-vitae/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/dr.-johannes-a.c.-laferton/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/dr.-johannes-a.c.-laferton/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/dr.-johannes-a.c.-laferton/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/press/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/press/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/press/"
                 />
   </url>
   

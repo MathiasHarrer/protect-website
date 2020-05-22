@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: 
+bio:
 # education:
 #   courses:
 #   - course: Associate Professor
@@ -42,11 +42,11 @@ user_groups:
 ---
 
 
-David Daniel Ebert ist Associate Professor für Klinische Psychologie and der VU Universität Amsterdam und Leiter des Protect Lab. Herr Ebert ist zudem Co-Founder, Co-Geschäftsführer und Chief Scientific Officer von [HelloBetter](https://hellobetter.de), sowie Präsident der International Society for Research on Internet Interventions ([ISRII](http://isrii.org)).
+David Daniel Ebert ist Associate Professor für Klinische Psychologie an der VU Universität Amsterdam und Leiter des Protect Lab. Herr Ebert ist zudem Co-Founder, Co-Geschäftsführer und Chief Scientific Officer von [HelloBetter](https://hellobetter.de), sowie Präsident der International Society for Research on Internet Interventions ([ISRII](http://isrii.org)).
 
 Die Forschung von Herrn Ebert fokussiert auf die Entwicklung und Evaluation evidenz-basierter Internet- und mobil-basierter Gesundheitsinterventionen zur Förderung der psychischen Gesundheit  in unterschiedlichen Settings und Lebenswelten (Arbeit, Universität) mit einem besonderen Fokus auf die Prävention und Früh-Intervention psychischer Erkrankungen.
 
-Weiter Forschungsgebiete beziehen sich auf die gesundheitsökonomische Evaluation von psychologischen Interventionen sowie die Identifikation protektiver Faktoren für die psychische Gesundheit sowie die Entwicklung und Testung multivariater Modelle zur Vorhersage von psychosozialen Gesundheitsverläufen.
+Weitere Forschungsgebiete beziehen sich auf die gesundheitsökonomische Evaluation von psychologischen Interventionen sowie die Identifikation protektiver Faktoren für die psychische Gesundheit sowie die Entwicklung und Testung multivariater Modelle zur Vorhersage von psychosozialen Gesundheitsverläufen.
 
 <!DOCTYPE html>
 <html>
@@ -85,5 +85,3 @@ Weiter Forschungsgebiete beziehen sich auf die gesundheitsökonomische Evaluatio
 </div>
 </body>
 </html>
-
-

@@ -1,0 +1,142 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Dr. Anna-Carlotta Zarski"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Education
+
+ 
+
+* **Vocational training as psychological psychotherapist in Cognitive Behavioral Therapy**, 01/2016 – present, CIP Training Institute for Behavioral Therapy, Erlangen, Germany
+
+ 
+* **Postgraduate studies**, 06/2014 – present, Addressing Challenges in Internet Interventions for Mental Disorders: Studies on Age-Specific Efficacy, Adherence, and Undertreated Disorders, Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany \& Leuphana Universität Lüneburg, Lüneburg, Germany
+
+
+* **University diploma in Psychology**, 10/2008 – 09/2013, Philipps-Universität Marburg, Marburg, Germany
+
+ 
+* **A-levels**, 09/1999 – 06/2008, Humboldtgymnasium, Bad Homburg, Germany
+
+$~$ 
+ 
+## Lecturing
+
+$~$
+
+04/2018 – present
+
+**Seminar on Addictive Disorders**
+
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany
+
+
+$~$
+ 
+
+04/2017 – 10/2017
+
+**Seminar on Clinical Diagnostics in Practice I**
+
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany
+
+ 
+$~$
+
+10/2014 – 09/2016
+
+**Tutor for Study Progress Monitoring**
+
+Leuphana Universität Lüneburg, Lüneburg, Germany
+
+$~$
+ 
+
+## Research
+
+
+**Visiting researcher**
+
+01/2017 – 03/2017
+
+Under supervision of Prof. Dr. Sally Merry
+on Serious Gaming in internet interventions
+
+The University of Auckland, Department of Psychological Medicine,
+Auckland, New Zealand
+
+ 
+$~$
+
+**Research associate**
+
+09/2015 – present
+
+EU project Integrating Technology into Mental Health Care Delivery in Europe (ICare, Horizon2020): Development and evaluation of a transdiagnostic internet-based prevention program for anxiety and depression
+
+Department of Clinical Psychology and Psychotherapy,
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany
+
+
+$~$ 
+
+**EU project Innovation Incubator Health Trainings Online (GET.ON)**
+
+01/2014 – 07/2015
+
+Design and evaluation of two randomized controlled trials to evaluate an internet-based stress management intervention
+
+Leuphana Universität Lüneburg, Lüneburg, Germany
+
+ 
+$~$
+
+**Research assistant**
+
+10/2011 – 10/2013
+
+Project by the Federal Ministry of Education and Research (BMBF) on online-based aftercare of inpatient depression treatment
+
+Department of Clinical Psychology and Psychotherapy
+
+Philipps-Universität Marburg, Marburg, Germany
+
+
+$~$
+
+## Clinical Experience
+
+
+**Psychotherapist in training**
+
+05/2017 – present
+
+Hospital Nürnberg Nord, psychiatric treatment center for drug and alcohol addicts [Klinikum Nürnberg Nord], Nuremberg, Germany
+
+
+$~$
+
+**Clinical apprenticeship**
+
+03/2013 – 04/2013
+
+Habichtswald Clinic for Psychosomatics, Oncology & Internal Medicine [Habichtswald-Klinik], Kassel, Germany
+
+$~$
+
+08/2011 – 10/2011
+
+University Hospital Frankfurt for Psychiatry, Psychosomatics & Psychotherapy [Universitätsklinikum Frankfurt],
+Frankfurt am Main, Germany
+
+$~$
+
+08/2005
+
+Clinic Hohe Mark for Psychiatry, Psychotherapy & Psychosomatics
+[Klinik Hohe Mark], Oberursel, Germany

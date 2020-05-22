@@ -3,6 +3,8 @@ library(plyr)
 library(dplyr)
 library(stringr)
 library(rorcid)
+library(utils)
+
 Sys.setenv(ORCID_TOKEN = "Bearer d8fddf71-359a-44b2-87b8-5c139bc8dd3b")
 
 
@@ -207,6 +209,100 @@ for (i in 1:nrow(pubs)){
   sink()
 
 }
+
+# # # # # # # # # # # # # # # #
+#                             #
+#     Write press pages       #
+#                             #
+# # # # # # # # # # # # # # # #
+
+# German
+
+press = read.csv("press.csv")
+press = press[order(-press$Jahr),] # sort
+press$Link = as.character(press$Link)
+press$Static = as.character(press$Static)
+press$Title = as.character(press$Title) %>% 
+  trimws()
+
+sink("content/de/press/text.md")
+cat("+++", "\n")
+cat("widget = 'blank'", "\n")
+cat("weight = 120", "\n")
+cat(" ", "\n")
+cat("[design.spacing]", "\n")
+cat("padding = ['0px', '0', '0px', '100']", "\n")
+cat("+++", "\n")
+cat("\n")
+
+cat("**Über uns wurde unter Anderem berichtet in:**", "\n")
+
+cat("![](presse_logo.jpg)", "\n")
+cat("\n")
+
+cat("&nbsp;", "\n")
+cat("\n")
+
+for (i in 1:nrow(press)){
+  
+  if (press$Link[i] != ""){
+    link = press$Link[i]
+  } else {
+    link = paste0("/files/press/", press$Static[i])
+  }
+  
+  paste0("**", press$Title[i], ".**", " ",
+         str_replace_all(press$Beschreibung[i], "\\.", ""), ". ", 
+         "*", press$Quelle_Datum[i], "* ") %>% cat()
+  paste0("[↗](", link, ")") %>% cat()
+  cat("\n")
+  cat("\n")
+  
+}
+
+sink()
+
+
+# English
+
+press = press %>% filter(Lang == "en")
+
+sink("content/de/press/text.md")
+cat("+++", "\n")
+cat("widget = 'blank'", "\n")
+cat("weight = 120", "\n")
+cat(" ", "\n")
+cat("[design.spacing]", "\n")
+cat("padding = ['0px', '0', '0px', '100']", "\n")
+cat("+++", "\n")
+cat("\n")
+
+cat("**Über uns wurde unter Anderem berichtet in:**", "\n")
+
+cat("![](presse_logo.jpg)", "\n")
+cat("\n")
+
+cat("&nbsp;", "\n")
+cat("\n")
+
+for (i in 1:nrow(press)){
+  
+  if (press$Link[i] != ""){
+    link = press$Link[i]
+  } else {
+    link = paste0("/files/press/", press$Static[i])
+  }
+  
+  paste0("**", press$Title[i], ".**", " ",
+         str_replace_all(press$Beschreibung[i], "\\.", ""), ". ", 
+         "*", press$Quelle_Datum[i], "* ") %>% cat()
+  paste0("[↗](", link, ")") %>% cat()
+  cat("\n")
+  cat("\n")
+  
+}
+
+sink()
 
 
 

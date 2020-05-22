@@ -1,10 +1,10 @@
 ---
 authors:
 - Dr. Claudia Buntrock
-bio: 
+bio:
 education:
   courses:
-  - course: Promotion 
+  - course: Promotion
     institution: Vrije Universiteit Amsterdam & Leuphana Universität Lüneburg
     year: 2017
   - course: MSc Health Science Research, Spezialisierung Health Technology Assessment
@@ -33,9 +33,11 @@ social:
   link: https://www.researchgate.net/profile/Claudia_Buntrock
 - icon: file-pdf
   icon_pack: fas
-  link: /files/cv-buntrock.pdf
+  link: /author/dr.-claudia-buntrock/buntrock.pdf
 superuser: false
 title: Dr. Claudia Buntrock
+aliases:
+- /buntrock
 user_groups:
 - Mitarbeiter
 ---
@@ -48,7 +50,7 @@ Dr. Claudia Buntrock studierte von 2006 bis 2009 European Public Health (BSc) an
 
 Neben der gesundheitsökonomischen Evaluation von Interventionsansätzen liegen ihre Forschungsschwerpunkte bei der Prävention von Depression durch e-Mental-Health. Ab 2011 begann Fr. Dr. Buntrock ihr Promotionsstudium an der Leuphana Universität Lüneburg innerhalb eines EU-geförderten Projekts (Innovations-Inkubator, Kompetenz-Tandem GesundheitsTrainings.Online, GET.ON). Als Teil ihrer binationalen Promotions war sie ebenfalls 2015 Mitarbeiterin des Departments für Klinische Psychologie an der Vrije Universiteit Amsterdam (Niederlande, Prof. Dr. Pim Cuijpers, Prof. Dr. Heleen Riper). Im Jahr 2017 hat Frau Dr. Buntrock ihre Promotion zum Thema „Web-based Prevention of Major Depression“ erfolgreich abgeschlossen (Note: 0,4; summa cum laude).
 
-Dr. Buntrock hat ihre Forschungsarbeiten in hochrangigen Journals wie JAMA (impact factor: 47.7) und Psychotherapy & Psychosomatics (impact factor: 13.2) veröffentlicht und ihre Arbeit auf internationalen Fachtagungen vorgestellt (ISRII Berlin, ESRII Dublin, GCDP Bergen). 
+Dr. Buntrock hat ihre Forschungsarbeiten in hochrangigen Journals wie JAMA (impact factor: 47.7) und Psychotherapy & Psychosomatics (impact factor: 13.2) veröffentlicht und ihre Arbeit auf internationalen Fachtagungen vorgestellt (ISRII Berlin, ESRII Dublin, GCDP Bergen).
 
 Die Deutsche Gesellschaft für Sozialmedizin und Prävention (DGSMP) hat Frau Dr. Buntrock 2018 mit ihrem mit 1,000€ dotierten Dissertationspreis ausgezeichnet. Die Fachgruppe für Klinische Psychologie und Psychotherapie der Deutschen Gesellschaft für Psychologie (DGPs) hat 2017 Dr. Buntrock mit ihrem renommierten Förderpreis für den wissenschaftlichen Nachwuchs ausgezeichnet. Dr. Buntrock ist zudem Associate Editor des Journals Trials und ist derzeit als Post-Doc-Forscherin des Proctect Lab und wissenschaftliche Mitarbeiterin an der FAU Erlangen-Nürnberg tätig.
 
@@ -69,8 +71,4 @@ Die Deutsche Gesellschaft für Sozialmedizin und Prävention (DGSMP) hat Frau Dr
 
 ### Forschungsmetriken
 
-<img src="/authors/buntrock/_index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
-
-
-
-
+<img src="/de/authors/buntrock/_index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
