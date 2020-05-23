@@ -9,9 +9,9 @@ title = "Über Uns"
 subtitle = ""
 +++
 
-Das Protect Lab ist eine interdisziplinäre Forschungseinheit unter Leitung von Assoc. Prof. Dr. David Daniel Ebert. Schwerpunkt des Labs ist die Entwicklung, wissenschaftliche Evaluation und Bereitstellung von Behavioral Health Technology-Interventionen zur Förderung der Gesundheit, mit einem besonderen Fokus auf psychische Erkrankungen. 
+Das Protect Lab ist eine interdisziplinäre Forschungseinheit unter Leitung von Assoc. Prof. Dr. David Daniel Ebert. Schwerpunkt des Labs ist die Entwicklung, wissenschaftliche Evaluation und Bereitstellung von Behavioral Health Technology-Interventionen zur Förderung der Gesundheit, mit einem besonderen Fokus auf psychische Erkrankungen.
 
-Das ProtectLab ist mit dem Lehrstuhl für Klinische Psychologie und Psychotherapie der FAU Erlangen-Nürnberg assoziiert und arbeitet in enger Zusammenarbeit mit einem Kooperations-cluster aus nationalen und internationalen Forschungsinstituten, Leistungserbringern, Leistungsträgern und Public-Policy-Vertretern.
+Das ProtectLab ist mit dem Lehrstuhl für Klinische Psychologie und Psychotherapie der FAU Erlangen-Nürnberg assoziiert und arbeitet in enger Zusammenarbeit mit einem Kooperationscluster aus nationalen und internationalen Forschungsinstituten, Leistungserbringern, Leistungsträgern und Public-Policy-Vertretern.
 
 <!DOCTYPE html>
 <html>
@@ -44,11 +44,3 @@ Das ProtectLab ist mit dem Lehrstuhl für Klinische Psychologie und Psychotherap
 </div>
 </body>
 </html>
-
-
-
-
-
-
-
-

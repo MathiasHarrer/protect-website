@@ -2,6 +2,10 @@
 header:
   caption: ""
   image: ""
-title: Recent & Upcoming Talks
+title: Ausschreibungen
 view: 2
 ---
+
+Aktuelle Ausschreibungen werden hier angezeigt.
+
+<br></br>

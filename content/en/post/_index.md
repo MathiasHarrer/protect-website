@@ -2,8 +2,8 @@
 header:
   caption: ""
   image: ""
-title: Neuigkeiten
+title: News
 view: 2
 ---
 
-Hello World!
+<br></br>

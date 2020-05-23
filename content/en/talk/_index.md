@@ -2,6 +2,10 @@
 header:
   caption: ""
   image: ""
-title: Recent & Upcoming Talks
+title: Job Positions
 view: 2
 ---
+
+Current job positions are shown here.
+
+<br></br>

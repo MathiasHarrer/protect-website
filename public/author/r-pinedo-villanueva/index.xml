@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Pinedo Villanueva | Protect Lab</title>
+    <link>/author/r-pinedo-villanueva/</link>
+      <atom:link href="/author/r-pinedo-villanueva/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Pinedo Villanueva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>R Pinedo Villanueva</title>
+      <link>/author/r-pinedo-villanueva/</link>
+    </image>
+    
+    <item>
+      <title>Cost-effective personalised treatment recommendations- An example of depression treatments</title>
+      <link>/publication/cost-effective-personalised-treatment-recommendations-an-example-of-depression-treatments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/cost-effective-personalised-treatment-recommendations-an-example-of-depression-treatments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

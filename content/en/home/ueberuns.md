@@ -5,13 +5,13 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Über Uns"
+title = "About Us"
 subtitle = ""
 +++
 
-Das Protect Lab ist eine interdisziplinäre Forschungseinheit unter Leitung von Assoc. Prof. Dr. David Daniel Ebert. Schwerpunkt des Labs ist die Entwicklung, wissenschaftliche Evaluation und Bereitstellung von Behavioral Health Technology-Interventionen zur Förderung der Gesundheit, mit einem besonderen Fokus auf psychische Erkrankungen. 
+The Protect Lab is an interdisciplinary research unit headed by  Assoc. Prof. David Daniel Ebert. We focus on the development, scientific evaluation and implementation of Behavioral Health Technology interventions to promote public health, with a special focus on mental illness.
 
-Das ProtectLab ist mit dem Lehrstuhl für Klinische Psychologie und Psychotherapie der FAU Erlangen-Nürnberg assoziiert und arbeitet in enger Zusammenarbeit mit einem Kooperations-cluster aus nationalen und internationalen Forschungsinstituten, Leistungserbringern, Leistungsträgern und Public-Policy-Vertretern.
+The ProtectLab is associated with the Friedrich-Alexander-University Erlangen-Nuremberg's Department of Clinical Psychology and Psychotherapy and works in close cooperation with a cluster of national and international research institutes, service providers,  and public policy representatives.
 
 <!DOCTYPE html>
 <html>
@@ -38,17 +38,9 @@ Das ProtectLab ist mit dem Lehrstuhl für Klinische Psychologie und Psychotherap
 
 <div style="display: flex;">
 <form>
-<input class="btn" type="button" value="Unser Team" onclick="window.location.href='/team'" />
+<input class="btn" type="button" value="Our Team" onclick="window.location.href='/en/team'" />
 <div class="divider"/>
 </div class="divider"/>
 </div>
 </body>
 </html>
-
-
-
-
-
-
-
-

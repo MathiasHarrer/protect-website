@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Behavioral Health Promotion & Technology Lab"
 
 ############################
 ## Site Features
@@ -90,7 +90,7 @@ address = {street = "Nägelsbachstraße 25a", city = "Erlangen", region = "BY", 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "49.590731", longitude = "11.001681"}
+coordinates = {latitude = "49.59061770877157", longitude = "11.003249421715742"}
 
 # Directions for visitors to locate you.
 directions = ""
