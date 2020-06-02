@@ -36,6 +36,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/David_Ebert4
 superuser: true
+weight: 1
 title: Assoc. Prof. Dr. David Daniel Ebert
 user_groups:
 - Mitarbeiter

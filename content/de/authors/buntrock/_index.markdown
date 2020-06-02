@@ -8,7 +8,7 @@ education:
     institution: Vrije Universiteit Amsterdam & Leuphana Universität Lüneburg
     year: 2017
   - course: MSc Health Science Research, Spezialisierung Health Technology Assessment
-    institution: Massachusetts Institute of Technology
+    institution: Universität Maastricht
     year: 2009
   - course: BSc European Public Health
     institution: Universität Maastricht
@@ -36,6 +36,7 @@ social:
   link: /author/dr.-claudia-buntrock/buntrock.pdf
 superuser: false
 title: Dr. Claudia Buntrock
+weight: 2
 aliases:
 - /buntrock
 user_groups:

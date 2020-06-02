@@ -9,7 +9,8 @@ bio:
 #    year: 2017
 email: "johanna.freund@fau.de"
 interests:
-- Implementation research
+- Prevention of Mental Disorers
+- Evaluation, Effectiveness and Implementation of Internet- and Telephone-based Interventions
 organizations:
 - name: Friedrich-Alexander-University Erlangen-Nuremberg
   url: ""

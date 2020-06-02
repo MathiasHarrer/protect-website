@@ -20,6 +20,7 @@ url_video: ""
 authors:
  - titzler
  - etzelmueller
+ - freund
 ---
 
 &nbsp;

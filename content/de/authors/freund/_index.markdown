@@ -9,7 +9,8 @@ bio:
 #    year: 2017
 email: "johanna.freund@fau.de"
 interests:
-- Implementationsforschung
+- Prävention von psychischen Erkrankungen
+- Evaluation, Wirksamkeit und Implementierung internet- und telefon-gestützter Interventionen
 organizations:
 - name: Friedrich-Alexander-Universität Erlangen-Nürnberg
   url: ""

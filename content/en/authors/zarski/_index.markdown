@@ -38,6 +38,7 @@ social:
   link: /en/author/dr.-anna-carlotta-zarski/zarski.pdf
 superuser: false
 title: Dr. Anna-Carlotta Zarski
+weight: 3
 aliases:
 - /zarski-en
 user_groups:
@@ -53,6 +54,6 @@ Anna-Carlotta Zarski studied Psychology at the Philipps-Universität Marburg an
 </font>
 
 
-### Forschungsmetriken
+### Research Metrics
 
 <img src="/en/authors/zarski/_index_files/figure-html/unnamed-chunk-1-1.png" width="672" />

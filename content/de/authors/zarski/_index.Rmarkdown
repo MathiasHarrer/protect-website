@@ -38,6 +38,7 @@ social:
   link: /author/dr.-anna-carlotta-zarski/zarski.pdf
 superuser: false
 title: Dr. Anna-Carlotta Zarski
+weight: 3
 aliases:
 - /zarski
 user_groups:

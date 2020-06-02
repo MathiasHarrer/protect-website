@@ -4,14 +4,14 @@ authors:
 bio:
 education:
   courses:
-  - course: Promotion
-    institution: Vrije Universiteit Amsterdam & Leuphana Universität Lüneburg
+  - course: Promotion (PhD)
+    institution: Vrije Universiteit Amsterdam & Leuphana University Lüneburg
     year: 2017
-  - course: MSc Health Science Research, Spezialisierung Health Technology Assessment
-    institution: Massachusetts Institute of Technology
+  - course: MSc Health Science Research, Specialization in Health Technology Assessment
+    institution: University of Maastricht
     year: 2009
   - course: BSc European Public Health
-    institution: Universität Maastricht
+    institution: University of Maastricht
     year: 2009
 email: "claudia.buntrock@fau.de"
 interests:
@@ -36,6 +36,7 @@ social:
   link: en/authors/dr.-claudia-buntrock/buntrock.pdf
 superuser: false
 title: Dr. Claudia Buntrock
+weight: 2
 aliases:
 - /buntrock-en
 user_groups:

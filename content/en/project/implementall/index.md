@@ -20,6 +20,7 @@ url_video: ""
 authors:
  - admin
  - buntrock
+ - freund
 ---
 
 ## Projektbeschreibung

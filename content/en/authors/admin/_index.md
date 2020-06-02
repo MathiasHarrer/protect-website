@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: 
+bio:
 # education:
 #   courses:
 #   - course: Associate Professor
@@ -33,6 +33,7 @@ social:
   link: https://www.researchgate.net/profile/David_Ebert4
 superuser: true
 title: Assoc. Prof. Dr. David Daniel Ebert
+weight: 1
 user_groups:
 - Staff
 ---
@@ -79,5 +80,3 @@ Further research areas include the health economic evaluation of psychological i
 </div>
 </body>
 </html>
-
-

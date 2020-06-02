@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/author/assoc.-prof.-dr.-david-daniel-ebert/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/assoc.-prof.-dr.-david-daniel-ebert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/assoc.-prof.-dr.-david-daniel-ebert/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -23,8 +38,38 @@
   </url>
   
   <url>
+    <loc>/en/author/dr.-claudia-buntrock/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/dr.-claudia-buntrock/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/dr.-claudia-buntrock/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/dr.-anna-carlotta-zarski/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/dr.-anna-carlotta-zarski/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/dr.-anna-carlotta-zarski/"
+                />
   </url>
   
   <url>
@@ -38,6 +83,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/ebert/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/dr.-johannes-a.c.-laferton/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/dr.-johannes-a.c.-laferton/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/dr.-johannes-a.c.-laferton/"
                 />
   </url>
   
@@ -143,21 +203,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/am-kuchler/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/assoc.-prof.-dr.-david-daniel-ebert/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/assoc.-prof.-dr.-david-daniel-ebert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/assoc.-prof.-dr.-david-daniel-ebert/"
                 />
   </url>
   
@@ -398,51 +443,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/dimensionality-of-the-system-usability-scale-among-professionals-using-internet-based-interventions-for-depression-a-confirmatory-factor-analysis/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/dr.-anna-carlotta-zarski/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/dr.-anna-carlotta-zarski/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/dr.-anna-carlotta-zarski/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/dr.-claudia-buntrock/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/dr.-claudia-buntrock/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/dr.-claudia-buntrock/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/dr.-johannes-a.c.-laferton/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/dr.-johannes-a.c.-laferton/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/dr.-johannes-a.c.-laferton/"
                 />
   </url>
   
@@ -6927,6 +6927,96 @@
   </url>
   
   <url>
+    <loc>/en/project/geton-diabetes/</loc>
+    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/project/geton-diabetes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/geton-diabetes/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/geton-mood-enhancer/</loc>
+    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/project/geton-mood-enhancer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/geton-mood-enhancer/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/geton-panic/</loc>
+    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/project/geton-panic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/geton-panic/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/geton-regeneration/</loc>
+    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/project/geton-regeneration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/geton-regeneration/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/geton-stress/</loc>
+    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/project/geton-stress/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/geton-stress/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/mastermind/</loc>
+    <lastmod>2016-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/project/mastermind/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/mastermind/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/author/a-geraedts/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -10311,20 +10401,6 @@
   </url>
   
   <url>
-    <loc>/en/team/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/team/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/author/ap-kassianos/</loc>
     <xhtml:link
                 rel="alternate"
@@ -10419,6 +10495,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/curriculum-vitae/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/meta-analysis-in-r/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/meta-analysis-in-r/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/meta-analysis-in-r/"
                 />
   </url>
   
@@ -10657,6 +10747,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/se-hartley/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/team/"
                 />
   </url>
   

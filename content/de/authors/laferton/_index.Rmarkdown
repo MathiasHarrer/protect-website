@@ -43,6 +43,7 @@ social:
   link: https://www.psychologische-hochschule.de/wp-content/uploads/2020/01/Laferton-CV.pdf
 superuser: false
 title: Dr. Johannes A.C. Laferton
+weight: 4
 aliases:
 - /laferton
 user_groups:
