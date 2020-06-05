@@ -30,7 +30,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Fanny_Kaehlke
 superuser: false
-title: Fanny Kählke, MEd MPH
+title: Fanny Kählke, MEd, MPH
 aliases:
 - /kaehlke-en
 user_groups:

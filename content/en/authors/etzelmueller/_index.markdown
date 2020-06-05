@@ -26,7 +26,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Anne_Etzelmueller
 superuser: false
-title: Anne Etzelmüller, DiplPsych PP
+title: Anne Etzelmüller, DiplPsych, PP
 aliases:
 - /etzelmueller-en
 user_groups:

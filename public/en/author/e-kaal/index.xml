@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Kaal | Protect Lab</title>
+    <link>/en/author/e-kaal/</link>
+      <atom:link href="/en/author/e-kaal/index.xml" rel="self" type="application/rss+xml" />
+    <description>E Kaal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>E Kaal</title>
+      <link>/en/author/e-kaal/</link>
+    </image>
+    
+    <item>
+      <title>Testing the efficacy of a minimal-guidance online self-help intervention for alcohol misuse in Estonia- study protocol of a randomized controlled trial</title>
+      <link>/en/publication/testing-the-efficacy-of-a-minimal-guidance-online-self-help-intervention-for-alcohol-misuse-in-estonia-study-protocol-of-a-randomized-controlled-trial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/testing-the-efficacy-of-a-minimal-guidance-online-self-help-intervention-for-alcohol-misuse-in-estonia-study-protocol-of-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

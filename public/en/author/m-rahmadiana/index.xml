@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Rahmadiana | Protect Lab</title>
+    <link>/en/author/m-rahmadiana/</link>
+      <atom:link href="/en/author/m-rahmadiana/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Rahmadiana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>M Rahmadiana</title>
+      <link>/en/author/m-rahmadiana/</link>
+    </image>
+    
+    <item>
+      <title>Stress management interventions for college students- A systematic review and meta‐analysis</title>
+      <link>/en/publication/stress-management-interventions-for-college-students-a-systematic-review-and-meta-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/publication/stress-management-interventions-for-college-students-a-systematic-review-and-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

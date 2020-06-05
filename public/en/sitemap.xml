@@ -40,16 +40,6 @@
   <url>
     <loc>/en/author/dr.-claudia-buntrock/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/dr.-claudia-buntrock/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/dr.-claudia-buntrock/"
-                />
   </url>
   
   <url>
@@ -188,6 +178,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/a-web-and-mobile-based-intervention-for-comorbid-recurrent-depression-in-patients-with-chronic-back-pain-on-sick-leave-get-back-pilot-randomized-controlled-trial-on-/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/a-wenger/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/a-wenger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/a-wenger/"
                 />
   </url>
   
@@ -462,6 +467,21 @@
   </url>
   
   <url>
+    <loc>/en/author/e-kaal/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/e-kaal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/e-kaal/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/author/e-karyotaki/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -518,6 +538,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/effectiveness-of-a-guided-online-mindfulness-focused-intervention-in-a-student-population-study-protocol-for-a-randomised-control-trial/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/effectiveness-of-a-guided-web-based-self-help-intervention-to-prevent-depression-in-patients-with-persistent-back-pain-the-prod-bp-randomized-clinical-trial/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/effectiveness-of-a-guided-web-based-self-help-intervention-to-prevent-depression-in-patients-with-persistent-back-pain-the-prod-bp-randomized-clinical-trial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/effectiveness-of-a-guided-web-based-self-help-intervention-to-prevent-depression-in-patients-with-persistent-back-pain-the-prod-bp-randomized-clinical-trial/"
                 />
   </url>
   
@@ -807,6 +842,21 @@
   </url>
   
   <url>
+    <loc>/en/author/k-spanhel/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/k-spanhel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/k-spanhel/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/author/k-spiegelhalder/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -897,6 +947,21 @@
   </url>
   
   <url>
+    <loc>/en/author/lb-sander/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/lb-sander/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/lb-sander/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/author/m-berking/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -908,6 +973,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/m-berking/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/m-blankers/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/m-blankers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/m-blankers/"
                 />
   </url>
   
@@ -1107,6 +1187,21 @@
   </url>
   
   <url>
+    <loc>/en/author/s-haug/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/s-haug/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/s-haug/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/author/s-paganini/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1148,6 +1243,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/sk-stegemann/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/t-ulesoo/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/t-ulesoo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/t-ulesoo/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/testing-the-efficacy-of-a-minimal-guidance-online-self-help-intervention-for-alcohol-misuse-in-estonia-study-protocol-of-a-randomized-controlled-trial/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/testing-the-efficacy-of-a-minimal-guidance-online-self-help-intervention-for-alcohol-misuse-in-estonia-study-protocol-of-a-randomized-controlled-trial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/testing-the-efficacy-of-a-minimal-guidance-online-self-help-intervention-for-alcohol-misuse-in-estonia-study-protocol-of-a-randomized-controlled-trial/"
                 />
   </url>
   
@@ -1238,6 +1363,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/v-zamperoni/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/y-terhorst/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/y-terhorst/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/y-terhorst/"
                 />
   </url>
   
@@ -1673,21 +1813,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/publication/a-systematic-review-of-trial-based-economic-evaluations-of-internet-and-mobile-based-interventions-for-substance-use-disorders/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/a-wenger/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/a-wenger/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/a-wenger/"
                 />
   </url>
   
@@ -2982,21 +3107,6 @@
   </url>
   
   <url>
-    <loc>/en/author/k-spanhel/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/k-spanhel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/k-spanhel/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/author/k-waldherr/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -3203,21 +3313,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/lm-fuhrmann/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/m-blankers/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/m-blankers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/m-blankers/"
                 />
   </url>
   
@@ -3762,21 +3857,6 @@
   </url>
   
   <url>
-    <loc>/en/author/s-haug/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/s-haug/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/s-haug/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/author/s-kuso/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -4238,21 +4318,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/author/y-amanvermez/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/author/y-terhorst/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/y-terhorst/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/y-terhorst/"
                 />
   </url>
   
@@ -10639,6 +10704,20 @@
   </url>
   
   <url>
+    <loc>/en/author/m-rahmadiana/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/m-rahmadiana/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/m-rahmadiana/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/author/mj-crawley/</loc>
     <xhtml:link
                 rel="alternate"
@@ -10751,6 +10830,20 @@
   </url>
   
   <url>
+    <loc>/en/publication/stress-management-interventions-for-college-students-a-systematic-review-and-meta-analysis/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/publication/stress-management-interventions-for-college-students-a-systematic-review-and-meta-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/stress-management-interventions-for-college-students-a-systematic-review-and-meta-analysis/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/team/</loc>
     <xhtml:link
                 rel="alternate"
@@ -10761,6 +10854,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/team/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/theresa-sextl-msc/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/theresa-sextl-msc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/theresa-sextl-msc/"
                 />
   </url>
   

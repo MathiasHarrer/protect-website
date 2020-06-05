@@ -5,12 +5,20 @@
     <link>/author/a-wenger/</link>
       <atom:link href="/author/a-wenger/index.xml" rel="self" type="application/rss+xml" />
     <description>A Wenger</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>A Wenger</title>
       <link>/author/a-wenger/</link>
     </image>
+    
+    <item>
+      <title>Testing the efficacy of a minimal-guidance online self-help intervention for alcohol misuse in Estonia- study protocol of a randomized controlled trial</title>
+      <link>/publication/testing-the-efficacy-of-a-minimal-guidance-online-self-help-intervention-for-alcohol-misuse-in-estonia-study-protocol-of-a-randomized-controlled-trial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/testing-the-efficacy-of-a-minimal-guidance-online-self-help-intervention-for-alcohol-misuse-in-estonia-study-protocol-of-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Web-based self-help with and without chat counseling to reduce cocaine use in cocaine misusers- Results of a three-arm randomized controlled trial</title>

@@ -28,7 +28,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Sandra_Schlicker
 superuser: false
-title: Sandra Schlicker, DiplPsych PP
+title: Sandra Schlicker, DiplPsych, PP
 aliases:
 - /schlicker-en
 user_groups:

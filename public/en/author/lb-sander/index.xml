@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LB Sander | Protect Lab</title>
+    <link>/en/author/lb-sander/</link>
+      <atom:link href="/en/author/lb-sander/index.xml" rel="self" type="application/rss+xml" />
+    <description>LB Sander</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>LB Sander</title>
+      <link>/en/author/lb-sander/</link>
+    </image>
+    
+    <item>
+      <title>Effectiveness of a Guided Web-Based Self-help Intervention to Prevent Depression in Patients With Persistent Back Pain- The PROD-BP Randomized Clinical Trial</title>
+      <link>/en/publication/effectiveness-of-a-guided-web-based-self-help-intervention-to-prevent-depression-in-patients-with-persistent-back-pain-the-prod-bp-randomized-clinical-trial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/effectiveness-of-a-guided-web-based-self-help-intervention-to-prevent-depression-in-patients-with-persistent-back-pain-the-prod-bp-randomized-clinical-trial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

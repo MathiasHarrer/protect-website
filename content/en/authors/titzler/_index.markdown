@@ -30,7 +30,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Ingrid_Titzler
 superuser: false
-title: Ingrid Titzler, MSc DiplKommWirt PP
+title: Ingrid Titzler, MSc, DiplKommWirt, PP
 aliases:
 - /titzler-en
 user_groups:
