@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>L Boß | Protect Lab</title>
-    <link>/en/author/l-bo%C3%9F/</link>
-      <atom:link href="/en/author/l-bo%C3%9F/index.xml" rel="self" type="application/rss+xml" />
-    <description>L Boß</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <title>L Boss | Protect Lab</title>
+    <link>/en/author/l-boss/</link>
+      <atom:link href="/en/author/l-boss/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Boss</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
-      <title>L Boß</title>
-      <link>/en/author/l-bo%C3%9F/</link>
+      <title>L Boss</title>
+      <link>/en/author/l-boss/</link>
     </image>
     
     <item>
-      <title>The more I got  the less I need? Efficacy of Internet-based guided self-help compared to online psychoeducation for major depressive disorder</title>
-      <link>/en/publication/the-more-i-got-the-less-i-need-efficacy-of-internet-based-guided-self-help-compared-to-online-psychoeducation-for-major-depressive-disorder/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/en/publication/the-more-i-got-the-less-i-need-efficacy-of-internet-based-guided-self-help-compared-to-online-psychoeducation-for-major-depressive-disorder/</guid>
+      <title>Efficacy of an internet-based self-help intervention to reduce co-occurring alcohol misuse and depression symptoms in adults- study protocol of a three-arm randomised </title>
+      <link>/en/publication/efficacy-of-an-internet-based-self-help-intervention-to-reduce-co-occurring-alcohol-misuse-and-depression-symptoms-in-adults-study-protocol-of-a-three-arm-randomised-/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/en/publication/efficacy-of-an-internet-based-self-help-intervention-to-reduce-co-occurring-alcohol-misuse-and-depression-symptoms-in-adults-study-protocol-of-a-three-arm-randomised-/</guid>
       <description></description>
     </item>
     
-    <item>
-      <title>Efficacy of a web‐based intervention with and without guidance for employees with risky drinking- results of a three‐arm randomized controlled trial</title>
+  </channel>
+</rss>
+for employees with risky drinking- results of a three‐arm randomized controlled trial</title>
       <link>/en/publication/efficacy-of-a-web-based-intervention-with-and-without-guidance-for-employees-with-risky-drinking-results-of-a-three-arm-randomized-controlled-trial/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/en/publication/efficacy-of-a-web-based-intervention-with-and-without-guidance-for-employees-with-risky-drinking-results-of-a-three-arm-randomized-controlled-trial/</guid>

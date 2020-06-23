@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Barak | Protect Lab</title>
+    <link>/author/a-barak/</link>
+      <atom:link href="/author/a-barak/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Barak</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>A Barak</title>
+      <link>/author/a-barak/</link>
+    </image>
+    
+    <item>
+      <title>Consensus statement on the problem of terminology in psychological interventions using the internet or digital components</title>
+      <link>/publication/consensus-statement-on-the-problem-of-terminology-in-psychological-interventions-using-the-internet-or-digital-components/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/consensus-statement-on-the-problem-of-terminology-in-psychological-interventions-using-the-internet-or-digital-components/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
