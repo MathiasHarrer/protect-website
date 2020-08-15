@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Bauer | Protect Lab</title>
+    <link>/author/t-bauer/</link>
+      <atom:link href="/author/t-bauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>T Bauer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>T Bauer</title>
+      <link>/author/t-bauer/</link>
+    </image>
+    
+    <item>
+      <title>Psychological interventions to improve sleep in college students- A meta‐analysis of randomized controlled trials</title>
+      <link>/publication/psychological-interventions-to-improve-sleep-in-college-students-a-meta-analysis-of-randomized-controlled-trials/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/psychological-interventions-to-improve-sleep-in-college-students-a-meta-analysis-of-randomized-controlled-trials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

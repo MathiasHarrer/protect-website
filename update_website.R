@@ -76,8 +76,10 @@ for (i in 1:nrow(pubs.orcid)){
 }
 
 pubs.orcid = pubs.orcid[!duplicated(pubs.orcid$title.title.value), ]
+pubs.orcid = data.frame(pubs.orcid)
+
 pubs.orcid %>% 
-  mutate(title = title.title.value) %>% 
+  dplyr::mutate(`title` = title.title.value) %>% 
   select(title, doi) -> pubs.orcid
 pubs.orcid = pubs.orcid[!duplicated(pubs.orcid$doi), ]
 

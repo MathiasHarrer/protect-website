@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TA Furukawa | Protect Lab</title>
+    <link>/en/author/ta-furukawa/</link>
+      <atom:link href="/en/author/ta-furukawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>TA Furukawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>TA Furukawa</title>
+      <link>/en/author/ta-furukawa/</link>
+    </image>
+    
+    <item>
+      <title>Doing meta-analysis in R</title>
+      <link>/en/publication/doing-meta-analysis-in-r/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/doing-meta-analysis-in-r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
