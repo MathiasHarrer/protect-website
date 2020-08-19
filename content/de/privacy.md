@@ -12,7 +12,10 @@ title: Datenschutzerklärung
 
 **Bei Nutzung unserer Seite erklären Sie sich mit der Datenschutzerklärung einverstanden.**
 
-&nbsp;
+{{ dateFormat "2006" now }}
+
+`r format(Sys.Date(), "%Y-%m-%d")`
+
 
 ## Streitschlichtung
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.

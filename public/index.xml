@@ -1242,7 +1242,8 @@ World Health Organization&lt;/p&gt;
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Bei Nutzung unserer Seite erklären Sie sich mit der Datenschutzerklärung einverstanden.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;{{ dateFormat &amp;ldquo;2006&amp;rdquo; now }}&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;r format(Sys.Date(), &amp;quot;%Y-%m-%d&amp;quot;)&lt;/code&gt;&lt;/p&gt;
 &lt;h2 id=&#34;streitschlichtung&#34;&gt;Streitschlichtung&lt;/h2&gt;
 &lt;p&gt;Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
