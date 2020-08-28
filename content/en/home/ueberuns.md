@@ -9,9 +9,9 @@ title = "About Us"
 subtitle = ""
 +++
 
-The Protect Lab is an interdisciplinary research unit headed by  Assoc. Prof. David Daniel Ebert. We focus on the development, scientific evaluation and implementation of Behavioral Health Technology interventions to promote public health, with a special focus on mental illness.
+The Protect Lab is an interdisciplinary research unit headed by  Dr. habil. David Daniel Ebert. We focus on the development, scientific evaluation and implementation of Behavioral Health Technology interventions to promote public health, with a special focus on mental illness.
 
-The ProtectLab is associated with the Friedrich-Alexander-University Erlangen-Nuremberg's Department of Clinical Psychology and Psychotherapy and works in close cooperation with a cluster of national and international research institutes, service providers,  and public policy representatives.
+The Protect Lab is associated with the Friedrich-Alexander-University Erlangen-Nuremberg's Department of Clinical Psychology and Psychotherapy and works in close cooperation with a cluster of national and international research institutes, service providers,  and public policy representatives.
 
 <!DOCTYPE html>
 <html>
