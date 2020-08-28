@@ -21,7 +21,7 @@ email: "d.d.ebert@vu.nl"
 organizations:
 - name: CSO, HelloBetter
   url: "https://www.hellobetter.de"
-role: Associate Professor, VU Amsterdam
+role: Leitung Protect Lab
 social:
 - icon: envelope-open
   icon_pack: fas
@@ -37,13 +37,13 @@ social:
   link: https://www.researchgate.net/profile/David_Ebert4
 superuser: true
 weight: 1
-title: Assoc. Prof. Dr. David Daniel Ebert
+title: Dr. habil. David Daniel Ebert
 user_groups:
 - Mitarbeiter
 ---
 
 
-David Daniel Ebert ist Associate Professor für Klinische Psychologie an der VU Universität Amsterdam und Leiter des Protect Lab. Herr Ebert ist zudem Co-Founder, Co-Geschäftsführer und Chief Scientific Officer von [HelloBetter](https://hellobetter.de), sowie Präsident der International Society for Research on Internet Interventions ([ISRII](http://isrii.org)).
+David Daniel Ebert ist Leiter des Protect Lab. Herr Ebert ist zudem Co-Founder, Co-Geschäftsführer und Chief Scientific Officer von [HelloBetter](https://hellobetter.de), sowie Präsident der International Society for Research on Internet Interventions ([ISRII](http://isrii.org)).
 
 Die Forschung von Herrn Ebert fokussiert auf die Entwicklung und Evaluation evidenz-basierter Internet- und mobil-basierter Gesundheitsinterventionen zur Förderung der psychischen Gesundheit  in unterschiedlichen Settings und Lebenswelten (Arbeit, Universität) mit einem besonderen Fokus auf die Prävention und Früh-Intervention psychischer Erkrankungen.
 

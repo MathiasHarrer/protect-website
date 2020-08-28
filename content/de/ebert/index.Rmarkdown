@@ -1,6 +1,6 @@
 ---
 title: "Information"
-subtitle: "Assoc. Prof. Dr. David Daniel Ebert"
+subtitle: "Dr. habil. David Daniel Ebert"
 ---
 
 
