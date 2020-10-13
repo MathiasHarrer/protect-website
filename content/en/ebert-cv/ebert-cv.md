@@ -21,9 +21,9 @@ date_format = "Jan 2006"
   title = "Associate Professor"
   company = "VU University Amsterdam"
   company_url = "https://research.vu.nl/en/persons/david-daniel-ebert"
-  location = "Erlangen, Germany"
+  location = "Amsterdam, Netherlands"
   date_start = "2018-10-01"
-  date_end = ""
+  date_end = "2020-07-01"
   description = """"""
 
 [[experience]]

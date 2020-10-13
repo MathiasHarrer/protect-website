@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/author/assoc.-prof.-dr.-david-daniel-ebert/</loc>
+    <loc>/author/dr.-habil.-david-daniel-ebert/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/assoc.-prof.-dr.-david-daniel-ebert/"
+                href="/en/author/dr.-habil.-david-daniel-ebert/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/author/assoc.-prof.-dr.-david-daniel-ebert/"
+                href="/author/dr.-habil.-david-daniel-ebert/"
                 />
   </url>
   
@@ -10675,20 +10675,6 @@
   </url>
   
   <url>
-    <loc>/ebert-lebenslauf/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/ebert-lebenslauf/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/ebert-lebenslauf/"
-                />
-  </url>
-  
-  <url>
     <loc>/health-economics/</loc>
     <xhtml:link
                 rel="alternate"
@@ -10825,6 +10811,20 @@
                 rel="alternate"
                 hreflang="de"
                 href="/meta-analysis-in-r/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ebert-lebenslauf/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/ebert-lebenslauf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/ebert-lebenslauf/"
                 />
   </url>
   

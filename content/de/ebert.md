@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Information"
-subtitle = "Assoc. Prof. Dr. David Daniel Ebert"
+subtitle = "Dr. David Daniel Ebert"
   
 +++
 

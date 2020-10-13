@@ -6,14 +6,14 @@ bio:
 #   courses:
 #   - course: Associate Professor
 #     institution: Vrije Universiteit Amsterdam
-#     year: 2018 -
+#     year: 2018 - 2020
 #   - course: Post-Doc Fellow
 #     institution: Harvard Medical School
 #     year: 2014
 #   - course: Promotion in Psychologie (Dr. rer. nat)
 #     institution: Philipps-Universität-Marburg & Vrije Universiteit Amsterdam
 #     year: 2013
-email: "d.d.ebert@vu.nl"
+email: "d.ebert@hellobetter.de"
 # interests:
 # - Artificial Intelligence
 # - Computational Linguistics
@@ -25,7 +25,7 @@ role: Leitung Protect Lab
 social:
 - icon: envelope-open
   icon_pack: fas
-  link: mailto:d.d.ebert@vu.nl
+  link: mailto:d.ebert@hellobetter.de
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DDEbert
@@ -41,6 +41,8 @@ title: Dr. habil. David Daniel Ebert
 user_groups:
 - Mitarbeiter
 ---
+
+<br></br>
 
 
 David Daniel Ebert ist Leiter des Protect Lab. Herr Ebert ist zudem Co-Founder, Co-Geschäftsführer und Chief Scientific Officer von [HelloBetter](https://hellobetter.de), sowie Präsident der International Society for Research on Internet Interventions ([ISRII](http://isrii.org)).
@@ -79,7 +81,7 @@ Weitere Forschungsgebiete beziehen sich auf die gesundheitsökonomische Evaluati
 </div class="divider"/>
 </form>
 <form>
-<input class="btn" type="button" value="Lebenslauf" onclick="window.location.href='/ebert-lebenslauf'" />
+<input class="btn" type="button" value="Lebenslauf" onclick="window.location.href='/ebert-cv'" />
 <div class="divider"/>
 </div class="divider"/>
 </form>

@@ -38,6 +38,8 @@ user_groups:
 - Staff
 ---
 
+<br></br>
+
 
 David Daniel Ebert is Director of the Protect Lab. Mr. Ebert is also Co-Founder, Co-Managing Director and Chief Scientific Officer of [HelloBetter](hellobetter.de), as well as president of the International Society for Research on Internet Interventions, [ISRII](http://isrii.org).
 
