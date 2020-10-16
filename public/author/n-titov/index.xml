@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Titov | Protect Lab</title>
+    <link>/author/n-titov/</link>
+      <atom:link href="/author/n-titov/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Titov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>N Titov</title>
+      <link>/author/n-titov/</link>
+    </image>
+    
+    <item>
+      <title>Effects of Internet-Based Cognitive Behavioral Therapy in Routine Care for Adults in Treatment for Depression and Anxiety- Systematic Review and Meta-Analysis</title>
+      <link>/publication/effects-of-internet-based-cognitive-behavioral-therapy-in-routine-care-for-adults-in-treatment-for-depression-and-anxiety-systematic-review-and-meta-analysis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/effects-of-internet-based-cognitive-behavioral-therapy-in-routine-care-for-adults-in-treatment-for-depression-and-anxiety-systematic-review-and-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

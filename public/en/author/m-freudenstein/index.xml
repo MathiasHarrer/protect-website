@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Freudenstein | Protect Lab</title>
+    <link>/en/author/m-freudenstein/</link>
+      <atom:link href="/en/author/m-freudenstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Freudenstein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>M Freudenstein</title>
+      <link>/en/author/m-freudenstein/</link>
+    </image>
+    
+    <item>
+      <title>Impact of an acceptance facilitating intervention on psychotherapists’ acceptance of blended therapy</title>
+      <link>/en/publication/impact-of-an-acceptance-facilitating-intervention-on-psychotherapists-acceptance-of-blended-therapy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/impact-of-an-acceptance-facilitating-intervention-on-psychotherapists-acceptance-of-blended-therapy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
