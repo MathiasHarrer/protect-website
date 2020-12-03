@@ -1,0 +1,102 @@
+---
+title: "Trial Data Warehouse"
+subtitle: "Coding Guide"
+fontsize: 12pt
+output: 
+   html_document:
+      toc: true
+      toc_depth: 3
+      toc_float: true
+      theme: flatly
+      css: style.css
+---
+
+
+
+<p><a href="/en/data-warehouse/">↗ Trial Warehouse Introduction</a> | <a href="/en/data-warehouse/codebook">↗ Codebook</a></p>
+
+<div id="about" class="section level1">
+<h1>About</h1>
+<p>The data warehouse has its own set of rules determining how questionnaires and items should be named in the dataset. This ensures that variables measuring the same question or construct have an identical name across trials. This is important to allow for easy and error-free data merges. For variables with factor levels (e.g., sex), it is also essential to follow the coding guidelines to ensure that codes are consistent.</p>
+<p>Consulting the coding guide is important when you:</p>
+
+<ul>
+<li><strong>Plan the assessments for a new study</strong>. At this stage, you may:
+<ul>
+<li>Eyeball which outcomes were assessed in trials similar to yours, and select questionnaires for which there is already data in the warehouse. This may be beneficial for you and others in the future, for example if you want to do secondary and/or pooled analyses (i.e., IPD Meta-Analyses).</li>
+<li>Check the factor levels of (e.g., demographic) variables in the data warehouse, to streamline your assessments, or assess information in a way that can be easily transformed to conform with the data warehouse. For example, income (<code>inc</code>) is coded as a factor with specific levels in the data warehouse, and you may either assess income as the exact number, or use the same factor levels as are used in the data warehouse.</li>
+</ul></li>
+</ul>
+
+<ul>
+<li><strong>Prepare the data of a completed trial</strong>. If you want to speed up the integration of your data into the warehouse, you may also try to already bring your trial data into the format required for the data warehouse before sending it to us.</li>
+</ul>
+<p>To access the documentation, you can either use the <a href="protectr.netlify.com"><code>protectr</code></a> R package, or the <a href="https://airtable.com/invite/l?inviteId=invIhrEACB0WXTK72&amp;inviteToken=a411e1f71bc9338fd4964de26ec29ccf3106d7f984b67fc2e868930d3297df4e">Airtable Graphical User Interface</a>.</p>
+<p><br></br></p>
+</div>
+<div id="coding-guidelines" class="section level1">
+<h1>Coding Guidelines</h1>
+<ol style="list-style-type: decimal">
+<li>Variable names always follow the same coding scheme: <strong>questionnaire_shorthand</strong><code>.</code><strong>assessment_point</strong><code>.i</code><strong>item_number</strong>.</li>
+</ol>
+
+<ol start="2" style="list-style-type: decimal">
+<li>The questionnaire shorthand must conform with the one found in the data warehouse. If a questionnaire is not yet documented in the data warehouse, you can define your own shorthand. As it says in the name “shorthand”, this code should be short.</li>
+</ol>
+
+<ol start="3" style="list-style-type: decimal">
+<li>The assessment point is coded by a number, starting from baseline (<code>0</code>), to post-test (<code>1</code>), follow-up (<code>2</code>), follow-up 2 (<code>3</code>), and so forth.</li>
+</ol>
+
+<ol start="4" style="list-style-type: decimal">
+<li>If you wish to include screening data (which is usually not included), use the code <code>0_s</code>.</li>
+</ol>
+
+<ol start="5" style="list-style-type: decimal">
+<li>When there were interim assessment (i.e., several assessments during the intervention between baseline and post-test), use underscores and numbering, starting from the previous assesment point, e.g. <code>0_1</code>, <code>0_2</code>, <code>0_3</code>.</li>
+</ol>
+
+<ol start="6" style="list-style-type: decimal">
+<li>If a questionnaire has inverted items, <strong>always</strong> provide the already inverted data for these items. There is no need to document that an item has been inverted. It should be possible to simply sum up items to get the overall score for a questionnaire, without having to think about inverted items.</li>
+</ol>
+
+<ol start="7" style="list-style-type: decimal">
+<li>Variables which are only assessed at baseline, and consist of only one item, only need the first part of the code. For example, sex is coded as <code>sex</code>, <em>not</em> as <code>sex.0.i1</code>. The number of completed sessions is only “assessed” at post-test/follow-up, and therefore also has no assessment time and item code (<code>sess</code>).</li>
+</ol>
+
+<ol start="8" style="list-style-type: decimal">
+<li>There are a few questionnaires which do not adhere fully to the guide scheme above:
+<ul>
+<li><code>zuf</code> (CSQ-8). This questionnaire is conventionally used at post-test. Therefore, the assessment point code is dropped, e.g. item 1 is coded as <code>zuf.i1</code>, the sum score as <code>zuf</code>.</li>
+<li><code>bfi</code> (BFI-10). This questionnaire assessed personality, and is therefore conventionally used at baseline only. The questionnaire has 5 subscales corresponding with the “Big Five” of personality assessment. In some trials, sum scores for these subscales are provided, for which the assessment point is dropped (e.g., <code>bfi.a</code> for agreeableness). However, for the item-level data, the conventional coding style is used (e.g. <code>bfi.0.i1</code>).</li>
+</ul></li>
+</ol>
+
+<ol start="9" style="list-style-type: decimal">
+<li>Sum scores of questionnaires only contain the assessment point code, but no item code (e.g. <code>cesd.1</code> for the CES-D sum score at post-test). Same is also true for questionnaires consisting of only one item which are assessed at several timepoints.</li>
+</ol>
+
+<ol start="10" style="list-style-type: decimal">
+<li>For some questionnaires, it makes more sense to look at the subscales instead of the sum score. For such questionnaires, the subscale is indicated after the questionnaire shorthand, with everything else equal (e.g., <code>eri.r.0.i1</code>).</li>
+</ol>
+
+<ol start="11" style="list-style-type: decimal">
+<li>Factor levels are coded as numbers, starting from zero. If a factorial variable is already included in the data warehouse, factor codes must be <em>absolutely</em> identical to the ones found in the documentation.</li>
+</ol>
+
+<ol start="12" style="list-style-type: decimal">
+<li>If a factorial variable follows a yes/no scheme (e.g., chronic medical condition), “no” must be coded as <code>0</code> and “yes” as <code>1</code>.</li>
+</ol>
+<p><br></br></p>
+<div class="blackbox">
+<div class="center">
+<p><strong>IMPORTANT</strong></p>
+</div>
+<p>Although we aim to conform as strictly as possible to the coding guidelines, there can still be cases where exceptions have to be made. The best approach is to directly download a dataset containing the respective questionnaire to see how the coding was done. If you have questions concerning the coding, you can also contact <strong>Mathias</strong> (<a href="mailto:mathias.harrer@fau.de" class="email">mathias.harrer@fau.de</a>).</p>
+</div>
+<p><br></br></p>
+</div>
+<div id="data-upload" class="section level1">
+<h1>Data Upload</h1>
+<p>If you want to have your data stored in the warehouse, please send it to Mathias (<a href="mailto:mathias.harrer@fau.de" class="email">mathias.harrer@fau.de</a>), preferrably via secure options such as FAUBox. We will then upload the tidy dataset to the warehouse, where it can be accessed by functions of the <code>protectr</code> package. It is also possible to store the “raw”, uncleaned data in the data warehouse only for you.</p>
+</div>

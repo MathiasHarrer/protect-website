@@ -1,0 +1,113 @@
+---
+title: "Trial Data Warehouse"
+subtitle: "Coding Guide"
+fontsize: 12pt
+output: 
+   html_document:
+      toc: true
+      toc_depth: 3
+      toc_float: true
+      theme: flatly
+      css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[&#8599; Trial Warehouse Introduction](/data-warehouse/) | [&#8599; Codebook](/data-warehouse/codebook)
+
+\vspace{3in}
+
+# About
+
+The data warehouse has its own set of rules determining how questionnaires and items should be named in the dataset. This ensures that variables measuring the same question or construct have an identical name across trials. This is important to allow for easy and error-free data merges. For variables with factor levels (e.g., sex), it is also essential to follow the coding guidelines to ensure that codes are consistent.
+
+Consulting the coding guide is important when you:
+
+\vspace{3in}
+
+* **Plan the assessments for a new study**. At this stage, you may: 
+    + Eyeball which outcomes were assessed in trials similar to yours, and select questionnaires for which there is already data in the warehouse. This may be beneficial for you and others in the future, for example if you want to do secondary and/or pooled analyses (i.e., IPD Meta-Analyses). 
+    + Check the factor levels of (e.g., demographic) variables in the data warehouse, to streamline your assessments, or assess information in a way that can be easily transformed to conform with the data warehouse. For example, income (`inc`) is coded as a factor with specific levels in the data warehouse, and you may either assess income as the exact number, or use the same factor levels as are used in the data warehouse.
+
+\vspace{40pt}
+
+* **Prepare the data of a completed trial**. If you want to speed up the integration of your data into the warehouse, you may also try to already bring your trial data into the format required for the data warehouse before sending it to us.
+
+
+To access the documentation, you can either use the [`protectr`](protectr.netlify.com) R package, or the [Airtable Graphical User Interface](https://airtable.com/invite/l?inviteId=invIhrEACB0WXTK72&inviteToken=a411e1f71bc9338fd4964de26ec29ccf3106d7f984b67fc2e868930d3297df4e).
+
+<br></br>
+
+# Coding Guidelines
+
+1. Variable names always follow the same coding scheme: **questionnaire_shorthand**`.`**assessment_point**`.i`**item_number**.
+
+\vspace{40pt}
+
+2. The questionnaire shorthand must conform with the one found in the data warehouse. If a questionnaire is not yet documented in the data warehouse, you can define your own shorthand. As it says in the name "shorthand", this code should be short.
+
+\vspace{40pt}
+
+3. The assessment point is coded by a number, starting from baseline (`0`), to post-test (`1`), follow-up (`2`), follow-up 2 (`3`), and so forth.
+
+\vspace{40pt}
+
+4. If you wish to include screening data (which is usually not included), use the code `0_s`.
+
+\vspace{40pt}
+
+5. When there were interim assessment (i.e., several assessments during the intervention between baseline and post-test), use underscores and numbering, starting from the previous assesment point, e.g. `0_1`, `0_2`, `0_3`.
+
+\vspace{40pt}
+
+6. If a questionnaire has inverted items, **always** provide the already inverted data for these items. There is no need to document that an item has been inverted. It should be possible to simply sum up items to get the overall score for a questionnaire, without having to think about inverted items.
+
+\vspace{40pt}
+
+7. Variables which are only assessed at baseline, and consist of only one item, only need the first part of the code. For example, sex is coded as `sex`, *not* as `sex.0.i1`. The number of completed sessions is only "assessed" at post-test/follow-up, and therefore also has no assessment time and item code (`sess`).
+
+\vspace{40pt}
+
+8. There are a few questionnaires which do not adhere fully to the guide scheme above:
+    + `zuf` (CSQ-8). This questionnaire is conventionally used at post-test. Therefore, the assessment point code is dropped, e.g. item 1 is coded as `zuf.i1`, the sum score as `zuf`.
+    + `bfi` (BFI-10). This questionnaire assessed personality, and is therefore conventionally used at baseline only. The questionnaire has 5 subscales corresponding with the "Big Five" of personality assessment. In some trials, sum scores for these subscales are provided, for which the assessment point is dropped (e.g., `bfi.a` for agreeableness). However, for the item-level data, the conventional coding style is used (e.g. `bfi.0.i1`).
+    
+\vspace{40pt}
+    
+9. Sum scores of questionnaires only contain the assessment point code, but no item code (e.g. `cesd.1` for the CES-D sum score at post-test). Same is also true for questionnaires consisting of only one item which are assessed at several timepoints.
+
+\vspace{40pt}
+
+10. For some questionnaires, it makes more sense to look at the subscales instead of the sum score. For such questionnaires, the subscale is indicated after the questionnaire shorthand, with everything else equal (e.g., `eri.r.0.i1`).
+
+\vspace{40pt}
+
+11. Factor levels are coded as numbers, starting from zero. If a factorial variable is already included in the data warehouse, factor codes must be *absolutely* identical to the ones found in the documentation.
+
+\vspace{40pt}
+
+12. If a factorial variable follows a yes/no scheme (e.g., chronic medical condition), "no" must be coded as `0` and "yes" as `1`.
+
+
+<br></br>
+
+:::: {.blackbox data-latex=""}
+::: {.center data-latex=""}
+**IMPORTANT**
+:::
+
+Although we aim to conform as strictly as possible to the coding guidelines, there can still be cases where exceptions have to be made. The best approach is to directly download a dataset containing the respective questionnaire to see how the coding was done. If you have questions concerning the coding, you can also contact **Mathias** (mathias.harrer@fau.de).
+::::
+    
+
+<br></br>
+
+# Data Upload
+
+If you want to have your data stored in the warehouse, please send it to Mathias (mathias.harrer@fau.de), preferrably via secure options such as FAUBox. We will then upload the tidy dataset to the warehouse, where it can be accessed by functions of the `protectr` package. It is also possible to store the "raw", uncleaned data in the data warehouse only for you.
+
+
+
+

@@ -1,0 +1,474 @@
+---
+title: "Trial Data Warehouse"
+subtitle: "Introduction"
+author: "Mathias Harrer"
+date: "2020-12-03"
+output:
+  html_document:
+    css: "style.css"
+---
+
+
+
+<div id="about" class="section level1">
+<h1>About</h1>
+<p>The <code>protectr</code> package serves as the <code>R</code> interface to the Protect Lab’s data warehouse. It allows you to access the extensive documentation of the warehouse, and to download and merge datasets locally via <code>R</code>.</p>
+<p><a href="/data-warehouse/coding-guide">↗ Coding Guide</a> | <a href="/data-warehouse/codebook">↗ Codebook</a></p>
+
+</div>
+<div id="setup" class="section level1">
+<h1>Setup</h1>
+<p>To ensure data security, the warehouse follows a <strong>“two-factor” authentication procedure</strong>. First, a password is required to install the <code>protectr</code> package from a hidden GitHub repository. After the installation, you have full access to the trial documentation API (also accessible <a href="https://airtable.com/invite/l?inviteId=invIhrEACB0WXTK72&amp;inviteToken=a411e1f71bc9338fd4964de26ec29ccf3106d7f984b67fc2e868930d3297df4e">here</a>). To download data from the warehouse directly into R, a further authentication step is required. All trial data is hosted on a secure PostgreSQL server at the Regional Computing Center Erlangen, which is part of the
+FAU Erlangen-Nuremberg. To connect to the server, you must use the FAU <a href="https://www.anleitungen.rrze.fau.de/internet-zugang/vpn/">VPN Client</a>. FAU Staff can use their IDM credential to activate the VPN Client. External users should contact Mathias (<a href="mailto:mathias.harrer@fau.de" class="email">mathias.harrer@fau.de</a>) to request data exports or discuss VPN options.</p>
+<p><img src="protectr_flow.png" width="700" /></p>
+<p>Once you were provided with the password, <code>protectr</code> can be downloaded from GitHub using this code:</p>
+<pre class="r"><code>if (!require(&quot;devtools&quot;)) {
+  install.packages(&quot;devtools&quot;)
+}
+devtools::install_github(&quot;MathiasHarrer/protectr&quot;,
+                         build_vignettes = TRUE,
+                         auth_token = &quot;PASSWORD&quot;)</code></pre>
+<p>If you are asked to update any existing packages on your computer during the installation, please choose “no”. If you run into trouble installing the package, please contact Mathias (<a href="mailto:mathias.harrer@fau.de" class="email">mathias.harrer@fau.de</a>).</p>
+<p>After the installation, you can load <code>protectr</code> from your library.</p>
+<pre class="r"><code>library(protectr)</code></pre>
+<p>The first step is to <strong>initiate the database</strong>. We do this using the <code>get.db</code> function, saving the output as <code>db</code>.</p>
+<pre class="r"><code>db &lt;- get.db()</code></pre>
+<pre><code>Connected to warehouse succesfully.</code></pre>
+<p><br></br></p>
+</div>
+<div id="documentation-api" class="section level1">
+<h1>Documentation API</h1>
+<div id="examining-the-database-object" class="section level2">
+<h2>Examining the database object</h2>
+<p>The database object <code>db</code> now already contains the entire documentation. We can have a look at the upper-level objects using <code>names</code>.</p>
+<pre class="r"><code>names(db)</code></pre>
+<pre><code>[1] &quot;Trials&quot;        &quot;Outcomes&quot;      &quot;Interventions&quot; &quot;Persons&quot;       &quot;VariableDesc&quot; </code></pre>
+<p>We can also examine the object further, showing all trials included in the documentation by their name/shorthand.</p>
+<pre class="r"><code>db$Trials$Name</code></pre>
+<pre><code>    stress_gui_264     stress_fod_263           diab_254    sleep_sjweh_128 
+  &quot;stress_gui_264&quot;   &quot;stress_fod_263&quot;         &quot;diab_254&quot;  &quot;sleep_sjweh_128&quot; 
+       prevdep_406        prevdep_204   stress_studi_200            mdd_131 
+     &quot;prevdep_406&quot;      &quot;prevdep_204&quot; &quot;stress_studi_200&quot;          &quot;mdd_131&quot; 
+     stress_sh_264 
+   &quot;stress_sh_264&quot; </code></pre>
+<p>To get further information on a specific trial, we can use the <code>get.trial.info</code> function.</p>
+<pre class="r"><code>get.trial.info(db, trial = &quot;stress_fod_263&quot;)</code></pre>
+<pre><code>Trial Info for: stress_fod_263
+=======================
+- Intervention: Get.On Fit im Stress
+- Sample Size: 263
+- Control Group Type: Waitlist
+- Guidance Format: Feedback on Demand
+- Primary Outcome: PSS-10
+- Indication: Prevention - Selective
+- No. of Trial Arms: 2
+- Cutoff: PSS-10 &gt;= 22
+- Sample: General Adult
+- Outcomes: 
+   * sex
+   * age
+   * income
+   * ethnicity
+   * psychotherapy experience
+   * training experience
+   * relationship
+   * children
+   * employment
+   * education
+   * working years
+   * first-time helpseeker
+   * help-seeking attitudes
+   * BFI-10
+   * CES-D
+   * EQ5D
+   * ERI
+   * HADS-A
+   * ISI
+   * MBI-S Exhaustion
+   * PATHEV
+   * PSS-10
+   * PSWQ
+   * REQ
+   * SEK-27
+   * completed sessions
+   * SF-12
+   * UWES
+   * ZUF-8
+- Timing Post: 7 weeks
+- Timing FU1: 24 weeks
+- Timing FU1: NA weeks
+- Status: Completed
+- Contact: Elena Heber</code></pre>
+<p>To only get the outcomes assessed in the trial (and included in the data warehouse), we can use the <code>get.trial.outcomes</code> function.</p>
+<pre class="r"><code>get.trial.outcomes(db, trial = &quot;stress_fod_263&quot;)</code></pre>
+<pre><code>Baseline ----------------- 
+$stress_fod_263
+ [1] &quot;sex&quot;                      &quot;age&quot;                     
+ [3] &quot;income&quot;                   &quot;ethnicity&quot;               
+ [5] &quot;psychotherapy experience&quot; &quot;training experience&quot;     
+ [7] &quot;relationship&quot;             &quot;children&quot;                
+ [9] &quot;employment&quot;               &quot;education&quot;               
+[11] &quot;working years&quot;            &quot;first-time helpseeker&quot;   
+[13] &quot;help-seeking attitudes&quot;   &quot;BFI-10&quot;                  
+[15] &quot;CES-D&quot;                    &quot;EQ5D&quot;                    
+[17] &quot;ERI&quot;                      &quot;HADS-A&quot;                  
+[19] &quot;ISI&quot;                      &quot;MBI-S Exhaustion&quot;        
+[21] &quot;PATHEV&quot;                   &quot;PSS-10&quot;                  
+[23] &quot;PSWQ&quot;                     &quot;REQ&quot;                     
+[25] &quot;SEK-27&quot;                   &quot;completed sessions&quot;      
+[27] &quot;SF-12&quot;                    &quot;UWES&quot;                    
+[29] &quot;ZUF-8&quot;                   
+
+
+Post --------------------- 
+$stress_fod_263
+ [1] &quot;help-seeking attitudes&quot; &quot;CES-D&quot;                  &quot;ERI&quot;                   
+ [4] &quot;HADS-A&quot;                 &quot;ISI&quot;                    &quot;MBI-S Exhaustion&quot;      
+ [7] &quot;PSS-10&quot;                 &quot;PSWQ&quot;                   &quot;REQ&quot;                   
+[10] &quot;SEK-27&quot;                 &quot;completed sessions&quot;     &quot;SF-12&quot;                 
+[13] &quot;UWES&quot;                   &quot;ZUF-8&quot;                 
+
+
+FU1 ---------------------- 
+$stress_fod_263
+ [1] &quot;help-seeking attitudes&quot; &quot;CES-D&quot;                  &quot;ERI&quot;                   
+ [4] &quot;HADS-A&quot;                 &quot;ISI&quot;                    &quot;MBI-S Exhaustion&quot;      
+ [7] &quot;PSS-10&quot;                 &quot;PSWQ&quot;                   &quot;REQ&quot;                   
+[10] &quot;SEK-27&quot;                 &quot;completed sessions&quot;     &quot;SF-12&quot;                 
+[13] &quot;UWES&quot;                   &quot;ZUF-8&quot;                  &quot;EQ5D&quot;                  </code></pre>
+<p>We can also examine further what certain outcomes in a dataset <strong>mean</strong>, and for which characteristic certain factor levels may stand. We can use the <code>get.var.description</code> function to do this. We can access the documentation of either all outcomes in a trial, or only specific outcomes. Please note that outcomes which were assessed in several trials were <strong>always coded in the same way</strong>.</p>
+<pre class="r"><code>get.var.description(db, &quot;prevdep_406&quot;, &quot;inc&quot;)</code></pre>
+<pre><code> inc (factor)
+income
+1 = &lt;10.000 EUR
+2 = 10.000-30.000 EUR
+3 = 30.000-40.000 EUR
+4 = 40.000-50.000 EUR
+5 = 50.000-60.000 EUR
+6 = 60.000-100.000 EUR
+7 = &gt;100.000 EUR
+8 = not stated</code></pre>
+<p>It is also possible to get a more general look on which outcomes where assessed in which trials. We can use the <code>get.assessed.trials</code> function to do this. We want to see in which trials PSS-10, CES-D, ERI and CSQ-8 (ZUF) data was assessed.</p>
+<pre class="r"><code>outcomes &lt;- c(&quot;pss&quot;, &quot;cesd&quot;, &quot;eri&quot;, &quot;zuf&quot;)
+get.assessed.trials(db, outcomes)</code></pre>
+<pre><code>              trial pss cesd eri zuf
+1  stress_studi_200   1    1   0   0
+2     stress_sh_264   1    1   1   1
+3    stress_fod_263   1    1   1   1
+4    stress_gui_264   1    1   1   1
+5       prevdep_406   0    1   0   1
+6       prevdep_204   0    1   0   0
+7          diab_254   0    1   0   1
+8   sleep_sjweh_128   0    1   1   1
+9      sleep_hp_128   0    1   1   1
+10    sleep_fod_128   0    1   1   1</code></pre>
+<p><br></br></p>
+</div>
+<div id="access-external-trial-documents" class="section level2">
+<h2>Access external trial documents</h2>
+<p>To attain more information, you can also use the <code>get.registration</code> function. It will open the online registration of the trial, if available, in your browser.</p>
+<pre class="r"><code>get.registration(db, trial = &quot;prevdep_406&quot;)</code></pre>
+<p>You can also access the published article as PDF online via <code>get.trial.pdf</code>.</p>
+<pre class="r"><code>get.trial.pdf(db, trial = &quot;prevdep_406&quot;)</code></pre>
+<p><br></br></p>
+</div>
+<div id="find-optimal-combination-of-studies-to-maximize-outcome-overlap" class="section level2">
+<h2>Find optimal combination of studies to maximize outcome overlap</h2>
+<p>A common problem in analyzing cross-trial data is that outcomes are not consistently assessed. To facilitate finding clusters of studies with overlapping assessments, the <code>get.maximum.coverage</code> function. The function calls a <strong>biclustering algorithm</strong> (BiBit) internally and ranks the clusters it found. The algorithm can be run on the entire data warehouse, or a predefined selection of studies.</p>
+<pre class="r"><code>mc &lt;- get.maximum.coverage(db, trials = c(&quot;stress_gui_264&quot;, &quot;stress_fod_263&quot;,
+                                          &quot;diab_254&quot;, &quot;sleep_sjweh_128&quot;, 
+                                          &quot;prevdep_406&quot;, &quot;prevdep_204&quot;,
+                                          &quot;stress_studi_200&quot;, &quot;mdd_131&quot;,
+                                          &quot;stress_sh_264&quot;))</code></pre>
+<pre><code>Transform matrix into arff format...DONE
+
+BITPAT
+============
+
+ARFF file name: /var/folders/ny/__yp371n6bqdzh7y509mc5gc0000gp/T//RtmpRUP535/bibitdatadff8689c122.arff
+
+Number of rows: 9
+
+Number of columns: 83
+
+Extra Columns Number: 6
+
+The matrix is created
+Number of biclusters at level 1: 21 in 240 milliseconds
+
+Transforming into biclust output...DONE
+
+=== RESULTS ==============================
+
+Cluster 1 --------------------------------
+- Studies included in cluster: 3
+- Outcomes included in cluster: 29
+- Total sample size: 791
+
+Cluster 2 --------------------------------
+- Studies included in cluster: 4
+- Outcomes included in cluster: 18
+- Total sample size: 1045
+
+Cluster 3 --------------------------------
+- Studies included in cluster: 4
+- Outcomes included in cluster: 18
+- Total sample size: 919
+
+Cluster 4 --------------------------------
+- Studies included in cluster: 4
+- Outcomes included in cluster: 19
+- Total sample size: 1197
+
+Cluster 5 --------------------------------
+- Studies included in cluster: 5
+- Outcomes included in cluster: 16
+- Total sample size: 1401
+
+Cluster 6 --------------------------------
+- Studies included in cluster: 4
+- Outcomes included in cluster: 14
+- Total sample size: 991
+
+Cluster 7 --------------------------------
+- Studies included in cluster: 4
+- Outcomes included in cluster: 15
+- Total sample size: 922
+
+Cluster 8 --------------------------------
+- Studies included in cluster: 2
+- Outcomes included in cluster: 13
+- Total sample size: 382
+
+Cluster 9 --------------------------------
+- Studies included in cluster: 2
+- Outcomes included in cluster: 18
+- Total sample size: 660
+
+Cluster 10 --------------------------------
+- Studies included in cluster: 3
+- Outcomes included in cluster: 15
+- Total sample size: 864
+
+Cluster 11 --------------------------------
+- Studies included in cluster: 2
+- Outcomes included in cluster: 11
+- Total sample size: 454
+
+Cluster 12 --------------------------------
+- Studies included in cluster: 2
+- Outcomes included in cluster: 15
+- Total sample size: 385
+
+Cluster 13 --------------------------------
+- Studies included in cluster: 2
+- Outcomes included in cluster: 15
+- Total sample size: 534
+
+Cluster 14 --------------------------------
+- Studies included in cluster: 6
+- Outcomes included in cluster: 12
+- Total sample size: 1529
+
+Cluster 15 --------------------------------
+- Studies included in cluster: 8
+- Outcomes included in cluster: 8
+- Total sample size: 1983
+
+Cluster 16 --------------------------------
+- Studies included in cluster: 6
+- Outcomes included in cluster: 10
+- Total sample size: 1456
+
+Cluster 17 --------------------------------
+- Studies included in cluster: 2
+- Outcomes included in cluster: 21
+- Total sample size: 610
+
+Cluster 18 --------------------------------
+- Studies included in cluster: 3
+- Outcomes included in cluster: 11
+- Total sample size: 810
+
+Cluster 19 --------------------------------
+- Studies included in cluster: 2
+- Outcomes included in cluster: 18
+- Total sample size: 537
+
+Cluster 20 --------------------------------
+- Studies included in cluster: 2
+- Outcomes included in cluster: 20
+- Total sample size: 335
+
+Cluster 21 --------------------------------
+- Studies included in cluster: 2
+- Outcomes included in cluster: 11
+- Total sample size: 331</code></pre>
+<p>Let us explore <code>Cluster 1</code>, the optimal combination, a little further:</p>
+<pre class="r"><code>mc$ClusterInfo$Cluster1$studies</code></pre>
+<pre><code>[1] &quot;stress_gui_264&quot; &quot;stress_fod_263&quot; &quot;stress_sh_264&quot; </code></pre>
+<pre class="r"><code>mc$ClusterInfo$Cluster1$outcomes</code></pre>
+<pre><code> [1] &quot;age&quot;                      &quot;BFI-10&quot;                  
+ [3] &quot;CES-D&quot;                    &quot;children&quot;                
+ [5] &quot;completed sessions&quot;       &quot;education&quot;               
+ [7] &quot;employment&quot;               &quot;EQ5D&quot;                    
+ [9] &quot;ERI&quot;                      &quot;ethnicity&quot;               
+[11] &quot;first-time helpseeker&quot;    &quot;HADS-A&quot;                  
+[13] &quot;help-seeking attitudes&quot;   &quot;income&quot;                  
+[15] &quot;ISI&quot;                      &quot;MBI-S Exhaustion&quot;        
+[17] &quot;PATHEV&quot;                   &quot;PSS-10&quot;                  
+[19] &quot;PSWQ&quot;                     &quot;psychotherapy experience&quot;
+[21] &quot;relationship&quot;             &quot;REQ&quot;                     
+[23] &quot;SEK-27&quot;                   &quot;sex&quot;                     
+[25] &quot;SF-12&quot;                    &quot;training experience&quot;     
+[27] &quot;UWES&quot;                     &quot;working years&quot;           
+[29] &quot;ZUF-8&quot;  </code></pre>
+<p>If you have questions concerning the <code>protectr</code> package, please contact <em>Mathias</em> at <a href="mailto:mathias.h.harrer@gmail.com" class="email">mathias.h.harrer@gmail.com</a>.</p>
+<p><br></br></p>
+</div>
+</div>
+<div id="data-download" class="section level1">
+<h1>Data Download</h1>
+<p>To download trial data from the data warehouse, you can use the <code>get.data</code> function. The functions allows to extract single trials, or retrieve a merged dataset containing several trials. When downloading more than one trial, you can decide if the resulting dataset should contain only the columns shared by all requested trials (<code>merge = "intersection"</code>), or all outcomes in all trials (<code>merge = "union"</code>). For the latter option, trials which did not assess a particular outcome have <code>NA</code> in respective column. Further options can be found by running <code>?get.data</code> in your console.</p>
+<pre class="r"><code># Select 3 trials by shorthand
+trials &lt;- c(&quot;prevdep_204&quot;, &quot;prevdep_406&quot;, &quot;mdd_131&quot;)
+
+# Retrieve data
+data &lt;- get.data(trials, merge = &quot;intersection&quot;, glimpse = T)</code></pre>
+<pre><code>Connecting to Protect RRZE DB...
+SUCCESS
+
+Observations: 741
+Variables: 131
+
+$ trial          &lt;chr&gt; &quot;prevdep_204&quot;, &quot;prevdep_204&quot;, &quot;prevdep_204&quot;, &quot;prevdep_…
+$ group          &lt;dbl&gt; 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, …
+$ age            &lt;dbl&gt; 45, 43, 30, 52, 26, 44, 36, 54, 37, 55, 34, 52, 56, 34…
+$ sex            &lt;dbl&gt; 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, …
+$ degree         &lt;dbl&gt; 3, 3, 2, 2, 2, 2, 2, 3, 3, 3, 2, 2, 3, 3, 2, 2, 2, 3, …
+$ rel            &lt;dbl&gt; 1, 1, 0, 2, 0, 1, 1, 3, 0, 0, 1, 1, 2, 1, 1, 0, 1, 1, …
+$ child          &lt;dbl&gt; 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, …
+$ inc            &lt;dbl&gt; 2, 2, 8, 3, 8, 2, 2, 2, 6, 1, 1, 4, 1, 8, 2, 3, 8, 2, …
+$ employ         &lt;dbl&gt; 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, …
+$ ethn           &lt;dbl&gt; 0, 0, 5, 0, 0, 0, 0, 5, 0, 0, 5, 0, 5, 0, 0, 0, 5, 0, …
+$ prevpsychoth   &lt;dbl&gt; 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, …
+$ prevtraining   &lt;dbl&gt; 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, …
+$ depmed         &lt;dbl&gt; 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, …
+$ atsphs.0.i1    &lt;dbl&gt; 2, 2, 0, 0, 3, 1, 3, 1, 0, 2, 1, 2, 2, 2, 3, 1, 0, 2, …
+$ atsphs.0.i10   &lt;dbl&gt; 1, 1, 1, 1, 1, 1, 3, 0, 0, 1, 1, 0, 0, 1, 1, 2, 1, 1, …
+$ atsphs.0.i2    &lt;dbl&gt; 1, 1, 2, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, …
+$ atsphs.0.i3    &lt;dbl&gt; 2, 1, 2, 3, 3, 2, 1, 2, 2, 2, 2, 0, 0, 2, 3, 2, 0, 2, …
+$ atsphs.0.i4    &lt;dbl&gt; 2, 2, 1, 3, 1, 2, 1, 1, 1, 1, 2, 1, 0, 1, 1, 3, 3, 2, …
+$ atsphs.0.i5    &lt;dbl&gt; 2, 2, 2, 1, 3, 1, 0, 2, 3, 3, 1, 3, 3, 2, 3, 1, 1, 3, …
+$ atsphs.0.i6    &lt;dbl&gt; 1, 1, 2, 1, 3, 2, 1, 2, 3, 3, 1, 2, 2, 2, 2, 2, 1, 3, …
+$ atsphs.0.i7    &lt;dbl&gt; 1, 1, 2, 2, 2, 2, 0, 1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1, …
+$ atsphs.0.i8    &lt;dbl&gt; 2, 1, 1, 2, 0, 2, 2, 1, 1, 0, 2, 2, 1, 1, 0, 0, 2, 2, …
+$ atsphs.0.i9    &lt;dbl&gt; 2, 0, 2, 2, 0, 1, 2, 1, 0, 1, 1, 1, 0, 0, 0, 2, 2, 2, …
+$ atsphs.1.i1    &lt;dbl&gt; NA, 2, NA, NA, 3, 2, 3, 0, NA, 2, 2, 2, 3, 2, 3, 3, 0,…
+$ atsphs.1.i10   &lt;dbl&gt; NA, 1, NA, NA, 0, 1, 2, 1, NA, 1, 2, 0, 0, 1, 1, 1, 3,…
+$ atsphs.1.i2    &lt;dbl&gt; NA, 0, NA, NA, 0, 1, 0, 1, NA, 0, 0, 0, 0, 0, 0, 1, 1,…
+$ atsphs.1.i3    &lt;dbl&gt; NA, 2, NA, NA, 3, 1, 3, 0, NA, 2, 2, 2, 3, 2, 3, 2, 2,…
+$ atsphs.1.i4    &lt;dbl&gt; NA, 1, NA, NA, 1, 1, 0, 1, NA, 1, 1, 0, 3, 1, 0, 0, 3,…
+$ atsphs.1.i5    &lt;dbl&gt; NA, 2, NA, NA, 2, 2, 2, 2, NA, 2, 2, 2, 3, 2, 3, 1, 2,…
+$ atsphs.1.i6    &lt;dbl&gt; NA, 1, NA, NA, 2, 1, 1, 1, NA, 3, 2, 3, 3, 3, 2, 2, 0,…
+$ atsphs.1.i7    &lt;dbl&gt; NA, 2, NA, NA, 2, 2, 2, 1, NA, 2, 2, 2, 3, 2, 2, 3, 1,…
+$ atsphs.1.i8    &lt;dbl&gt; NA, 2, NA, NA, 0, 2, 2, 1, NA, 1, 1, 1, 0, 1, 0, 1, 2,…
+$ atsphs.1.i9    &lt;dbl&gt; NA, 1, NA, NA, 0, 1, 1, 1, NA, 0, 2, 1, 0, 0, 0, 2, 3,…
+$ badssf.0       &lt;dbl&gt; 21, 33, 23, 25, 37, 29, 30, 33, 8, 17, 26, 33, 35, 29,…
+$ badssf.0.i1    &lt;dbl&gt; 1, 4, 2, 3, 2, 4, 2, 3, 0, 1, 2, 2, 2, 2, 2, 6, 4, 4, …
+$ badssf.0.i2    &lt;dbl&gt; 6, 3, 1, 3, 3, 2, 6, 4, 0, 2, 3, 4, 6, 2, 2, 6, 0, 4, …
+$ badssf.0.i3    &lt;dbl&gt; 3, 3, 3, 4, 4, 3, 3, 4, 0, 2, 2, 4, 3, 3, 3, 5, 2, 4, …
+$ badssf.0.i4    &lt;dbl&gt; 1, 4, 3, 3, 4, 4, 0, 3, 0, 1, 5, 4, 2, 2, 1, 4, 2, 3, …
+$ badssf.0.i5    &lt;dbl&gt; 2, 3, 2, 2, 5, 2, 6, 4, 2, 2, 3, 2, 3, 5, 4, 6, 4, 4, …
+$ badssf.0.i6    &lt;dbl&gt; 1, 3, 3, 0, 3, 3, 0, 4, 0, 1, 4, 3, 4, 2, 0, 4, 0, 3, …
+$ badssf.0.i7    &lt;dbl&gt; 2, 4, 4, 6, 6, 5, 6, 5, 2, 4, 2, 5, 6, 5, 1, 6, 0, 6, …
+$ badssf.0.i8    &lt;dbl&gt; 3, 4, 2, 0, 4, 4, 1, 4, 0, 0, 1, 4, 5, 3, 2, 2, 4, 3, …
+$ badssf.0.i9    &lt;dbl&gt; 2, 5, 3, 4, 6, 2, 6, 2, 4, 4, 4, 5, 4, 5, 2, 3, 3, 6, …
+$ badssf.1       &lt;dbl&gt; NA, 34, NA, NA, 44, 37, 29, 31, NA, 19, 40, 36, 24, 20…
+$ badssf.1.i1    &lt;dbl&gt; NA, 4, NA, NA, 4, 6, 1, 2, NA, 0, 5, 5, 1, 2, 3, 3, 5,…
+$ badssf.1.i2    &lt;dbl&gt; NA, 4, NA, NA, 5, 4, 6, 4, NA, 2, 5, 4, 6, 2, 4, 6, 4,…
+$ badssf.1.i3    &lt;dbl&gt; NA, 4, NA, NA, 5, 2, 1, 4, NA, 2, 5, 3, 2, 3, 4, 6, 4,…
+$ badssf.1.i4    &lt;dbl&gt; NA, 4, NA, NA, 6, 5, 1, 3, NA, 2, 5, 3, 1, 1, 4, 5, 4,…
+$ badssf.1.i5    &lt;dbl&gt; NA, 5, NA, NA, 5, 1, 5, 4, NA, 3, 5, 3, 1, 3, 4, 5, 5,…
+$ badssf.1.i6    &lt;dbl&gt; NA, 2, NA, NA, 1, 6, 0, 4, NA, 1, 5, 5, 2, 0, 0, 1, 5,…
+$ badssf.1.i7    &lt;dbl&gt; NA, 4, NA, NA, 6, 5, 6, 0, NA, 5, 5, 6, 4, 3, 4, 5, 6,…
+$ badssf.1.i8    &lt;dbl&gt; NA, 4, NA, NA, 6, 5, 3, 6, NA, 1, 2, 3, 2, 3, 2, 6, 5,…
+$ badssf.1.i9    &lt;dbl&gt; NA, 3, NA, NA, 6, 3, 6, 4, NA, 3, 3, 4, 5, 3, 3, 6, 2,…
+$ badssf.2       &lt;dbl&gt; NA, 33, NA, NA, 41, 34, 30, 40, NA, 23, 48, 39, 30, 21…
+$ badssf.2.i1    &lt;dbl&gt; NA, 3, NA, NA, 6, 4, 1, 3, NA, 1, 5, 5, 2, 2, 5, 6, 5,…
+$ badssf.2.i2    &lt;dbl&gt; NA, 4, NA, NA, 6, 4, 6, 5, NA, 3, 6, 5, 5, 2, 5, 6, 3,…
+$ badssf.2.i3    &lt;dbl&gt; NA, 4, NA, NA, 6, 4, 3, 5, NA, 3, 6, 4, 4, 3, 5, 6, 5,…
+$ badssf.2.i4    &lt;dbl&gt; NA, 4, NA, NA, 4, 4, 1, 3, NA, 3, 5, 4, 4, 2, 5, 5, 4,…
+$ badssf.2.i5    &lt;dbl&gt; NA, 4, NA, NA, 6, 3, 5, 5, NA, 3, 6, 3, 1, 2, 6, 5, 5,…
+$ badssf.2.i6    &lt;dbl&gt; NA, 1, NA, NA, 2, 5, 1, 4, NA, 0, 5, 5, 2, 0, 4, 6, 5,…
+$ badssf.2.i7    &lt;dbl&gt; NA, 5, NA, NA, 5, 5, 3, 6, NA, 5, 5, 5, 5, 4, 5, 6, 6,…
+$ badssf.2.i8    &lt;dbl&gt; NA, 5, NA, NA, 2, 4, 5, 5, NA, 1, 5, 4, 4, 1, 6, 6, 5,…
+$ badssf.2.i9    &lt;dbl&gt; NA, 3, NA, NA, 4, 1, 5, 4, NA, 4, 5, 4, 3, 5, 4, 2, 1,…
+$ ceq.i1         &lt;dbl&gt; 6, 7, 7, 7, 6, 8, 2, 7, 8, 7, 5, 3, 5, 7, 7, 7, 5, 9, …
+$ ceq.i2         &lt;dbl&gt; 4, 7, 5, 3, 6, 5, 2, 7, 7, 7, 5, 3, 5, 8, 7, 6, 5, 8, …
+$ ceq.i3         &lt;dbl&gt; 4, 7, 2, 2, 9, 7, 2, 8, 6, 5, 5, 2, 5, 8, 9, 5, 1, 8, …
+$ ceq.i4         &lt;dbl&gt; 34, 65, 34, 31, 70, 51, 0, 70, 69, 70, 20, 23, 65, 65,…
+$ ceq.i5         &lt;dbl&gt; 4, 4, 4, 3, 5, 4, 2, 7, 6, 5, 5, 5, 5, 7, 5, 4, 1, 7, …
+$ ceq.i6         &lt;dbl&gt; 33, 35, 25, 5, 40, 27, 8, 75, 55, 50, 20, 47, 63, 50, …
+$ hadsa.0        &lt;dbl&gt; 9, 7, 11, 8, 6, 10, 6, 8, 16, 10, 15, 8, 11, 11, 13, 7…
+$ hadsa.0.i1     &lt;dbl&gt; 1, 2, 2, 2, 1, 2, 2, 1, 3, 2, 3, 2, 3, 2, 3, 1, 2, 2, …
+$ hadsa.0.i2     &lt;dbl&gt; 1, 1, 2, 1, 2, 2, 1, 2, 3, 0, 2, 1, 1, 2, 2, 0, 1, 2, …
+$ hadsa.0.i3     &lt;dbl&gt; 2, 1, 2, 2, 0, 1, 1, 0, 3, 2, 3, 1, 1, 2, 2, 0, 1, 2, …
+$ hadsa.0.i4     &lt;dbl&gt; 2, 2, 2, 1, 0, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1, …
+$ hadsa.0.i5     &lt;dbl&gt; 1, 0, 1, 1, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 1, 2, …
+$ hadsa.0.i6     &lt;dbl&gt; 1, 1, 2, 0, 1, 1, 0, 2, 1, 0, 2, 2, 3, 1, 2, 2, 0, 0, …
+$ hadsa.0.i7     &lt;dbl&gt; 1, 0, 0, 1, 1, 1, 0, 0, 2, 2, 2, 0, 0, 1, 0, 1, 1, 0, …
+$ hadsa.1        &lt;dbl&gt; NA, 6, NA, NA, 5, 9, 5, 5, NA, 11, 10, 5, 12, 12, 11, …
+$ hadsa.1.i1     &lt;dbl&gt; NA, 2, NA, NA, 1, 2, 1, 0, NA, 2, 1, 1, 3, 2, 3, 2, 1,…
+$ hadsa.1.i2     &lt;dbl&gt; NA, 0, NA, NA, 2, 2, 1, 0, NA, 0, 2, 1, 2, 2, 2, 0, 1,…
+$ hadsa.1.i3     &lt;dbl&gt; NA, 1, NA, NA, 0, 1, 2, 0, NA, 1, 1, 1, 1, 2, 2, 1, 1,…
+$ hadsa.1.i4     &lt;dbl&gt; NA, 1, NA, NA, 0, 2, 1, 1, NA, 2, 1, 1, 3, 2, 2, 1, 1,…
+$ hadsa.1.i5     &lt;dbl&gt; NA, 0, NA, NA, 1, 1, 0, 1, NA, 2, 1, 0, 1, 2, 1, 1, 1,…
+$ hadsa.1.i6     &lt;dbl&gt; NA, 2, NA, NA, 1, 0, 0, 2, NA, 1, 2, 1, 2, 1, 1, 2, 0,…
+$ hadsa.1.i7     &lt;dbl&gt; NA, 0, NA, NA, 0, 1, 0, 1, NA, 3, 2, 0, 0, 1, 0, 1, 0,…
+$ hadsa.2        &lt;dbl&gt; NA, 5, NA, NA, 5, 9, 5, 8, NA, 11, 8, 7, 9, 14, 6, 10,…
+$ hadsa.2.i1     &lt;dbl&gt; NA, 2, NA, NA, 1, 2, 1, 1, NA, 2, 1, 1, 2, 3, 1, 2, 1,…
+$ hadsa.2.i2     &lt;dbl&gt; NA, 0, NA, NA, 0, 2, 2, 1, NA, 0, 1, 1, 2, 3, 1, 2, 1,…
+$ hadsa.2.i3     &lt;dbl&gt; NA, 1, NA, NA, 0, 1, 1, 0, NA, 2, 2, 2, 1, 2, 1, 1, 1,…
+$ hadsa.2.i4     &lt;dbl&gt; NA, 1, NA, NA, 1, 1, 0, 2, NA, 2, 1, 1, 2, 2, 1, 1, 1,…
+$ hadsa.2.i5     &lt;dbl&gt; NA, 0, NA, NA, 1, 1, 1, 1, NA, 2, 1, 1, 0, 2, 1, 2, 1,…
+$ hadsa.2.i6     &lt;dbl&gt; NA, 1, NA, NA, 1, 1, 0, 2, NA, 1, 1, 1, 2, 1, 1, 1, 0,…
+$ hadsa.2.i7     &lt;dbl&gt; NA, 0, NA, NA, 1, 1, 0, 1, NA, 2, 1, 0, 0, 1, 0, 1, 0,…
+$ spsi.npo.0     &lt;dbl&gt; 10, 6, 9, 3, 2, 10, 12, 1, 7, 6, 5, 3, 9, 19, 16, 1, 1…
+$ spsi.npo.0.i10 &lt;dbl&gt; 2, 1, 2, 0, 0, 1, 0, 0, 3, 1, 2, 0, 2, 4, 4, 0, 4, 0, …
+$ spsi.npo.0.i3  &lt;dbl&gt; 2, 3, 1, 3, 1, 3, 3, 1, 2, 1, 1, 1, 0, 3, 3, 1, 4, 2, …
+$ spsi.npo.0.i5  &lt;dbl&gt; 2, 1, 3, 0, 1, 3, 4, 0, 0, 2, 1, 1, 3, 4, 3, 0, 2, 1, …
+$ spsi.npo.0.i6  &lt;dbl&gt; 2, 0, 1, 0, 0, 2, 3, 0, 0, 1, 1, 1, 3, 4, 3, 0, 3, 0, …
+$ spsi.npo.0.i8  &lt;dbl&gt; 2, 1, 2, 0, 0, 1, 2, 0, 2, 1, 0, 0, 1, 4, 3, 0, 1, 0, …
+$ spsi.npo.1     &lt;dbl&gt; NA, 8, NA, NA, 2, 7, 18, 0, NA, 8, 7, 3, 8, 20, 13, 4,…
+$ spsi.npo.1.i10 &lt;dbl&gt; NA, 2, NA, NA, 0, 1, 4, 0, NA, 2, 2, 1, 0, 4, 4, 0, 1,…
+$ spsi.npo.1.i3  &lt;dbl&gt; NA, 2, NA, NA, 1, 2, 3, 0, NA, 1, 2, 1, 4, 4, 1, 4, 3,…
+$ spsi.npo.1.i5  &lt;dbl&gt; NA, 1, NA, NA, 1, 1, 4, 0, NA, 2, 2, 1, 2, 4, 1, 0, 1,…
+$ spsi.npo.1.i6  &lt;dbl&gt; NA, 2, NA, NA, 0, 2, 4, 0, NA, 1, 1, 0, 0, 4, 4, 0, 3,…
+$ spsi.npo.1.i8  &lt;dbl&gt; NA, 1, NA, NA, 0, 1, 3, 0, NA, 2, 0, 0, 2, 4, 3, 0, 2,…
+$ spsi.npo.2     &lt;dbl&gt; NA, 9, NA, NA, 3, 2, 11, 0, NA, 8, 10, 3, 5, 20, 13, 1…
+$ spsi.npo.2.i10 &lt;dbl&gt; NA, 2, NA, NA, 0, 0, 2, 0, NA, 2, 2, 0, 1, 4, 3, 4, 2,…
+$ spsi.npo.2.i3  &lt;dbl&gt; NA, 3, NA, NA, 2, 2, 3, 0, NA, 1, 2, 1, 2, 4, 4, 2, 3,…
+$ spsi.npo.2.i5  &lt;dbl&gt; NA, 2, NA, NA, 1, 0, 3, 0, NA, 3, 2, 1, 0, 4, 3, 4, 1,…
+$ spsi.npo.2.i6  &lt;dbl&gt; NA, 1, NA, NA, 0, 0, 1, 0, NA, 1, 2, 1, 1, 4, 1, 1, 4,…
+$ spsi.npo.2.i8  &lt;dbl&gt; NA, 1, NA, NA, 0, 0, 2, 0, NA, 1, 2, 0, 1, 4, 2, 1, 1,…
+$ spsi.ppo.0     &lt;dbl&gt; 9, 11, 5, 8, 15, 11, 6, 13, 9, 12, 14, 13, 15, 6, 8, 1…
+$ spsi.ppo.0.i1  &lt;dbl&gt; 2, 2, 2, 1, 3, 3, 1, 3, 2, 3, 3, 3, 3, 2, 2, 3, 1, 2, …
+$ spsi.ppo.0.i2  &lt;dbl&gt; 2, 3, 1, 1, 3, 3, 2, 3, 1, 2, 3, 2, 2, 1, 2, 2, 2, 2, …
+$ spsi.ppo.0.i4  &lt;dbl&gt; 1, 2, 1, 3, 3, 2, 0, 3, 2, 1, 3, 3, 4, 1, 1, 1, 1, 2, …
+$ spsi.ppo.0.i7  &lt;dbl&gt; 2, 3, 1, 3, 3, 2, 2, 2, 2, 3, 3, 3, 4, 1, 2, 2, 2, 3, …
+$ spsi.ppo.0.i9  &lt;dbl&gt; 2, 1, 0, 0, 3, 1, 1, 2, 2, 3, 2, 2, 2, 1, 1, 2, 0, 2, …
+$ spsi.ppo.1     &lt;dbl&gt; NA, 10, NA, NA, 12, 13, 8, 17, NA, 12, 14, 15, 12, 5, …
+$ spsi.ppo.1.i1  &lt;dbl&gt; NA, 2, NA, NA, 3, 3, 2, 4, NA, 3, 3, 3, 3, 1, 2, 3, 2,…
+$ spsi.ppo.1.i2  &lt;dbl&gt; NA, 2, NA, NA, 3, 3, 2, 3, NA, 2, 3, 3, 1, 2, 2, 2, 2,…
+$ spsi.ppo.1.i4  &lt;dbl&gt; NA, 2, NA, NA, 2, 2, 0, 2, NA, 2, 2, 3, 2, 0, 1, 2, 2,…
+$ spsi.ppo.1.i7  &lt;dbl&gt; NA, 3, NA, NA, 2, 3, 2, 4, NA, 2, 3, 3, 4, 1, 2, 1, 3,…
+$ spsi.ppo.1.i9  &lt;dbl&gt; NA, 1, NA, NA, 2, 2, 2, 4, NA, 3, 3, 3, 2, 1, 1, 2, 2,…
+$ spsi.ppo.2     &lt;dbl&gt; NA, 13, NA, NA, 17, 15, 8, 11, NA, 10, 13, 14, 16, 5, …
+$ spsi.ppo.2.i1  &lt;dbl&gt; NA, 3, NA, NA, 4, 3, 2, 2, NA, 2, 3, 3, 3, 1, 3, 4, 2,…
+$ spsi.ppo.2.i2  &lt;dbl&gt; NA, 3, NA, NA, 4, 3, 2, 2, NA, 2, 3, 3, 3, 1, 3, 4, 3,…
+$ spsi.ppo.2.i4  &lt;dbl&gt; NA, 2, NA, NA, 3, 2, 1, 3, NA, 2, 2, 3, 4, 1, 0, 3, 2,…
+$ spsi.ppo.2.i7  &lt;dbl&gt; NA, 3, NA, NA, 3, 4, 1, 2, NA, 2, 3, 3, 3, 1, 3, 4, 3,…
+$ spsi.ppo.2.i9  &lt;dbl&gt; NA, 2, NA, NA, 3, 3, 2, 2, NA, 2, 2, 2, 3, 1, 1, 3, 0,…
+$ sess           &lt;dbl&gt; 0, 4, 2, 2, NA, 7, 7, NA, 0, 0, NA, NA, NA, 6, NA, NA,…</code></pre>
+</div>

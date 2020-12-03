@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&family=Roboto+Mono:ital@0;1&family=Roboto:ital@0;1&display=swap');
+
+/* Whole document: */
+  code{
+  font-family: 'Roboto Mono', monospace;
+  font: 'Roboto Mono', monospace;
+  color: black;
+  }
+  
+  a {
+  color: #037f6c;
+}

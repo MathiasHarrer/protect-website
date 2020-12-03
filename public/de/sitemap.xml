@@ -92,6 +92,21 @@
   </url>
   
   <url>
+    <loc>/data-warehouse/</loc>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/data-warehouse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/data-warehouse/"
+                />
+  </url>
+  
+  <url>
     <loc>/author/a-barak/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -11372,6 +11387,34 @@
                 rel="alternate"
                 hreflang="de"
                 href="/author/theresa-sextl-msc/"
+                />
+  </url>
+  
+  <url>
+    <loc>/data-warehouse/codebook/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/data-warehouse/codebook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/data-warehouse/codebook/"
+                />
+  </url>
+  
+  <url>
+    <loc>/data-warehouse/coding-guide/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/data-warehouse/coding-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/data-warehouse/coding-guide/"
                 />
   </url>
   
