@@ -5,12 +5,20 @@
     <link>/author/lb-sander/</link>
       <atom:link href="/author/lb-sander/index.xml" rel="self" type="application/rss+xml" />
     <description>LB Sander</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>LB Sander</title>
       <link>/author/lb-sander/</link>
     </image>
+    
+    <item>
+      <title>Effectiveness of a Guided Internet-and Mobile-Based Intervention for Patients with Chronic Back Pain and Depression (WARD-BP)- A Multicenter  Pragmatic Randomized Controlled Trial</title>
+      <link>/publication/effectiveness-of-a-guided-internet-and-mobile-based-intervention-for-patients-with-chronic-back-pain-and-depression-ward-bp-a-multicenter-pragmatic-randomized-controlled-trial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/effectiveness-of-a-guided-internet-and-mobile-based-intervention-for-patients-with-chronic-back-pain-and-depression-ward-bp-a-multicenter-pragmatic-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effectiveness of a Guided Web-Based Self-help Intervention to Prevent Depression in Patients With Persistent Back Pain- The PROD-BP Randomized Clinical Trial</title>

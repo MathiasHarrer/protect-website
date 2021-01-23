@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Briken | Protect Lab</title>
+    <link>/author/p-briken/</link>
+      <atom:link href="/author/p-briken/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Briken</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>P Briken</title>
+      <link>/author/p-briken/</link>
+    </image>
+    
+    <item>
+      <title>@ myTabu-A placebo controlled randomized trial of a guided web-based intervention for individuals who sexually abused children and individuals who consumed child sexual </title>
+      <link>/publication/-mytabu-a-placebo-controlled-randomized-trial-of-a-guided-web-based-intervention-for-individuals-who-sexually-abused-children-and-individuals-who-consumed-child-sexual-/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/-mytabu-a-placebo-controlled-randomized-trial-of-a-guided-web-based-intervention-for-individuals-who-sexually-abused-children-and-individuals-who-consumed-child-sexual-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

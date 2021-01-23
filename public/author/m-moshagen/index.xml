@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Moshagen | Protect Lab</title>
+    <link>/author/m-moshagen/</link>
+      <atom:link href="/author/m-moshagen/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Moshagen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>M Moshagen</title>
+      <link>/author/m-moshagen/</link>
+    </image>
+    
+    <item>
+      <title>StudiCare mindfulness—study protocol of a randomized controlled trial evaluating an internet-and mobile-based intervention for college students with no and “on demand” guidance</title>
+      <link>/publication/studicare-mindfulness-study-protocol-of-a-randomized-controlled-trial-evaluating-an-internet-and-mobile-based-intervention-for-college-students-with-no-and-on-demand-guidance/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/studicare-mindfulness-study-protocol-of-a-randomized-controlled-trial-evaluating-an-internet-and-mobile-based-intervention-for-college-students-with-no-and-on-demand-guidance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

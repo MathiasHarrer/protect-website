@@ -117,6 +117,7 @@ for (i in 1:nrow(pubs)){
     str_replace_all(., "M Franke", "franke") %>%
     str_replace_all(., "J Thielecke", "thielecke") %>%
     str_replace_all(., "J Freund", "freund") %>%
+    str_replace_all(., "C Schulte", "schulte") %>%
     strsplit(., ",")
   authors = authors[[1]]
   

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Bührmann | Protect Lab</title>
+    <link>/author/l-buhrmann/</link>
+      <atom:link href="/author/l-buhrmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Bührmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>L Bührmann</title>
+      <link>/author/l-buhrmann/</link>
+    </image>
+    
+    <item>
+      <title>Tailored implementation of internet-based cognitive behavioural therapy in the multinational context of the ImpleMentAll project- a study protocol for a stepped wedge cluster </title>
+      <link>/publication/tailored-implementation-of-internet-based-cognitive-behavioural-therapy-in-the-multinational-context-of-the-implementall-project-a-study-protocol-for-a-stepped-wedge-cluster-/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tailored-implementation-of-internet-based-cognitive-behavioural-therapy-in-the-multinational-context-of-the-implementall-project-a-study-protocol-for-a-stepped-wedge-cluster-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Protect Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo.svg</url>
       <title>Protect Lab</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>@ myTabu-A placebo controlled randomized trial of a guided web-based intervention for individuals who sexually abused children and individuals who consumed child sexual </title>
+      <link>/publication/-mytabu-a-placebo-controlled-randomized-trial-of-a-guided-web-based-intervention-for-individuals-who-sexually-abused-children-and-individuals-who-consumed-child-sexual-/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/-mytabu-a-placebo-controlled-randomized-trial-of-a-guided-web-based-intervention-for-individuals-who-sexually-abused-children-and-individuals-who-consumed-child-sexual-/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A mobile application for panic disorder and agoraphobia- Insights from a multi-methods feasibility study</title>
@@ -51,10 +59,26 @@
     </item>
     
     <item>
+      <title>BEST FOR CAN–bringing empirically supported treatments to children and adolescents after child abuse and neglect- study protocol</title>
+      <link>/publication/best-for-can-bringing-empirically-supported-treatments-to-children-and-adolescents-after-child-abuse-and-neglect-study-protocol/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/best-for-can-bringing-empirically-supported-treatments-to-children-and-adolescents-after-child-abuse-and-neglect-study-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Binge eating and purging in first‐year college students- Prevalence  psychiatric comorbidity  and academic performance</title>
       <link>/publication/binge-eating-and-purging-in-first-year-college-students-prevalence-psychiatric-comorbidity-and-academic-performance/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/binge-eating-and-purging-in-first-year-college-students-prevalence-psychiatric-comorbidity-and-academic-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brindando tratamiento basado en evidencias a niños y adolescentes luego del abuso y la negligencia infantiles (‘best for can’  por sus siglas en inglés)- un protocolo de </title>
+      <link>/publication/brindando-tratamiento-basado-en-evidencias-a-ninos-y-adolescentes-luego-del-abuso-y-la-negligencia-infantiles-best-for-can-por-sus-siglas-en-ingles-un-protocolo-de-/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brindando-tratamiento-basado-en-evidencias-a-ninos-y-adolescentes-luego-del-abuso-y-la-negligencia-infantiles-best-for-can-por-sus-siglas-en-ingles-un-protocolo-de-/</guid>
       <description></description>
     </item>
     
@@ -95,6 +119,14 @@
       <link>/publication/dimensionality-of-the-system-usability-scale-among-professionals-using-internet-based-interventions-for-depression-a-confirmatory-factor-analysis/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/dimensionality-of-the-system-usability-scale-among-professionals-using-internet-based-interventions-for-depression-a-confirmatory-factor-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of a Guided Internet-and Mobile-Based Intervention for Patients with Chronic Back Pain and Depression (WARD-BP)- A Multicenter  Pragmatic Randomized Controlled Trial</title>
+      <link>/publication/effectiveness-of-a-guided-internet-and-mobile-based-intervention-for-patients-with-chronic-back-pain-and-depression-ward-bp-a-multicenter-pragmatic-randomized-controlled-trial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/effectiveness-of-a-guided-internet-and-mobile-based-intervention-for-patients-with-chronic-back-pain-and-depression-ward-bp-a-multicenter-pragmatic-randomized-controlled-trial/</guid>
       <description></description>
     </item>
     
@@ -155,10 +187,26 @@
     </item>
     
     <item>
+      <title>Internet-based Cognitive Behavioral Therapy for Depression- An Individual Patient Data Network Meta-Analysis</title>
+      <link>/publication/internet-based-cognitive-behavioral-therapy-for-depression-an-individual-patient-data-network-meta-analysis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/internet-based-cognitive-behavioral-therapy-for-depression-an-individual-patient-data-network-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jasmina Burdzovic Andreas* and Geir S. Brunborg</title>
       <link>/publication/jasmina-burdzovic-andreas-and-geir-s-brunborg/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/jasmina-burdzovic-andreas-and-geir-s-brunborg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediators and mechanisms of change in internet-and mobile-based interventions for depression- A systematic review</title>
+      <link>/publication/mediators-and-mechanisms-of-change-in-internet-and-mobile-based-interventions-for-depression-a-systematic-review/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mediators-and-mechanisms-of-change-in-internet-and-mobile-based-interventions-for-depression-a-systematic-review/</guid>
       <description></description>
     </item>
     
@@ -195,6 +243,14 @@
     </item>
     
     <item>
+      <title>Psychological interventions as an alternative and add-on to antidepressant medication to prevent depressive relapse- systematic review and meta-analysis</title>
+      <link>/publication/psychological-interventions-as-an-alternative-and-add-on-to-antidepressant-medication-to-prevent-depressive-relapse-systematic-review-and-meta-analysis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/psychological-interventions-as-an-alternative-and-add-on-to-antidepressant-medication-to-prevent-depressive-relapse-systematic-review-and-meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Psychological interventions to improve sleep in college students- A meta‐analysis of randomized controlled trials</title>
       <link>/publication/psychological-interventions-to-improve-sleep-in-college-students-a-meta-analysis-of-randomized-controlled-trials/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -219,6 +275,22 @@
     </item>
     
     <item>
+      <title>StudiCare mindfulness—study protocol of a randomized controlled trial evaluating an internet-and mobile-based intervention for college students with no and “on demand” guidance</title>
+      <link>/publication/studicare-mindfulness-study-protocol-of-a-randomized-controlled-trial-evaluating-an-internet-and-mobile-based-intervention-for-college-students-with-no-and-on-demand-guidance/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/studicare-mindfulness-study-protocol-of-a-randomized-controlled-trial-evaluating-an-internet-and-mobile-based-intervention-for-college-students-with-no-and-on-demand-guidance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailored implementation of internet-based cognitive behavioural therapy in the multinational context of the ImpleMentAll project- a study protocol for a stepped wedge cluster </title>
+      <link>/publication/tailored-implementation-of-internet-based-cognitive-behavioural-therapy-in-the-multinational-context-of-the-implementall-project-a-study-protocol-for-a-stepped-wedge-cluster-/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tailored-implementation-of-internet-based-cognitive-behavioural-therapy-in-the-multinational-context-of-the-implementall-project-a-study-protocol-for-a-stepped-wedge-cluster-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Testing the efficacy of a minimal-guidance online self-help intervention for alcohol misuse in Estonia- study protocol of a randomized controlled trial</title>
       <link>/publication/testing-the-efficacy-of-a-minimal-guidance-online-self-help-intervention-for-alcohol-misuse-in-estonia-study-protocol-of-a-randomized-controlled-trial/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -239,6 +311,14 @@
       <link>/publication/the-effects-of-fifteen-evidence-supported-therapies-for-adult-depression-a-meta-analytic-review/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/the-effects-of-fifteen-evidence-supported-therapies-for-adult-depression-a-meta-analytic-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of patients’ expectations on surgery outcome in total hip and knee arthroplasty- a prognostic factor meta-analysis</title>
+      <link>/publication/the-effects-of-patients-expectations-on-surgery-outcome-in-total-hip-and-knee-arthroplasty-a-prognostic-factor-meta-analysis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/the-effects-of-patients-expectations-on-surgery-outcome-in-total-hip-and-knee-arthroplasty-a-prognostic-factor-meta-analysis/</guid>
       <description></description>
     </item>
     
@@ -1317,81 +1397,6 @@ World Health Organization&lt;/p&gt;
     </item>
     
     <item>
-      <title>Datenschutzerklärung</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Bei Nutzung unserer Seite erklären Sie sich mit der Datenschutzerklärung einverstanden.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;{{ dateFormat &amp;ldquo;2006&amp;rdquo; now }}&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;r format(Sys.Date(), &amp;quot;%Y-%m-%d&amp;quot;)&lt;/code&gt;&lt;/p&gt;
-&lt;h2 id=&#34;streitschlichtung&#34;&gt;Streitschlichtung&lt;/h2&gt;
-&lt;p&gt;Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;haftung-für-inhalte&#34;&gt;Haftung für Inhalte&lt;/h2&gt;
-&lt;p&gt;Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.&lt;/p&gt;
-&lt;p&gt;Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich.&lt;/p&gt;
-&lt;p&gt;Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;haftung-für-links&#34;&gt;Haftung für Links&lt;/h2&gt;
-&lt;p&gt;Unser Angebot enthält Links zu externen Webseiten Dritter (inklusive Social-Media-Plugins), auf deren Inhalte wir keinen direkten Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.&lt;/p&gt;
-&lt;p&gt;Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar.&lt;/p&gt;
-&lt;p&gt;Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;urheberrecht&#34;&gt;Urheberrecht&lt;/h2&gt;
-&lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.&lt;/p&gt;
-&lt;p&gt;Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet.&lt;/p&gt;
-&lt;p&gt;Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;datenschutz&#34;&gt;Datenschutz&lt;/h2&gt;
-&lt;p&gt;Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Personenbezogene Daten werden ausschließlich in verschlüsselter Form verarbeitet.&lt;/p&gt;
-&lt;p&gt;Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;/p&gt;
-&lt;p&gt;Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;cookies&#34;&gt;Cookies&lt;/h2&gt;
-&lt;p&gt;Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert.&lt;/p&gt;
-&lt;p&gt;Die meisten der von uns verwendeten Cookies sind so genannte „Session-Cookies“. Sie werden nach Ende Ihres Besuchs automatisch gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese löschen. Diese Cookies ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.&lt;/p&gt;
-&lt;p&gt;Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;server-log-files&#34;&gt;Server Log-Files&lt;/h2&gt;
-&lt;p&gt;Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log Files, die Ihr Browser automatisch an uns übermittelt. Dies sind:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Browsertyp und Browserversion&lt;/li&gt;
-&lt;li&gt;verwendetes Betriebssystem&lt;/li&gt;
-&lt;li&gt;Referrer URL&lt;/li&gt;
-&lt;li&gt;Hostname des zugreifenden Rechners&lt;/li&gt;
-&lt;li&gt;Uhrzeit der Serveranfrage&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Wir behalten uns vor, diese Daten nachträglich zu prüfen, wenn uns konkrete Anhaltspunkte für eine rechtswidrige Nutzung bekannt werden.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;recht-auf-auskunft-löschung-sperrung&#34;&gt;Recht auf Auskunft, Löschung, Sperrung&lt;/h2&gt;
-&lt;p&gt;Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;widerspruch-werbe-mail&#34;&gt;Widerspruch Werbe-Mail&lt;/h2&gt;
-&lt;p&gt;Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Impressum</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;h2 id=&#34;angaben-gemäß-5-tmg&#34;&gt;Angaben gemäß §5 TMG&lt;/h2&gt;
-&lt;p&gt;Department of Clinical Psychology&lt;/p&gt;
-&lt;p&gt;Faculty of Psychology and Education&lt;/p&gt;
-&lt;p&gt;VU University Amsterdam&lt;/p&gt;
-&lt;p&gt;Van der Boechorststraat 1, 1081 BT Amsterdam, The Netherlands&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;vertreter&#34;&gt;Vertreter&lt;/h2&gt;
-&lt;p&gt;Assoc. Prof. Dr. David Ebert&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h2&gt;
-&lt;p&gt;Telefon: +49 (0)9131 85 67575&lt;/p&gt;
-&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:d.d.ebert@vu.nl&#34;&gt;d.d.ebert@vu.nl&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>19.1 World Health Organization World Mental Health Surveys International College Student Project (WMH-ICS)- Prevalence and Distribution of Mental Disorders</title>
       <link>/publication/19-1-world-health-organization-world-mental-health-surveys-international-college-student-project-wmh-ics-prevalence-and-distribution-of-mental-disorders/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -1580,6 +1585,14 @@ World Health Organization&lt;/p&gt;
       <link>/publication/efficacy-of-internet-based-guided-treatment-for-genito-pelvic-pain-penetration-disorder-rationale-treatment-protocol-and-design-of-a-randomized-controlled-trial/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/efficacy-of-internet-based-guided-treatment-for-genito-pelvic-pain-penetration-disorder-rationale-treatment-protocol-and-design-of-a-randomized-controlled-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erratum- Internet and mobile-based psychological interventions- Applications  efficacy and potential for improving mental health. A report of the EFPA E-Health Taskforce </title>
+      <link>/publication/erratum-internet-and-mobile-based-psychological-interventions-applications-efficacy-and-potential-for-improving-mental-health-a-report-of-the-efpa-e-health-taskforce-/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/erratum-internet-and-mobile-based-psychological-interventions-applications-efficacy-and-potential-for-improving-mental-health-a-report-of-the-efpa-e-health-taskforce-/</guid>
       <description></description>
     </item>
     

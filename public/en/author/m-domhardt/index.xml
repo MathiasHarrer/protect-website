@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Domhardt | Protect Lab</title>
+    <link>/en/author/m-domhardt/</link>
+      <atom:link href="/en/author/m-domhardt/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Domhardt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Protect Lab 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>M Domhardt</title>
+      <link>/en/author/m-domhardt/</link>
+    </image>
+    
+    <item>
+      <title>Mediators and mechanisms of change in internet-and mobile-based interventions for depression- A systematic review</title>
+      <link>/en/publication/mediators-and-mechanisms-of-change-in-internet-and-mobile-based-interventions-for-depression-a-systematic-review/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/mediators-and-mechanisms-of-change-in-internet-and-mobile-based-interventions-for-depression-a-systematic-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
