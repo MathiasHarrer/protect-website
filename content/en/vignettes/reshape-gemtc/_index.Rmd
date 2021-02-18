@@ -1,0 +1,200 @@
+---
+title: "Reshaping Network Meta-Analysis Datasets: netmeta to gemtc"
+subtitle: "Vignette"
+author: "Mathias Harrer"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    css: "style.css"
+---
+
+<style type="text/css">
+body, td {
+   font-size: 18px;
+}
+code.r{
+  font-size: 16px;
+}
+pre {
+  font-size: 16px
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Synopsis
+
+To conduct a meta-analysis of (contrast-based) effect size data (i.e. pre-calculated effect sizes of treatment comparisons along with their standard error), different data entry formats are needed for _{netmeta}_ and _{gemtc}_.
+
+In [_{netmeta}_](https://cran.r-project.org/web/packages/netmeta/netmeta.pdf), each treatment comparison/effect size corresponds with one line in the data set. The `treat1` and `treat2` columns are used to encode the two treatments that are being compared. This can be seen as a "wider" data format.
+
+In [_{gemtc}_](https://cran.r-project.org/web/packages/gemtc/gemtc.pdf), relative effect data has to be provided in a "longer" format. Each treatment comparison consists of two rows. In the first one, the calculated effect (e.g. SMD, MD, logOR) and its standard error is provided. The second row contains the name of the reference treatment (i.e. the treatment to which the treatment in the first row was compared to), and `NA` in the effect size and standard error columns (provided the comparison is _not_ part of a multi-arm study; see below).
+
+In our assessment, the data format in _{netmeta}_ is closer to how network meta-analysis data is usually collected, for example in _Excel_ sheets. In this vignette, we will therefore show how to reshape network meta-analysis data from the "wider" _{netmeta}_ to the "longer" _{gemtc}_ format.
+
+More information on _{netmeta}_, _{gemtc}_ and network meta-analysis can be found in the ["Doing Meta-Analysis in R"](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) guide.
+
+
+<br></br>
+
+# Reshaping
+
+In this vignette, we will reshape the `TherapyFormats` data set. This data set is part of [_{dmetar}_](https://www.dmetar.protectlab.org), but can also be downloaded as an `.rda` file [here](https://www.protectlab.org/meta-analysis-in-r/data/TherapyFormats.rda).
+
+<font size="3">
+
+```{r, message=F, warning=F}
+library(dmetar)
+
+# Load `TherapyFormats` data set
+data(TherapyFormats)
+head(TherapyFormats[,1:5])
+
+```
+
+</font>
+
+This data set can be used in _{netmeta}_ as is. To conduct a network meta-analysis on the same data in _{gemtc}_, however, we have to bring it in a "longer" format. This can be achieved using the [`pivot_longer`](https://tidyr.tidyverse.org/reference/pivot_longer.html) function in the [_{tidyr}_](https://tidyr.tidyverse.org/index.html) package. For this example, we also have to load the [_{dplyr}_](https://dplyr.tidyverse.org/index.html) und [_{magrittr}_](https://magrittr.tidyverse.org/) package additionally. 
+
+It may take some time to get to accustomed to the logic of `pivot_longer`, but the function is generally very intuitive and powerful. If you want to learn more about `pivot_longer`, and its counterpart `pivot_wider`, you can have a look at this [vignette](https://tidyr.tidyverse.org/articles/pivot.html).
+
+To pivot the data, we (1) select the first five columns in `TherapyFormats`, (2) forward the result in a pipe to `pivot_longer`, and then (3) define the column names needed for the `data.re` argument for relative effect size data in [`mtc.network`](https://www.rdocumentation.org/packages/gemtc/versions/0.8-8/topics/mtc.network).
+
+
+```{r, message=F}
+library(dplyr)
+library(tidyr)
+library(magrittr)
+
+TherapyFormats %>%
+  dplyr::select(1:5) %>%
+  pivot_longer(-author,
+               names_to = c(".value"),
+               names_pattern = "(..)") %>% 
+  set_colnames(c("study", "diff", 
+                 "std.err", "treatment")) -> data
+```
+
+Now, let us have a look at the new data format.
+
+```{r}
+head(data, 10)
+```
+We see that the data now has the desired "longer" format, where the reference group values for `diff` and `std.err` are `NA` in each trial. 
+
+It is also useful to create another data frame in which the full name of the treatments in our network is stored. This information can be added to the `treatments` argument in `mtc.network`, and makes it easier to create network plots further down the line, among other things. There are certainly more elegant approaches, but this is one way to create such a table:
+
+```{r}
+library(tibble)
+
+# Show all treatments
+unique(data$treatment)
+
+c("ind" = "Individual", 
+  "grp" = "Group",
+  "gsh" = "Guided Self-Help",
+  "tel" = "Telephone",
+  "wlc" = "Waitlist",
+  "cau" = "Care As Usual",
+  "ush" = "Unguided Self-Help") %>% 
+  data.frame() %>% 
+  set_colnames("description") %>% 
+  rownames_to_column("id") -> treat.codes
+
+treat.codes
+
+```
+
+We can then put `data` and `treat.codes` into a `list` so we have all the information in one place.
+
+```{r}
+TherapyFormatsGeMTC <- list(data = data, 
+                            treat.codes = treat.codes)
+```
+
+
+
+<br></br>
+
+# Multi-Arm Trials
+
+Since our data contains a multi-arm trial, we cannot yet use the generated data set in _{gemtc}_ as is. For multi-arm trials, more than one effect size is calculated, and these effect sizes are usually correlated. Suppose a trial contains $J=3$ conditions; A, B and C. Using a A as the reference group, we can calculate two effect sizes, one for the A-B and another for the A-C comparison. Since A is used twice, the effect sizes are assumed to be correlated (see e.g. Borenstein et al., chapter 25). To account for this non-independence in multi-arm trials, we also need to specify the standard error of the **reference arm** before we can model our data in _{gemtc}_. 
+
+Franchini and colleagues ([2012](https://doi.org/10.1002/jrsm.1049)) have shown that the standard error of the base arm is equal to the square root of the _covariance_ between the treatment contrasts. The problem is that this covariance between treatment comparisons is hardly ever reported in published articles. This means that the value has to be imputed. Franchini et al. mention several, partly quite sophisticated approaches to estimate the covariance between contrast-level data in multi-arm trials. When dealing with log-odds ratios as the summary measure, the simplest way is to calculate the $\text{SE}$ of the log-odds in the reference arm.  
+
+Since our data includes only one three-arm study and two-arm studies otherwise, we will use a rather simple approach in this example. As mentioned, the required standard error in the base/reference arm can be calculated as the square root of the covariance between the two calculated effects in our multi-arm study. Since $\text{Cov}(x,y) = \text{Cor}(x,y)\sqrt{\text{Var}(x)\text{Var}(y)}$, the following formula can be applied to estimate the reference arm standard error (Schwarzer et al., 2015, chapter 7.1):
+
+$$~$$
+
+$$\text{SE}_{i,j=1} = (\text{Cov}[y^{\text{con}}_{t_{i,1},t_{i,2}},y^{\text{con}}_{t_{i,1},t_{i,3}}])^{0.5} ~\hat{=}~ (\text{SE}^{\text{con}}_{t_{i,1},t_{i,2}}\text{SE}^{\text{con}}_{t_{i,1},t_{i,3}} \hat\rho_{\delta_{i,12}\delta_{i,13}})^{0.5}$$
+
+$$~$$
+
+
+Where $\text{SE}_{i,j=1}$ is the standard error in arm 1 (the base arm) of trial $i$. The value of $\hat\rho_{\delta_{i,12}\delta_{i,13}}$ is our estimate of the true correlation between the two effect sizes calculated for $i$. This correlation depends on the design of the study, but will usually hover around 0.5 (see e.g. Borenstein et al., chapter 25). Using the formula above, we can also conduct _sensitivity analyses_ for varying values of $\hat\rho_{\delta_{i,12}\delta_{i,13}}$ and check how they affect our final results. 
+
+In our example data set, the study by Breiman (2001) is a multi-arm trial:
+
+```{r}
+# Show studies with more than two conditions
+TherapyFormatsGeMTC$data %>% 
+  pull(study) %>% 
+  table() %>% 
+  {.[. > 2]}
+
+# Select Breiman, 2001 study
+TherapyFormatsGeMTC$data %>% 
+  filter(study == "Breiman, 2001")
+```
+There are two problems concerning the data format of this trial. First, there is one "redundant" effect size. To use _{gemtc}_, we have to make sure that effect sizes in multi-arm studies are always based on the same reference group. In our example, this is `wlc`. We can remove the first two lines corresponding with the `ind` vs. `gsh` comparison, since this effect can be derived from the other two contrasts anyway (effect sizes in multiarm trials are consistent by design). The fourth line can also be removed because we do not want to specify the base arm twice.
+
+```{r}
+TherapyFormatsGeMTC$data <- TherapyFormatsGeMTC$data[-c(15,16,32),]
+```
+
+Furthermore, in the `std.err` column, we have to replace `NA` with the standard error of the base arm (for `wlc`). Assuming $\hat\rho=0.5$ for the correlation of the treatment comparisons, for example, we can estimate the co-variance, and thus the standard error for the base arm `wlc`.  
+
+```{r}
+# Show base arm SE
+se.base <- sqrt(0.513*0.514*0.5)
+
+se.base
+
+
+# The wlc arm is in row 365
+TherapyFormatsGeMTC$data[365, "std.err"] <- se.base
+```
+
+Let us check how the final data structure looks like for our multi-arm trial:
+
+```{r}
+TherapyFormatsGeMTC$data %>% 
+  filter(study == "Breiman, 2001")
+```
+
+As mentioned above, when it is unclear what the true value of $\hat\rho$ is, one may assume different values of $0<\hat\rho<1$, and check to what extent these different assumption affect the overall results of the network meta-analysis using _{gemtc}_.
+
+
+<br></br>
+
+## References
+
+**Borenstein**, M., Hedges, L. V., Higgins, J. P., & Rothstein, H. R. (2011). _Introduction to meta-analysis_. John Wiley & Sons.
+
+**Franchini**, A. J., Dias, S., Ades, A. E., Jansen, J. P., & Welton, N. J. (2012). Accounting for correlation in network meta‐analysis with multi‐arm trials. _Research Synthesis Methods, 3_(2), 142-160.
+
+**Schwarzer**, G., Carpenter, J. R., & Rücker, G. (2015). _Meta-analysis with R_. New York: Springer.
+
+
+
+
+
+
+
+
+
+
+

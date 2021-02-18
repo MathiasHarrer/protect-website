@@ -92,6 +92,51 @@
   </url>
   
   <url>
+    <loc>/vignettes/reshape-gemtc/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/vignettes/reshape-gemtc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/vignettes/reshape-gemtc/"
+                />
+  </url>
+  
+  <url>
+    <loc>/vignettes/</loc>
+    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/vignettes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/vignettes/"
+                />
+  </url>
+  
+  <url>
+    <loc>/data-warehouse/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/data-warehouse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/data-warehouse/"
+                />
+  </url>
+  
+  <url>
     <loc>/publication/-mytabu-a-placebo-controlled-randomized-trial-of-a-guided-web-based-intervention-for-individuals-who-sexually-abused-children-and-individuals-who-consumed-child-sexual-/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -5378,6 +5423,36 @@
                 rel="alternate"
                 hreflang="de"
                 href="/courses/"
+                />
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/terms/"
                 />
   </url>
   
@@ -11836,6 +11911,34 @@
                 rel="alternate"
                 hreflang="de"
                 href="/author/theresa-sextl-msc/"
+                />
+  </url>
+  
+  <url>
+    <loc>/data-warehouse/codebook/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/data-warehouse/codebook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/data-warehouse/codebook/"
+                />
+  </url>
+  
+  <url>
+    <loc>/data-warehouse/coding-guide/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/data-warehouse/coding-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/data-warehouse/coding-guide/"
                 />
   </url>
   

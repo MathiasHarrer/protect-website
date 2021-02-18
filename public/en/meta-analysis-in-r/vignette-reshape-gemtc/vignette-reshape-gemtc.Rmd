@@ -1,0 +1,62 @@
+---
+title: "Reshaping Network Meta-Analysis Datasets: `netmeta` to `gemtc`"
+subtitle: "Vignette"
+author: "Mathias Harrer"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    css: "style.css"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Synopsis
+
+To conduct a meta-analysis of (contrast-based) effect size data (i.e. pre-calculated effect sizes of treatment comparisons along with their standard error), different data entry formats are needed for `netmeta` and `gemtc`.
+
+In [`netmeta`](https://cran.r-project.org/web/packages/netmeta/netmeta.pdf), each treatment comparison/effect size corresponds with one line in the data set. The `treat1` and `treat2` columns are used to encode the two treatments that are being compared. This can be seen as a "wider" data format.
+
+In [`gemtc`](https://cran.r-project.org/web/packages/gemtc/gemtc.pdf), relative effect data has to be provided in a "longer" format. Each treatment comparison consists of two rows. In the first one, the calculated effect (e.g. SMD, MD, logOR) and its standard error is provided. The second row contains the name of the reference treatment (i.e. the treatment to which the treatment in the first row was compared to), and `NA` in the effect size and standard error columns (provided the comparison is _not_ part of a multi-arm study; see below).
+
+In our assessment, the data format in `netmeta` is closer to how network meta-analysis data is usually collected, for example in _Excel_ sheets. In this vignette, we will therefore show how to reshape network meta-analysis data from the "wider" `netmeta` to the "longer" `gemtc` format.
+
+More information on `netmeta`, `gemtc` and network meta-analysis can be found in the ["Doing Meta-Analysis in \textsf{R}"](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) guide.
+
+
+# Reshaping
+
+In this vignette, we will reshape the `TherapyFormats` data set. This data set is part of [`dmetar`](www.dmetar.protectlab.org), but can also be downloaded as an `.rda` file [here](https://www.protectlab.org/meta-analysis-in-r/data/TherapyFormats.rda).
+
+
+```{r, message=F, warning=F}
+library(dmetar)
+
+# Load `TherapyFormats` data set
+data(TherapyFormats)
+head(TherapyFormats[,1:5])
+
+```
+
+$$\text{SE}_{i,j=1} = (\text{Cov}[y^{\text{con}}_{t_{i,1},t_{i,2}},y^{\text{con}}_{t_{i,1},t_{i,3}}])^{0.5} ~\hat{=}~ (\text{SE}^{\text{con}}_{t_{i,1},t_{i,2}}\text{SE}^{\text{con}}_{t_{i,1},t_{i,3}} \hat\rho_{\delta_{i,12}\delta_{i,13}})^{0.5}$$
+
+
+multi-arm trial $i$ with $j=3$ arms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
