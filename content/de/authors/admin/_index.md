@@ -37,7 +37,7 @@ social:
   link: https://www.researchgate.net/profile/David_Ebert4
 superuser: true
 weight: 1
-title: Dr. habil. David Daniel Ebert
+title: Prof. Dr. David Daniel Ebert
 user_groups:
 - Mitarbeiter
 ---
@@ -45,7 +45,7 @@ user_groups:
 <br></br>
 
 
-David Daniel Ebert ist Leiter des Protect Lab. Herr Ebert ist zudem Co-Founder, Co-Geschäftsführer und Chief Scientific Officer von [HelloBetter](https://hellobetter.de), sowie Präsident der International Society for Research on Internet Interventions ([ISRII](http://isrii.org)).
+David Daniel Ebert ist Professor of Psychology & Digital Mental Health Care an der Technischen Universität München und Leiter des Protect Lab. Herr Ebert ist zudem Co-Founder, Co-Geschäftsführer und Chief Scientific Officer von [HelloBetter](https://hellobetter.de), sowie Präsident der International Society for Research on Internet Interventions ([ISRII](http://isrii.org)).
 
 Die Forschung von Herrn Ebert fokussiert auf die Entwicklung und Evaluation evidenz-basierter Internet- und mobil-basierter Gesundheitsinterventionen zur Förderung der psychischen Gesundheit  in unterschiedlichen Settings und Lebenswelten (Arbeit, Universität) mit einem besonderen Fokus auf die Prävention und Früh-Intervention psychischer Erkrankungen.
 

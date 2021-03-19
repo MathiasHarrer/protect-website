@@ -6,9 +6,9 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "Information"
-subtitle = "Dr. habil. David Daniel Ebert"
+subtitle = "Prof. Dr. David Daniel Ebert"
 +++
-    
+
 ![](ebert_header.png)    
 
 ## About
@@ -27,7 +27,7 @@ Together with his team, Dr. Ebert developed more than 15 internet-based health i
 
 Besides numerous book chapters and german-language publications, Dr. Ebert has published more than 100 peer-review articles in international journals. He has raised more than 5 Million € (~ 6 Mio. USD) in funding, and he is a key representative/work package leader in numerous european FP7/H2020-projects concerning the prevention (iCARE, H2020) and treatment of mental disorders (Mastermind, EC FP7, CIP Pilot Actions) and their implementation into routine care.
 
-Furthermore, Dr. Ebert is President and board of directors member of the International Society for Research on Internet Interventions (ISRII), an international society for digital health intervention acting globally. He also serves as the board of directors member of the German Society for Psychology Health Psychology Group, German Society for Psychology EFPA emissary, founding member and board of directors member of the 
+Furthermore, Dr. Ebert is President and board of directors member of the International Society for Research on Internet Interventions (ISRII), an international society for digital health intervention acting globally. He also serves as the board of directors member of the German Society for Psychology Health Psychology Group, German Society for Psychology EFPA emissary, founding member and board of directors member of the
 
 „European Society for Research on Internet Interventions" (ESRII), and member of the editorial board for Elsevier's Internet Interventions, and as Associate Editor for BMC Medical Research Methodology.
 
@@ -37,10 +37,10 @@ Dr. Ebert has been awarded numerous national and international prizes and awards
 
 <br></br>
 
-## Awards
+## Awards (Selection)
 
 * **Comenius Award of the European Federation of Psychologist Association (EFPA)** selected from nominations from all european national societies for scientific psychology in Europe 2017
-* **Charlotte- und Karl-Bühler Prize of the German Society for Psychology** for the "scientific work which has reached the status of a research program and which has already influenced psychology and research fields beyond" 
+* **Charlotte- und Karl-Bühler Prize of the German Society for Psychology** for the "scientific work which has reached the status of a research program and which has already influenced psychology and research fields beyond"
 * **Young Researcher Award 2015** of the Clinical Psychology and Psychotherapy Group of the German Society for Psychology
 * **Prize of the German Society for Behavior Therapy  (DGVT)** for special contributions on the field of behavior therapy, 2014
 * **Grant Personal Mobility EU Erasmus** for scientific work at the Free University Amsterdam  (Prof. Dr. Pim Cuijpers), October-December 2013
@@ -55,7 +55,7 @@ Dr. Ebert has been awarded numerous national and international prizes and awards
 
 <br></br>
 
-## Funding & Grants
+## Funding & Grants (Selection)
 
 * Reducing the incidence of depression for patients with back pain and subclinical depression using an internet- and mobile-based intervention: Follow-up assessment of a pragmatic randomized controlled large-scale trial. DFG. Laufzeit: 15 Monate; 2018-2019. Fördermittel €96.926.
 * Mit uns im Gleichgewicht. Prävention von Depression bei  Landwirten, SVFLG, 1.3500.000€ (PI)
@@ -78,4 +78,3 @@ Dr. Ebert has been awarded numerous national and international prizes and awards
 * Internet-based health interventions. EU EFRE (ZW6-80119999, CCI 2007DE161PR001). Dauer: 36 Monate, 2011–2015. 2.589.789€ (Projektkoordinator, PI: M. Berking, B. Funk, B. Sieland).
 * Evaluation einer online-basierten Transferförderung nach stationärer Depressionstherapie, Bundesministerium für Bildung und Forschung. Chronische Krankheiten und Patientenorientierung (01GX1002), 2011–2014. 419.170€  (Co-PI, PI: M. Berking).
 * Evaluation einer online-basierten transdiagnostischen Nachsorge zur Förderung der Stabilität der Effekte einer stationär-psychosomatischen Rehabilitationsmaßnahme“ von der Fachklinik für Psychotherapie und Psychosomatik – Vogelsbergklinik, 2007-2009. 100.000€ (PI)
-

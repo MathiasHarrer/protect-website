@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/author/dr.-habil.-david-daniel-ebert/</loc>
+    <loc>/author/prof.-dr.-david-daniel-ebert/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/dr.-habil.-david-daniel-ebert/"
+                href="/en/author/prof.-dr.-david-daniel-ebert/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/author/dr.-habil.-david-daniel-ebert/"
+                href="/author/prof.-dr.-david-daniel-ebert/"
                 />
   </url>
   
@@ -33,16 +33,16 @@
   </url>
   
   <url>
-    <loc>/author/dr.-habil.-david-daniel-ebert/</loc>
+    <loc>/author/prof.-dr.-david-daniel-ebert/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/dr.-habil.-david-daniel-ebert/"
+                href="/en/author/prof.-dr.-david-daniel-ebert/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/author/dr.-habil.-david-daniel-ebert/"
+                href="/author/prof.-dr.-david-daniel-ebert/"
                 />
   </url>
   
@@ -77,17 +77,17 @@
   </url>
   
   <url>
-    <loc>/author/dr.-johannes-a.c.-laferton/</loc>
+    <loc>/author/prof.-dr.-johannes-a.c.-laferton/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/author/dr.-johannes-a.c.-laferton/"
+                href="/en/author/prof.-dr.-johannes-a.c.-laferton/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/author/dr.-johannes-a.c.-laferton/"
+                href="/author/prof.-dr.-johannes-a.c.-laferton/"
                 />
   </url>
   
@@ -11593,20 +11593,6 @@
   </url>
   
   <url>
-    <loc>/ebert-lebenslauf/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/ebert-lebenslauf/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/ebert-lebenslauf/"
-                />
-  </url>
-  
-  <url>
     <loc>/publication/efficacy-and-moderators-of-internet-based-interventions-in-adults-with-subthreshold-depression-an-individual-participant-data-meta-analysis-of-randomized-controlled-trials/</loc>
     <xhtml:link
                 rel="alternate"
@@ -11785,6 +11771,20 @@
                 rel="alternate"
                 hreflang="de"
                 href="/press/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ebert-lebenslauf/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/ebert-lebenslauf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/ebert-lebenslauf/"
                 />
   </url>
   

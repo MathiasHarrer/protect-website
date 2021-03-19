@@ -73,7 +73,7 @@ cit.stats = data.frame(number = c(get_profile(id)$h_index,
                                   scholar::get_num_articles(id)),
                        metric = c("h-Index", "i10-Index", "Publikationen"))
 
-ggplot(cit.hist, aes(x = year, y = cites)) +
+ggplot(cit.hist, aes(x = as.factor(year), y = cites)) +
   geom_bar(stat = "identity", fill = "#cdde99") +
   geom_text(aes(label = cites), vjust = -0.2) +
   ylim(0, max(cit.hist$cites) + 30) +

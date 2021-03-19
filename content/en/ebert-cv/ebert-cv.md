@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Curriculum Vitae"
-subtitle = "Assoc. Prof. Dr. David Daniel Ebert"
+subtitle = "Prof. Dr. David Daniel Ebert"
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
@@ -16,6 +16,15 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Professor"
+  company = "TU Munich"
+  company_url = "https://www.sg.tum.de/en/home/"
+  location = "Munich, Germany"
+  date_start = "2018-10-01"
+  description = """"""
+
 
 [[experience]]
   title = "Associate Professor"
@@ -62,12 +71,12 @@ date_format = "Jan 2006"
   date_end = "2013-02-01"
   description = """
   Thesis: Improving Psychotherapy Outcome in the Treatment of Mental Health Disorders
-  
+
   * Supervisor:  Prof. Dr. Matthias Berking, Prof. Dr. Pim Cuijpers
   * GPA: 1.0 „excellent" (summa cum laude)
   """
-  
-  
+
+
 [[experience]]
   title = "Instructor"
   company = "University of Marburg, University of Lüneburg"
@@ -76,6 +85,5 @@ date_format = "Jan 2006"
   date_start = "2006-01-01"
   date_end = "2009-03-31"
   description = """"""
-  
+
 +++
-    

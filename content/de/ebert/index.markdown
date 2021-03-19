@@ -1,22 +1,22 @@
 ---
 title: "Information"
-subtitle: "Dr. habil. David Daniel Ebert"
+subtitle: "Prof. Dr. David Daniel Ebert"
 ---
 
 
-![](ebert_header.png)    
+![](ebert_header.png)
 
 Die Forschung von Herrn Ebert fokussiert auf die Entwicklung und Evaluation evidenz-basierter Internet- und mobil-basierter Gesundheitsinterventionen zur Förderung der psychischen Gesundhei in unterschiedlichen Settings und Lebenswelten (Arbeit, Universität) mit einem besonderen Fokus auf die Prävention und Früh-Intervention psychischer Erkrankungen.
 
-Weiter Forschungsgebiete beziehen sich auf die gesundheitsökonomische Evaluation von psychologischen Interventionen sowie die Identifikation protektiver Faktoren für die psychische Gesundheit sowie die Entwicklung und Testung multivariater Modelle zur Vorhersage von psychosozialen Gesundheitsverläufen.
+Weitere Forschungsgebiete beziehen sich auf die gesundheitsökonomische Evaluation von psychologischen Interventionen sowie die Identifikation protektiver Faktoren für die psychische Gesundheit sowie die Entwicklung und Testung multivariater Modelle zur Vorhersage von psychosozialen Gesundheitsverläufen.
 
 Er erhielt seinen Doktortitel in Psychologie 2013 von der Phillips-Universität Marburg mit besonderer Auszeichnung (summa cum laude).
 
 Er war wissenschaftlicher Mitarbeiter (2009-2014) in der Abteilung Klinische Psychologie und Psychotherapie der Philipps-Universität Marburg, operativer Projetleiter des Kompetenztandems Gesundheitstraining.Online der Leuphana Universität Lüneburg (18 wissenschaftliche Mitarbeiter, 2011-2014) und anschließend an der Harvard Medical School, Department for Health Care Policy Harvard University in Boston tätig.
 
-Gemeinsam mit seinem Team hat er 15  verschiedene Internet-basierte Gesundheitsinterventionen entwickelt, deren Wirksamkeit und Kosteneffektivität in insgesamt über 40 randomisiert-kontrollierten klinischen Studien evaluiert wurden/derzeit evaluiert werden.   
+Gemeinsam mit seinem Team hat er 15 verschiedene Internet-basierte Gesundheitsinterventionen entwickelt, deren Wirksamkeit und Kosteneffektivität in insgesamt über 40 randomisiert-kontrollierten klinischen Studien evaluiert wurden/derzeit evaluiert werden.
 
-Neben zahlreichen deutschen Buch- und Zeitschriftenbeiträgen hat er, größtenteils zum Bereich eMental Health,  über 100 peer-reviewed Artikel  in internationalen Fachzeitschriften veröffentlicht. Seine Drittmittel übersteigen 5 Millionen € und er ist als Work-Package Leader in mehreren Europäischen FP7/H2020 Projekten für die Durchführung multi-nationaler Studien zur Evaluation von online-Interventionen zur Prävention (iCARE, H2020) und Behandlung psychischer Störungen (Mastermind, EC FP7, CIP Pilot Actions), sowie deren Implementierung in die Regelversorgung verantwortlich.
+Neben zahlreichen deutschen Buch- und Zeitschriftenbeiträgen hat er, größtenteils zum Bereich eMental Health, über 100 peer-reviewed Artikel in internationalen Fachzeitschriften veröffentlicht. Seine Drittmittel übersteigen 5 Millionen € und er ist als Work-Package Leader in mehreren Europäischen FP7/H2020 Projekten für die Durchführung multi-nationaler Studien zur Evaluation von online-Interventionen zur Prävention (iCARE, H2020) und Behandlung psychischer Störungen (Mastermind, EC FP7, CIP Pilot Actions), sowie deren Implementierung in die Regelversorgung verantwortlich.
 
 Zudem ist er amtierender President und Mitglied der „Board of Directors“ der International Society for Research on Internet Interventions (ISRII), einer weltweiten wissenschaftlichen Fachgesellschaft für digitale Gesundheitsinterventionen. Er ist ebenfalls Vorstandsmitglied der Deutschen Gesellschaft für Psychologie Fachgruppe Gesundheitspsychologie; Gesandter der DGPS  in der Taskforce E-Health der European Federation of Psychologists Association (EFPA), Gründungsmitglied und Teil des Vorstandes der „European Society for Research on Internet Interventions (ESRII),und Mitglied des Editorial Board der im Elsevier Verlag erscheinenden Zeitschrift Internet Interventions, sowie Associate Editor des Journals BMC Medical Research Methodology.
 
@@ -27,10 +27,10 @@ In Anerkennung seiner bisherigen wissenschaftlichen Leistungen wurde er mit zahl
 
 <br></br>
 
-## Auszeichnungen
+## Auszeichnungen (Auswahl)
 
 * **Comenius Award of the European Federation of Psychologist Association (EFPA)** selected from nominations from all european national societies for scientific psychology in Europe 2017
-* **Charlotte- und Karl-Bühler Prize of the German Society for Psychology** for the "scientific work which has reached the status of a research program and which has already influenced psychology and research fields beyond" 
+* **Charlotte- und Karl-Bühler Prize of the German Society for Psychology** for the "scientific work which has reached the status of a research program and which has already influenced psychology and research fields beyond"
 * **Young Researcher Award 2015** of the Clinical Psychology and Psychotherapy Group of the German Society for Psychology
 * **Prize of the German Society for Behavior Therapy  (DGVT)** for special contributions on the field of behavior therapy, 2014
 * **Grant Personal Mobility EU Erasmus** for scientific work at the Free University Amsterdam  (Prof. Dr. Pim Cuijpers), October-December 2013
@@ -45,7 +45,7 @@ In Anerkennung seiner bisherigen wissenschaftlichen Leistungen wurde er mit zahl
 
 <br></br>
 
-## Funding & Grants
+## Funding & Grants (Auswahl)
 
 * Reducing the incidence of depression for patients with back pain and subclinical depression using an internet- and mobile-based intervention: Follow-up assessment of a pragmatic randomized controlled large-scale trial. DFG. Laufzeit: 15 Monate; 2018-2019. Fördermittel €96.926.
 * Mit uns im Gleichgewicht. Prävention von Depression bei  Landwirten, SVFLG, 1.3500.000€ (PI)

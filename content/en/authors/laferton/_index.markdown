@@ -1,6 +1,6 @@
 ---
 authors:
-- Dr. Johannes Laferton
+- Prof. Dr. Johannes Laferton
 bio:
 education:
   courses:
@@ -13,7 +13,7 @@ education:
   - course: Diploma Psychology
     institution: University of Salzburg
     year: 2010
-email: "johannes.laferton@fau.de"
+email: "johannes.laferton@health-and-medical-university.de"
 interests:
 - Psychocardiology
 - Expectations in the context of physical illness
@@ -22,13 +22,13 @@ interests:
 - Psychological mechanisms in the development of physical symptoms
 - Positive psychology in physical illness and health
 organizations:
-- name: Friedrich-Alexander-Universität Erlangen-Nürnberg & Psychologische Hochschule Berlin (PHB)
+- name: Health and Medical University Potsdam
   url: ""
-role: Post-Doc Research Fellow
+role: Associated Member
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:johannes.laferton@fau.de
+  link: mailto:johannes.laferton@health-and-medical-university.de
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jlaferton
@@ -38,11 +38,11 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Johannes_Laferton
-- icon: file-pdf
+- icon: info-circle
   icon_pack: fas
-  link: https://www.psychologische-hochschule.de/wp-content/uploads/2020/01/Laferton-CV.pdf
+  link: https://www.health-and-medical-university.de/universitaet/unser-team/team-fakultaet-medizin/professoren/prof-dr-johannes-laferton/
 superuser: false
-title: Dr. Johannes A.C. Laferton
+title: Prof. Dr. Johannes A.C. Laferton
 weight: 4
 aliases:
 - /laferton-en
@@ -54,7 +54,7 @@ user_groups:
 
 <font size="3">
 
-Dr. Laferton, postdoctoral Research Fellow and licensed psychological psychotherapist (VT), is currently holding the substitute professorship for clinical psychology at the Philipps University of Marburg. Dr. Laferton received his doctorate in 2014 from Philipps University of Marburg. As a post-doctoral researcher, Dr. Laferton has worked or is working at Harvard Medical School, the Psychological University of Berlin and the Friedrich-Alexander-University Erlangen-Nuremberg.
+Dr. Laferton is professor of Medical Psychology at the Health and Medical University Potsdam, and licensed psychological psychotherapist (behavior therapy). Dr. Laferton received his doctorate in 2014 from Philipps University of Marburg. As a post-doctoral researcher, Dr. Laferton has worked or is working at Harvard Medical School, the Psychological University of Berlin and the Friedrich-Alexander-University Erlangen-Nuremberg.
 
 Dr. Laferton's research focuses on patient expectations as a mechanism of change in medical and psychological treatment. In the medical context, Dr. Laferton works on the use of placebo effects to improve post-operative outcomes of surgical interventions. Together with colleagues from the University of Marburg, Dr. Laferton developed and evaluated EXPECT, a psychological short intervention to optimize preoperative expectations in heart surgery patients, which has been shown to be effective in reducing long-term post-operative disability.
 

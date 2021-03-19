@@ -19,21 +19,21 @@ cit.stats = data.frame(number = c(get_profile(id)$h_index,
                                   scholar::get_num_articles(id)),
                        metric = c("h-Index", "i10-Index", "Publications"))
 
-ggplot(cit.hist, aes(x = year, y = cites)) + 
+ggplot(cit.hist, aes(x = as.factor(year), y = cites)) +
   geom_bar(stat = "identity", fill = "#cdde99") +
   geom_text(aes(label = cites), vjust = -0.2) +
-  ylim(0, max(cit.hist$cites) + 100) +
+  ylim(0, max(cit.hist$cites) + 140) +
   ylab("Citations") +
   xlab("") +
   theme_minimal() -> plot1
 
-ggplot(cit.stats, aes(x = metric, y = number)) + 
+ggplot(cit.stats, aes(x = metric, y = number)) +
   geom_bar(stat = "identity", fill = "#2a7792") +
   geom_text(aes(label = number, fill = "white"), hjust = -0.2) +
   ylab("") +
   xlab("") +
   ylim(0, max(cit.stats$number) + 35) +
-  theme_minimal() + 
+  theme_minimal() +
   coord_flip() -> plot2
 
 ggdraw() +
@@ -41,7 +41,4 @@ ggdraw() +
   draw_plot(plot2, 0.5, 0, width = 0.5)}
 ```
 
-[Assoc. Prof. Dr. David Ebert ↗](en/author/assoc.-prof.-dr.-david-daniel-ebert/)
-
-
-
+[Prof. Dr. David Ebert ↗](en/ebert)

@@ -81,16 +81,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "d.d.ebert@vu.nl"
+email = "d.ebert@hellobetter.de"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Nägelsbachstraße 25a", city = "Erlangen", region = "BY", postcode = "91052", country = "Deutschland", country_code = "DE"}
+address = {street = "Georg-Brauchle-Ring 60/62", city = "München", region = "BY", postcode = "80992", country = "Deutschland", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "49.59061770877157", longitude = "11.003249421715742"}
+coordinates = {latitude = "48.177255093243076", longitude = "11.533922141829585"}
 
 # Directions for visitors to locate you.
 directions = ""

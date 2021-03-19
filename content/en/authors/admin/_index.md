@@ -13,11 +13,11 @@ bio:
 #   - course: PhD Psychology (Dr. rer. nat)
 #     institution: Philipps University Marburg & VU University Amsterdam
 #     year: 2013
-email: "d.d.ebert@vu.nl"
+email: "d.ebert@hellobetter.de"
 organizations:
 - name: CSO, HelloBetter
   url: "https://www.hellobetter.de"
-role: Director, Protect Lab
+role: Director Protect Lab
 social:
 - icon: envelope-open
   icon_pack: fas
@@ -32,7 +32,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/David_Ebert4
 superuser: true
-title: Dr. habil. David Daniel Ebert
+title: Prof. Dr. David Daniel Ebert
 weight: 1
 user_groups:
 - Staff
@@ -41,7 +41,7 @@ user_groups:
 <br></br>
 
 
-David Daniel Ebert is Director of the Protect Lab. Mr. Ebert is also Co-Founder, Co-Managing Director and Chief Scientific Officer of [HelloBetter](hellobetter.de), as well as president of the International Society for Research on Internet Interventions, [ISRII](http://isrii.org).
+David Daniel Ebert is professor of Psychology & Digital Mental Health Care at TU Munich and director of the Protect Lab. Dr. Ebert is also co-founder, co-managing director and chief scientific officer of [HelloBetter](hellobetter.de), as well as president of the International Society for Research on Internet Interventions, [ISRII](http://isrii.org).
 
 Mr. Ebert's research focuses on the development and evaluation of evidence-based Internet and mobile-based health interventions for the promotion of mental health in different settings and environments (e.g. work, university) with a special focus on the prevention and early intervention of mental illness.
 
