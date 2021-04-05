@@ -93,7 +93,7 @@
   
   <url>
     <loc>/vignettes/reshape-gemtc/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -107,23 +107,8 @@
   </url>
   
   <url>
-    <loc>/vignettes/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/vignettes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/vignettes/"
-                />
-  </url>
-  
-  <url>
     <loc>/data-warehouse/</loc>
-    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -133,6 +118,21 @@
                 rel="alternate"
                 hreflang="de"
                 href="/data-warehouse/"
+                />
+  </url>
+  
+  <url>
+    <loc>/vignettes/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/vignettes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/vignettes/"
                 />
   </url>
   
