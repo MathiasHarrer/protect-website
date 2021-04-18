@@ -34,7 +34,7 @@ user_groups:
 
 <font size="3">
 
-Johanna Freund ist M.Sc.-Psychologin und promoviert an der Friedrich-Alexander-Universität Erlangen-Nürnberg. Ihr Forschungsschwerpunkt ist die Implementation und Evaluation und von e-Mental Health sowie tele-gestützten Lösungen zur Prävention von psychischen Erkrankungen. Erfahrungen in unterschiedlichen Gesundheitsbereichen konnte sie als Wissenschaftliche Mitarbeiterin am Lehrstuhl für Epidemiologie und Präventivmedizin der Universität Regensburg sowie als freiberufliche Mitarbeiterin an einem Institut für betriebliches Gesundheitsmanagement sammeln.
+Johanna Freund ist M.Sc.-Psychologin und promoviert an der Friedrich-Alexander-Universität Erlangen-Nürnberg. Ihr Forschungsschwerpunkt ist die Implementation und Evaluation von e-Mental Health sowie tele-gestützten Lösungen zur Prävention von psychischen Erkrankungen. Erfahrungen in unterschiedlichen Gesundheitsbereichen konnte sie als Wissenschaftliche Mitarbeiterin am Lehrstuhl für Epidemiologie und Präventivmedizin der Universität Regensburg sowie als freiberufliche Mitarbeiterin an einem Institut für betriebliches Gesundheitsmanagement sammeln.
 
 Nach dem Studium der Psychologie an der Universität Regensburg und der Karls-Universität Prag arbeitet Johanna Freund seit April 2018 als Wissenschaftliche Mitarbeiterin am Lehrstuhl für Klinische Psychologie und Psychotherapie der Universität Erlangen-Nürnberg in der Arbeitsgruppe E-Mental Health.
 
