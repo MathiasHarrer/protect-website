@@ -1,0 +1,25 @@
+---
+title: "Forschungspraktikum für Psychologiestudierende"
+subtitle: "Arbeitsbereich E-Mental Health"
+author: "FAU Erlangen-Nürnberg"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    css: "style.css"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](fau.jpg)
+
+
+Der Lehrstuhl für Klinische Psychologie und Psychotherapie der FAU Erlangen-Nürnberg bietet ab sofort ein Forschungspraktikum für Psychologiestudierende (Bachelor/Master) im Bereich E-Mental Health an.
+
+Die Ausschreibung kann [hier](Ausschreibung_Praktikum_21.pdf) abgerufen werden.
+
+<br></br>
+
+_Foto: FAU/Georg Pöhlein_

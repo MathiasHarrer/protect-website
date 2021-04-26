@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Professor"
+  title = "🎓 Professor"
   company = "TU Munich"
   company_url = "https://www.sg.tum.de/en/home/"
   location = "Munich, Germany"
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Associate Professor"
+  title = "🎓 Associate Professor"
   company = "VU University Amsterdam"
   company_url = "https://research.vu.nl/en/persons/david-daniel-ebert"
   location = "Amsterdam, Netherlands"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Scientific Staff & Habilitation"
+  title = "📒 Scientific Staff & Habilitation"
   company = "Friedrich-Alexander University Erlangen-Nuremberg"
   company_url = ""
   location = "Erlangen, Germany"
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Postdoctoral Research Fellow"
+  title = "🔬 Postdoctoral Research Fellow"
   company = "Harvard Medical School"
   company_url = ""
   location = "Boston, MA, USA"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   description = """Department of Health Care Policy (Prof. R.C. Kessler)"""
 
 [[experience]]
-  title = "Scientific Staff"
+  title = "🔭 Scientific Staff"
   company = "University of Marburg"
   company_url = ""
   location = "Marburg, Germany"
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Dissertation in Psychology (PhD)"
+  title = "📒 Dissertation in Psychology (PhD)"
   company = "University of Marburg, VU Amsterdam"
   company_url = ""
   location = "Marburg, Germany & Amsterdam, the Netherlands"
@@ -78,7 +78,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Instructor"
+  title = "🧑🏻‍ Instructor"
   company = "University of Marburg, University of Lüneburg"
   company_url = ""
   location = "Marburg & Lüneburg, Germany"

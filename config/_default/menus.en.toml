@@ -24,7 +24,7 @@
 
 [[main]]
   name = "Job Postings"
-  url = "en/talk/"
+  url = "en/job/"
   parent = "lab"
   weight = 22
 
