@@ -1,0 +1,18 @@
+TY  - BOOK
+TI  - Doing Meta-Analysis With R: A Hands-On Guide
+AU  - Harrer, Mathias
+AU  - Cuijpers, Pim
+AU  - Furukawa, Toshi A
+AU  - Ebert, David D
+AB  - This book serves as an accessible introduction into how meta-analyses can be conducted in R. Essential steps for meta-analysis are covered, including pooling of outcome measures, forest plots, heterogeneity diagnostics, subgroup analyses, meta-regression, methods to control for publication bias, risk of bias assessments and plotting tools. Advanced, but highly relevant topics such as network meta-analysis, multi-/three-level meta-analyses, Bayesian meta-analysis approaches, SEM meta-analysis are also covered. A companion R package, dmetar, is introduced in the beginning of the guide. It contains data sets and several helper functions for the meta and metafor package used in the guide.
+
+The programming and statistical background covered in the book are kept at a non-expert level, making the book widely accessible.
+CY  - Boca Raton, FL and London
+DA  - 2021///
+PY  - 2021
+ET  - 1st
+PB  - Chapman & Hall/CRC Press
+SN  - 978-0-367-61007-4
+UR  - https://www.routledge.com/Doing-Meta-Analysis-with-R-A-Hands-On-Guide/Harrer-Cuijpers-Furukawa-Ebert/p/book/9780367610074
+ER  - 
+

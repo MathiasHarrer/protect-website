@@ -117,7 +117,7 @@
   
   <url>
     <loc>/en/vignettes/reshape-gemtc/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -132,7 +132,7 @@
   
   <url>
     <loc>/en/data-warehouse/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -147,7 +147,7 @@
   
   <url>
     <loc>/en/vignettes/</loc>
-    <lastmod>2021-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -5437,36 +5437,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/post/eysenck/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/privacy/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/terms/"
                 />
   </url>
   
