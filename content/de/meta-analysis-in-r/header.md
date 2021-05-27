@@ -4,7 +4,7 @@ headless = true
 active = true
 weight = 1  
 
-title = "Doing Meta-Analysis in R"
+title = "Doing Meta-Analysis with R"
 subtitle = ""
 
 [design]
