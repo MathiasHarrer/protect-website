@@ -1,0 +1,26 @@
+---
+title: "Mitarbeiter:innen zur Durchführung diagnostischer Interviews gesucht"
+subtitle: "Lehrstuhl für Psychologie und Digital Mental Health"
+author: "Technische Universität München"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    css: "style.css"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](tum.jpg)
+
+
+Der Lehrstuhl für Psychologie und Digital Mental Health der Technischen Universität München sucht ab sofort approbierte Psychotherapeut:innen zur Durchführung diagnostischer Interviews mit Jugendlichen und jungen Erwachsenen.
+
+Alle Details sind der [Stellenausschreibung](Ausschreibung_Praktikum_iBFC.pdf) zu entnehmen.
+
+
+<br></br>
+
+_Foto: Uli Benz/TUM_
