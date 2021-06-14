@@ -92,6 +92,111 @@
   </url>
   
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/christina-schulte-msc/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/author/christina-schulte-msc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/author/christina-schulte-msc/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tag/laufend/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tag/laufend/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tag/laufend/"
+                />
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>/project/star/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/project/star/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/project/star/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>/job/</loc>
     <lastmod>2021-06-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -368,36 +473,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="/author/ap-kassianos/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/authors/"
                 />
   </url>
   
@@ -2772,21 +2847,6 @@
   </url>
   
   <url>
-    <loc>/tag/laufend/</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tag/laufend/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tag/laufend/"
-                />
-  </url>
-  
-  <url>
     <loc>/author/marvin-franke-msc/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -2828,36 +2888,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="/project/paivina-care/"
-                />
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tags/"
                 />
   </url>
   
@@ -11530,20 +11560,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="/author/cb-muller/"
-                />
-  </url>
-  
-  <url>
-    <loc>/author/christina-schulte-msc/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/author/christina-schulte-msc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/author/christina-schulte-msc/"
                 />
   </url>
   
